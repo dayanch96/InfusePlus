@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-**Enhancer for Infuse iOS app.**
+Enhancer for Infuse iOS app.
 </p>
 
 ## Features
