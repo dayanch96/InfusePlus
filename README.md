@@ -8,13 +8,17 @@
 </p>
 
 <p align="center">
-Enhancer for Infuse iOS app.
+**Enhancer for Infuse iOS app.**
 </p>
 
 ## Features
 • Pro features
+
 • Double tap to Play/Pause gesture
+
 • Custom seek time for Seek Forward/Backward buttons
+
 • Custom double tap to skip time
 
-You can find Infuse Plus preferences in the Settings tab
+
+**You can find Infuse Plus preferences in the Settings tab**
