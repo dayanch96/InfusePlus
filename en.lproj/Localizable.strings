@@ -1,0 +1,29 @@
+"EnablePlus" = "Enable";
+
+"SettingsHeader" = "Settings";
+"ProFeatures" = "Enable Pro Features";
+"ProFeaturesDesc" = "Enables pro features not initially available without a subscription";
+"DoubleTapPause" = "Double Tap To Play/Pause";
+"DoubleTapPauseDesc" = "Enables double tap to play/pause gesture in the player";
+"ButtonSeekTime" = "Button seek time: %ld sec";
+"ButtonSeekTimeDesc" = "Enables custom seek time for backward and forward buttons";
+"DoubleTapSeekTime" = "Double tap seek time: %ld sec";
+"DoubleTapSeekTimeDesc" = "Enables custom double tap to seek time";
+
+"Apply" = "Apply changes";
+"Warning" = "Warning";
+"ApplyMessage" = "This action will close Infuse to apply changes. Are you sure?";
+"Yes" = "Yes";
+"Cancel" = "Cancel";
+
+"AboutHeader" = "About";
+"Dayanch96" = "Developer";
+"iApps" = "Our Telegram";
+"Donate" = "Donate";
+"DonateDesc" = "Buy me a coffee";
+"Github" = "Github page";
+"GithubDesc" = "Check for updates";
+
+"DonateMessage" = "If you like Infuse Plus and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
+"MaybeLater" = "Maybe later";
+"Copied" = "Copied to clipboard";

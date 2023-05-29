@@ -1,0 +1,29 @@
+"EnablePlus" = "啟用";
+
+"SettingsHeader" = "功能選項";
+"ProFeatures" = "啟用Pro功能";
+"ProFeaturesDesc" = "初始狀態下需要訂閱才能使用Pro功能";
+"DoubleTapPause" = "點兩下播放/暫停";
+"DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
+"ButtonSeekTime" = "按鈕快轉/倒轉時間: %ld 秒";
+"ButtonSeekTimeDesc" = "自訂按鈕快轉/倒轉時間";
+"DoubleTapSeekTime" = "點兩下快轉/倒轉時間: %ld 秒";
+"DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
+
+"Apply" = "套用變更";
+"Warning" = "警告";
+"ApplyMessage" = "這個操作將關閉 Infuse 以套用變更，您確定要繼續嗎？";
+"Yes" = "是";
+"Cancel" = "取消";
+
+"AboutHeader" = "關於";
+"Dayanch96" = "開發人員";
+"iApps" = "Telegram 群組";
+"Donate" = "贊助";
+"DonateDesc" = "請我喝杯咖啡";
+"Github" = "Github";
+"GithubDesc" = "檢查更新";
+
+"DonateMessage" = "如果您喜歡 Infuse Plus 並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
+"MaybeLater" = "再等一會兒吧";
+"Copied" = "已複製到剪貼簿";
