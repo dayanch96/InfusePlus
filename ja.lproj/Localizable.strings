@@ -1,0 +1,29 @@
+"EnablePlus" = "有効にする";
+
+"SettingsHeader" = "設定";
+"ProFeatures" = "Proの機能を有効化";
+"ProFeaturesDesc" = "サブスクリプションなしでは最初から使用できないProの機能を有効にします";
+"DoubleTapPause" = "ダブルタップで再生/一時停止";
+"DoubleTapPauseDesc" = "プレイヤーで、ダブルタップして再生/一時停止ジェスチャーを有効にします";
+"ButtonSeekTime" = "ボタンシーク時間: %ld 秒";
+"ButtonSeekTimeDesc" = "進む・戻るボタンのシーク時間をカスタマイズを有効にします";
+"DoubleTapSeekTime" = "ダブルタップシーク時間: %ld 秒";
+"DoubleTapSeekTimeDesc" = "カスタムダブルタップによるタイムシークを有効にします";
+
+"Apply" = "変更を適用";
+"Warning" = "警告";
+"ApplyMessage" = "この操作はInfuseを終了して変更を適用します。よろしいですか?";
+"Yes" = "はい";
+"Cancel" = "キャンセル";
+
+"AboutHeader" = "About";
+"Dayanch96" = "開発者";
+"iApps" = "私たちのTelegram";
+"Donate" = "寄付";
+"DonateDesc" = "ーヒーを買ってくれると嬉しいです";
+"Github" = "Githubページ";
+"GithubDesc" = "更新を確認する";
+
+"DonateMessage" = "Infuse Plusが気に入ってサポートしてくれる方、下記の方法でコーヒーをご購入いただければ幸いです \n\nThanks❤";
+"MaybeLater" = "後で";
+"Copied" = "クリップボードにコピーしました";
