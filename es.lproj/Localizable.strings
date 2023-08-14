@@ -1,0 +1,29 @@
+"EnablePlus" = "Habilitar";
+
+"SettingsHeader" = "Configuración";
+"ProFeatures" = "Habilitar funciones Pro";
+"ProFeaturesDesc" = "Habilita funciones profesionales que no están disponibles inicialmente sin una suscripción";
+"DoubleTapPause" = "Doble toque para Reproducir/Pausar";
+"DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
+"ButtonSeekTime" = "Tiempo de búsqueda del botón: %ld seg";
+"ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
+"DoubleTapSeekTime" = "Tiempo de búsqueda del doble toque: %ld seg";
+"DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
+
+"Apply" = "Aplicar cambios";
+"Warning" = "Advertencia";
+"ApplyMessage" = "Esta acción cerrará Infuse para aplicar los cambios. ¿Estás seguro?";
+"Yes" = "Sí";
+"Cancel" = "Cancelar";
+
+"AboutHeader" = "Acerca de";
+"Dayanch96" = "Desarrollador";
+"iApps" = "Nuestro Telegram";
+"Donate" = "Donar";
+"DonateDesc" = "Cómprame un café";
+"Github" = "Página de Github";
+"GithubDesc" = "Comprueba las actualizaciones";
+
+"DonateMessage" = "Si te gusta Infuse Plus y quieres apoyarme, puedes comprarme un café usando cualquiera de las formas convenientes a continuación.\n\n¡Gracias❤!";
+"MaybeLater" = "Quizás después";
+"Copied" = "Copiado al portapapeles";
