@@ -2,7 +2,7 @@
 
 "SettingsHeader" = "Configuración";
 "ProFeatures" = "Habilitar funciones Pro";
-"ProFeaturesDesc" = "Habilita funciones profesionales que no están disponibles inicialmente sin una suscripción";
+"ProFeaturesDesc" = "Habilita funciones que no están disponibles sin una suscripción";
 "DoubleTapPause" = "Doble toque para Reproducir/Pausar";
 "DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
 "ButtonSeekTime" = "Tiempo de búsqueda del botón: %ld seg";
