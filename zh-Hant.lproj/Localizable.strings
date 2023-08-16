@@ -3,8 +3,8 @@
 "SettingsHeader" = "功能選項";
 "ProFeatures" = "啟用Pro功能";
 "ProFeaturesDesc" = "初始狀態下需要訂閱才能使用Pro功能";
-"BackgroundPlayback" = "Background Playback";
-"BackgroundPlaybackDesc" = "Enforces background playback and prevents its disabling";
+"BackgroundPlayback" = "後台播放";
+"BackgroundPlaybackDesc" = "強制後台播放並防止其禁用";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "ButtonSeekTime" = "按鈕快轉/倒轉時間: %ld 秒";
@@ -31,8 +31,8 @@
 "Thanks" = "謝謝";
 
 "SpecialThanks" = "特別鳴謝";
-"Arabic" = "阿拉伯本地化";
+"Arabic" = "阿拉伯語本地化";
 "ChineseSimplified" = "簡體中文本地化";
 "ChineseTraditional" = "繁體中文本地化";
-"Japanese" = "日本本地化";
-"Spanish" = "西班牙本地化";
+"Japanese" = "日語本地化";
+"Spanish" = "西班牙語本地化";
