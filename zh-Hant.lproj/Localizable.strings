@@ -3,8 +3,8 @@
 "SettingsHeader" = "功能選項";
 "ProFeatures" = "啟用Pro功能";
 "ProFeaturesDesc" = "初始狀態下需要訂閱才能使用Pro功能";
-"BackgroundPlayback" = "後台播放";
-"BackgroundPlaybackDesc" = "強制後台播放並防止其禁用";
+"BackgroundPlayback" = "背景播放";
+"BackgroundPlaybackDesc" = "強制背景播放並防止停用";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "ButtonSeekTime" = "按鈕快轉/倒轉時間: %ld 秒";
