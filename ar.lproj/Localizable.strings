@@ -1,10 +1,12 @@
 "AboutHeader"="حول";
 "Apply"="تطبيق التغييرات";
 "ApplyMessage"="سيؤدي هذا الإجراء إلى إغلاق Infuse لتطبيق التغييرات. هل أنت متأكد؟";
+"BackgroundPlayback" = "تشغيل في الخلفية";
+"BackgroundPlaybackDesc" = "يفرض تشغيل الصوت في الخلفية ويمنع تعطيله";
 "ButtonSeekTime"="زر تغيير الوقت: %ld ث";
 "ButtonSeekTimeDesc"="تفعيل تخصيص تغيير الوقت لأزرار التقديم والتأخير.";
 "Cancel"="إلغاء";
-"Copied"="تم النسخ إلى الحافظة";
+"Thanks"="شكرًا";
 "Dayanch96"="المطور";
 "Donate"="التبرع";
 "DonateDesc"="اشترِ لي كوب قهوة";
@@ -23,3 +25,10 @@
 "Warning"="تحذير";
 "Yes"="نعم";
 "iApps"="تيليجرام الخاص بنا";
+
+"SpecialThanks" = "شكر خاص";
+"Arabic" = "ترجمة عربية";
+"ChineseSimplified" = "ترجمة صينية مبسطة";
+"ChineseTraditional" = "ترجمة صينية تقليدية";
+"Japanese" = "ترجمة يابانية";
+"Spanish" = "ترجمة إسبانية";

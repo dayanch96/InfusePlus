@@ -1,25 +1,38 @@
-"AboutHeader"="关于";
-"Apply"="应用更改";
-"ApplyMessage"="此操作将关闭Infuse来应用生效，你确定吗？";
-"ButtonSeekTime"="按钮跳过时间: %ld 秒";
-"ButtonSeekTimeDesc"="启用自定义快进\/快退按钮跳过时间";
-"Cancel"="取消";
-"Copied"="复制到剪贴板";
-"Dayanch96"="开发者";
-"Donate"="捐赠";
-"DonateDesc"="买一杯咖啡";
-"DonateMessage"="如果您喜欢Infuse Plus并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
-"DoubleTapPause"="双击播放\/暂停";
-"DoubleTapPauseDesc"="启用在播放器中的双击播放\/暂停手势";
-"DoubleTapSeekTime"="双击跳过时间: %ld 秒";
-"DoubleTapSeekTimeDesc"="启用自定义双击快进\/快退跳过时间";
-"EnablePlus"="启用插件功能";
-"Github"="Github页面";
-"GithubDesc"="检查更新";
-"MaybeLater"="也许以后";
-"ProFeatures"="启用专业版功能";
-"ProFeaturesDesc"="启用在没有订阅的情况下不可用的专业功能";
-"SettingsHeader"="设置";
-"Warning"="警告";
-"Yes"="是";
-"iApps"="我们的TG频道";
+"EnablePlus" = "启用插件功能";
+
+"SettingsHeader" = "设置";
+"ProFeatures" = "启用专业版功能";
+"ProFeaturesDesc" = "启用在没有订阅的情况下不可用的专业功能";
+"BackgroundPlayback" = "Background Playback";
+"BackgroundPlaybackDesc" = "Enforces background playback and prevents its disabling";
+"DoubleTapPause" = "双击播放\/暂停";
+"DoubleTapPauseDesc" = "启用在播放器中的双击播放\/暂停手势";
+"ButtonSeekTime" = "按钮跳过时间: %ld 秒";
+"ButtonSeekTimeDesc" = "启用自定义快进\/快退按钮跳过时间";
+"DoubleTapSeekTime" = "双击跳过时间: %ld 秒";
+"DoubleTapSeekTimeDesc" = "启用自定义双击快进\/快退跳过时间";
+
+"Apply" = "应用更改";
+"Warning" = "警告";
+"ApplyMessage" = "此操作将关闭Infuse来应用生效，你确定吗？";
+"Yes" = "是";
+"Cancel" = "取消";
+
+"AboutHeader" = "关于";
+"Dayanch96" = "开发者";
+"iApps" = "我们的TG频道";
+"Donate" = "捐赠";
+"DonateDesc" = "买一杯咖啡";
+"Github" = "Github页面";
+"GithubDesc" = "检查更新";
+
+"DonateMessage" = "如果您喜欢Infuse Plus并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
+"MaybeLater" = "也许以后";
+"Thanks" = "谢谢";
+
+"SpecialThanks" = "特别鸣谢";
+"Arabic" = "阿拉伯本地化";
+"ChineseSimplified" = "简体中文本地化";
+"ChineseTraditional" = "繁体中文本地化";
+"Japanese" = "日本本地化";
+"Spanish" = "西班牙本地化";

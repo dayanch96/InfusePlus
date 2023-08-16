@@ -3,6 +3,8 @@
 "SettingsHeader" = "Settings";
 "ProFeatures" = "Enable Pro Features";
 "ProFeaturesDesc" = "Enables pro features not initially available without a subscription";
+"BackgroundPlayback" = "Background Playback";
+"BackgroundPlaybackDesc" = "Enforces background playback and prevents its disabling";
 "DoubleTapPause" = "Double Tap To Play/Pause";
 "DoubleTapPauseDesc" = "Enables double tap to play/pause gesture in the player";
 "ButtonSeekTime" = "Button seek time: %ld sec";
@@ -26,4 +28,11 @@
 
 "DonateMessage" = "If you like Infuse Plus and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
 "MaybeLater" = "Maybe later";
-"Copied" = "Copied to clipboard";
+"Thanks" = "Thanks";
+
+"SpecialThanks" = "Special Thanks";
+"Arabic" = "Arabic localization";
+"ChineseSimplified" = "Chinese, Simplified localization";
+"ChineseTraditional" = "Chinese, Traditional localization";
+"Japanese" = "Japanese localization";
+"Spanish" = "Spanish localization";

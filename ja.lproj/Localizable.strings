@@ -3,6 +3,8 @@
 "SettingsHeader" = "設定";
 "ProFeatures" = "Proの機能を有効化";
 "ProFeaturesDesc" = "サブスクリプションなしでは最初から使用できないProの機能を有効にします";
+"BackgroundPlayback" = "バックグラウンド再生";
+"BackgroundPlaybackDesc" = "バックグラウンド再生を強制し、無効化を防止します";
 "DoubleTapPause" = "ダブルタップで再生/一時停止";
 "DoubleTapPauseDesc" = "プレイヤーで、ダブルタップして再生/一時停止ジェスチャーを有効にします";
 "ButtonSeekTime" = "ボタンシーク時間: %ld 秒";
@@ -26,4 +28,11 @@
 
 "DonateMessage" = "Infuse Plusが気に入ってサポートしてくれる方、下記の方法でコーヒーをご購入いただければ幸いです \n\nThanks❤";
 "MaybeLater" = "後で";
-"Copied" = "クリップボードにコピーしました";
+"Thanks" = "ありがとう";
+
+"SpecialThanks" = "特別なお礼";
+"Arabic" = "アラビア語ローカライズ";
+"ChineseSimplified" = "簡体字中国語ローカライズ";
+"ChineseTraditional" = "繁体字中国語ローカライズ";
+"Japanese" = "日本語ローカライズ";
+"Spanish" = "スペイン語ローカライズ";
