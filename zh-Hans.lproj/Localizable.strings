@@ -11,6 +11,15 @@
 "ButtonSeekTimeDesc" = "启用自定义快进\/快退按钮跳过时间";
 "DoubleTapSeekTime" = "双击跳过时间: %ld 秒";
 "DoubleTapSeekTimeDesc" = "启用自定义双击快进\/快退跳过时间";
+"ChangePosterTitle" = "Set Title and Poster";
+"ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
+"MovieTitle" = "Title";
+"EnterTitle" = "Enter text";
+"MoviePoster" = "Poster";
+"SelectPoster" = "Select Image";
+"PosterSelected" = "Poster set";
+"PosterDeleted" = "Poster deleted";
+"PosterTitleFooter" = "Leave the title empty to apply only the poster image";
 
 "Apply" = "应用更改";
 "Warning" = "警告";

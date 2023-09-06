@@ -11,6 +11,15 @@
 "ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
 "DoubleTapSeekTime" = "Tiempo de búsqueda del doble toque: %ld seg";
 "DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
+"ChangePosterTitle" = "Set Title and Poster";
+"ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
+"MovieTitle" = "Title";
+"EnterTitle" = "Enter text";
+"MoviePoster" = "Poster";
+"SelectPoster" = "Select Image";
+"PosterSelected" = "Poster set";
+"PosterDeleted" = "Poster deleted";
+"PosterTitleFooter" = "Leave the title empty to apply only the poster image";
 
 "Apply" = "Aplicar cambios";
 "Warning" = "Advertencia";
