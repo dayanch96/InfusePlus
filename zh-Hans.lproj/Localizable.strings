@@ -11,15 +11,15 @@
 "ButtonSeekTimeDesc" = "启用自定义快进\/快退按钮跳过时间";
 "DoubleTapSeekTime" = "双击跳过时间: %ld 秒";
 "DoubleTapSeekTimeDesc" = "启用自定义双击快进\/快退跳过时间";
-"ChangePosterTitle" = "Set Title and Poster";
-"ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
-"MovieTitle" = "Title";
-"EnterTitle" = "Enter text";
-"MoviePoster" = "Poster";
-"SelectPoster" = "Select Image";
-"PosterSelected" = "Poster set";
-"PosterDeleted" = "Poster deleted";
-"PosterTitleFooter" = "Leave the title empty to apply only the poster image";
+"ChangePosterTitle" = "设置标题和海报";
+"ChangePosterTitleDesc" = "替换通知和控制中心中显示的播放器标题和海报";
+"MovieTitle" = "标题";
+"EnterTitle" = "输入文本";
+"MoviePoster" = "海报";
+"SelectPoster" = "选择图片";
+"PosterSelected" = "海报已设置";
+"PosterDeleted" = "海报已删除";
+"PosterTitleFooter" = "保留标题为空仅应用海报图片";
 
 "Apply" = "应用更改";
 "Warning" = "警告";
