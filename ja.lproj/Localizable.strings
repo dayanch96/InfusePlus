@@ -11,15 +11,15 @@
 "ButtonSeekTimeDesc" = "進む・戻るボタンのシーク時間をカスタマイズを有効にします";
 "DoubleTapSeekTime" = "ダブルタップシーク時間: %ld 秒";
 "DoubleTapSeekTimeDesc" = "カスタムダブルタップによるタイムシークを有効にします";
-"ChangePosterTitle" = "Set Title and Poster";
-"ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
-"MovieTitle" = "Title";
-"EnterTitle" = "Enter text";
-"MoviePoster" = "Poster";
-"SelectPoster" = "Select Image";
-"PosterSelected" = "Poster set";
-"PosterDeleted" = "Poster deleted";
-"PosterTitleFooter" = "Leave the title empty to apply only the poster image";
+"ChangePosterTitle" = "タイトルとポスターを設定します";
+"ChangePosterTitleDesc" = "通知とコントロールセンターに表示されるプレーヤーのタイトルとポスターを置き換えます";
+"MovieTitle" = "タイトル";
+"EnterTitle" = "テキストを入力";
+"MoviePoster" = "ポスター";
+"SelectPoster" = "画像を選択";
+"PosterSelected" = "ポスターを設置";
+"PosterDeleted" = "ポスターを削除";
+"PosterTitleFooter" = "ポスターの画像のみを適用する場合は、タイトルを空にします";
 
 "Apply" = "変更を適用";
 "Warning" = "警告";
