@@ -14,11 +14,15 @@ Enhancer for Infuse iOS app.
 ## Features
 • Pro features
 
+• Force background playab
+
 • Double tap to Play/Pause gesture
 
 • Custom seek time for Seek Forward/Backward buttons
 
 • Custom double tap to skip time
+
+• Customize poster and name in notification center
 
 
 **You can find Infuse Plus preferences in the Settings tab**
