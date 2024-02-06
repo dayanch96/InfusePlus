@@ -11,8 +11,8 @@
 "ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
 "DoubleTapSeekTime" = "Tiempo de búsqueda del doble toque: %ld seg";
 "DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
+"PlaybackSpeedDesc" = "Añade un submenú de velocidad de reproducción al menú de ajustes de reproducción";
+"VolumeBoostDesc" = "Añade un submenú de aumento de volumen al menú de ajustes de reproducción";
 "ChangePosterTitle" = "Título y cartel";
 "ChangePosterTitleDesc" = "Sustituye el título y el póster del reproductor que se muestran en el centro de notificaciones y control";
 "MovieTitle" = "Título";
@@ -23,7 +23,7 @@
 "PosterDeleted" = "Póster eliminado";
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
 
-"StartupPage" = "Startup Page";
+"StartupPage" = "Página de inicio";
 
 "Apply" = "Aplicar cambios";
 "Warning" = "Advertencia";
@@ -51,8 +51,8 @@
 "Japanese" = "Traducción al Japonés";
 "Spanish" = "Traducción al Español";
 
-"NotifyUpdates" = "Notify updates";
-"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
-"NewUpdate" = "New update available";
-"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
-"Update" = "Yes, update";
+"NotifyUpdates" = "Notificar actualizaciones";
+"NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
+"NewUpdate" = "Nueva actualización disponible";
+"UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
+"Update" = "Sí, actualizar";
