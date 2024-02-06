@@ -11,8 +11,8 @@
 "ButtonSeekTimeDesc" = "自訂按鈕快轉/倒轉時間";
 "DoubleTapSeekTime" = "點兩下快轉/倒轉時間: %ld 秒";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
+"PlaybackSpeedDesc" = "新增播放速度選項至播放器設定中";
+"VolumeBoostDesc" = "新增音量增強選項至播放器設定中";
 "ChangePosterTitle" = "標題和封面";
 "ChangePosterTitleDesc" = "更換通知和控制中心中顯示的播放器標題和封面";
 "MovieTitle" = "標題";
@@ -23,7 +23,7 @@
 "PosterDeleted" = "封面已刪除";
 "PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
 
-"StartupPage" = "Startup Page";
+"StartupPage" = "起始頁面";
 
 "Apply" = "套用變更";
 "Warning" = "警告";
@@ -32,7 +32,7 @@
 "Cancel" = "取消";
 
 "AboutHeader" = "關於";
-"Dayanch96" = "開發人員";
+"Dayanch96" = "開發者";
 "iApps" = "Telegram 群組";
 "Donate" = "贊助";
 "DonateDesc" = "請我喝杯咖啡";
@@ -51,8 +51,8 @@
 "Japanese" = "日語本地化";
 "Spanish" = "西班牙語本地化";
 
-"NotifyUpdates" = "Notify updates";
-"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
-"NewUpdate" = "New update available";
-"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
-"Update" = "Yes, update";
+"NotifyUpdates" = "更新通知";
+"NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
+"NewUpdate" = "有新版本可用";
+"UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
+"Update" = "好,更新";
