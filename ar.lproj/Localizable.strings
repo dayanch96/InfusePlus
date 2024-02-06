@@ -11,15 +11,19 @@
 "ButtonSeekTimeDesc" = "تفعيل تخصيص تغيير الوقت لأزرار التقديم والتأخير.";
 "DoubleTapSeekTime" = "النقر مرتين لتغيير الوقت: %ld ث";
 "DoubleTapSeekTimeDesc" = "تفعيل النقر مرتين لوقت التغيير المخصص.";
-"ChangePosterTitle" = "Set Title and Poster";
-"ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
-"MovieTitle" = "Title";
-"EnterTitle" = "Enter text";
-"MoviePoster" = "Poster";
-"SelectPoster" = "Select Image";
-"PosterSelected" = "Poster set";
-"PosterDeleted" = "Poster deleted";
-"PosterTitleFooter" = "Leave the title empty to apply only the poster image";
+"PlaybackSpeedDesc" = "يضيف قائمة فرعية لسرعة التشغيل إلى قائمة إعدادات التشغيل";
+"VolumeBoostDesc" = "يضيف قائمة فرعية لتعزيز مستوى الصوت إلى قائمة إعدادات التشغيل";
+"ChangePosterTitle" = "تعيين العنوان والملصق";
+"ChangePosterTitleDesc" = "يستبدل العنوان والملصق للمشغل الذي يتم عرضه في الإشعار ومركز التحكم";
+"MovieTitle" = "العنوان";
+"EnterTitle" = "أدخل النص";
+"MoviePoster" = "الملصق";
+"SelectPoster" = "حدد الصورة";
+"PosterSelected" = "تم تعيين الملصق";
+"PosterDeleted" = "تم حذف الملصق";
+"PosterTitleFooter" = "اترك العنوان فارغًا لتطبيق الصورة فقط";
+
+"StartupPage" = "صفحة البداية";
 
 "Apply" = "تطبيق التغييرات";
 "Warning" = "تحذير";
@@ -37,6 +41,7 @@
 
 "DonateMessage" = "إذا كنت تحب Infuse Plus وترغب في دعمي، يمكنك شراء كوب قهوة لي باستخدام أي من الطرق المناسبة معك والموجودة أدناه.\n\nشكرًا❤️";
 "MaybeLater" = "ربما لاحقًا";
+"Copied" = "تم نسخه إلى الحافظة";
 "Thanks" = "شكرًا";
 
 "SpecialThanks" = "شكر خاص";
@@ -45,3 +50,9 @@
 "ChineseTraditional" = "ترجمة صينية تقليدية";
 "Japanese" = "ترجمة يابانية";
 "Spanish" = "ترجمة إسبانية";
+
+"NotifyUpdates" = "إشعار التحديثات";
+"NotifyUpdatesDesc" = "يعرض تنبيهًا إذا كان هناك نسخة جديدة من الإضافة متوفرة";
+"NewUpdate" = "تحديث جديد متاح";
+"UpdateMessage" = "الإصدار الجديد %@ متاح الآن.\n\nهل ترغب في زيارة صفحة الإصدار؟";
+"Update" = "نعم، قم بالتحديث";

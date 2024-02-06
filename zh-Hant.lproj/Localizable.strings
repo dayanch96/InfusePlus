@@ -11,6 +11,8 @@
 "ButtonSeekTimeDesc" = "自訂按鈕快轉/倒轉時間";
 "DoubleTapSeekTime" = "點兩下快轉/倒轉時間: %ld 秒";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
 "ChangePosterTitle" = "標題和封面";
 "ChangePosterTitleDesc" = "更換通知和控制中心中顯示的播放器標題和封面";
 "MovieTitle" = "標題";
@@ -20,6 +22,8 @@
 "PosterSelected" = "封面已設定";
 "PosterDeleted" = "封面已刪除";
 "PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
+
+"StartupPage" = "Startup Page";
 
 "Apply" = "套用變更";
 "Warning" = "警告";
@@ -37,6 +41,7 @@
 
 "DonateMessage" = "如果您喜歡 Infuse Plus 並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
 "MaybeLater" = "再等一會兒吧";
+"Copied" = "已複製到剪貼板";
 "Thanks" = "謝謝";
 
 "SpecialThanks" = "特別鳴謝";
@@ -45,3 +50,9 @@
 "ChineseTraditional" = "繁體中文本地化";
 "Japanese" = "日語本地化";
 "Spanish" = "西班牙語本地化";
+
+"NotifyUpdates" = "Notify updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"NewUpdate" = "New update available";
+"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
+"Update" = "Yes, update";

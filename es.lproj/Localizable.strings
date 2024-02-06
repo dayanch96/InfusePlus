@@ -11,6 +11,8 @@
 "ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
 "DoubleTapSeekTime" = "Tiempo de búsqueda del doble toque: %ld seg";
 "DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
 "ChangePosterTitle" = "Título y cartel";
 "ChangePosterTitleDesc" = "Sustituye el título y el póster del reproductor que se muestran en el centro de notificaciones y control";
 "MovieTitle" = "Título";
@@ -20,6 +22,8 @@
 "PosterSelected" = "Póster seleccionado";
 "PosterDeleted" = "Póster eliminado";
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
+
+"StartupPage" = "Startup Page";
 
 "Apply" = "Aplicar cambios";
 "Warning" = "Advertencia";
@@ -37,6 +41,7 @@
 
 "DonateMessage" = "Si te gusta Infuse Plus y quieres apoyarme, puedes comprarme un café usando cualquiera de las formas convenientes a continuación.\n\n¡Gracias❤!";
 "MaybeLater" = "Quizás después";
+"Copied" = "Copiado al portapapeles";
 "Thanks" = "Gracias";
 
 "SpecialThanks" = "Agradecimientos especiales";
@@ -45,3 +50,9 @@
 "ChineseTraditional" = "Traducción al Chino Tradicional";
 "Japanese" = "Traducción al Japonés";
 "Spanish" = "Traducción al Español";
+
+"NotifyUpdates" = "Notify updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"NewUpdate" = "New update available";
+"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
+"Update" = "Yes, update";

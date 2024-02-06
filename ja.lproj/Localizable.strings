@@ -11,6 +11,8 @@
 "ButtonSeekTimeDesc" = "進む・戻るボタンのシーク時間をカスタマイズを有効にします";
 "DoubleTapSeekTime" = "ダブルタップシーク時間: %ld 秒";
 "DoubleTapSeekTimeDesc" = "カスタムダブルタップによるタイムシークを有効にします";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
 "ChangePosterTitle" = "タイトルとポスターを設定します";
 "ChangePosterTitleDesc" = "通知とコントロールセンターに表示されるプレーヤーのタイトルとポスターを置き換えます";
 "MovieTitle" = "タイトル";
@@ -21,13 +23,15 @@
 "PosterDeleted" = "ポスターを削除";
 "PosterTitleFooter" = "ポスターの画像のみを適用する場合は、タイトルを空にします";
 
+"StartupPage" = "Startup Page";
+
 "Apply" = "変更を適用";
 "Warning" = "警告";
 "ApplyMessage" = "この操作はInfuseを終了して変更を適用します。よろしいですか?";
 "Yes" = "はい";
 "Cancel" = "キャンセル";
 
-"AboutHeader" = "About";
+"AboutHeader" = "開発者Infuse Plus";
 "Dayanch96" = "開発者";
 "iApps" = "私たちのTelegram";
 "Donate" = "寄付";
@@ -35,8 +39,9 @@
 "Github" = "Githubページ";
 "GithubDesc" = "更新を確認する";
 
-"DonateMessage" = "Infuse Plusが気に入ってサポートしてくれる方、下記の方法でコーヒーをご購入いただければ幸いです \n\nThanks❤";
+"DonateMessage" = "Infuse Plusが気に入ってサポートしてくれる方、下記の方法でコーヒーをご購入いただければ幸いです \n\nありがとう❤";
 "MaybeLater" = "後で";
+"Copied" = "クリップボードにコピーされました";
 "Thanks" = "ありがとう";
 
 "SpecialThanks" = "特別なお礼";
@@ -45,3 +50,9 @@
 "ChineseTraditional" = "繁体字中国語ローカライズ";
 "Japanese" = "日本語ローカライズ";
 "Spanish" = "スペイン語ローカライズ";
+
+"NotifyUpdates" = "Notify updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"NewUpdate" = "New update available";
+"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
+"Update" = "Yes, update";
