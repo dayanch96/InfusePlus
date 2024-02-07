@@ -1,10 +1,12 @@
 "EnablePlus" = "Habilitar";
 
-"SettingsHeader" = "Configuración";
+"PremiumSettings" = "Premium";
 "ProFeatures" = "Habilitar funciones Pro";
 "ProFeaturesDesc" = "Habilita funciones que no están disponibles sin una suscripción";
 "BackgroundPlayback" = "Reproducción en segundo plano";
 "BackgroundPlaybackDesc" = "Forza la reproducción en segundo plano y evita su desactivación";
+
+"PlayerSettings" = "Player";
 "DoubleTapPause" = "Doble toque para Reproducir/Pausar";
 "DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
 "ButtonSeekTime" = "Tiempo de búsqueda del botón: %ld seg";
@@ -13,6 +15,17 @@
 "DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
 "PlaybackSpeedDesc" = "Añade un submenú de velocidad de reproducción al menú de ajustes de reproducción";
 "VolumeBoostDesc" = "Añade un submenú de aumento de volumen al menú de ajustes de reproducción";
+"SkipByLongTap" = "Skip Using Long Press";
+"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"FlexibleTimer" = "Flexible Timer";
+"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
+"24hrFormat" = "24-hour Format";
+"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"OtherSettings" = "Other";
+"MRNowPlayingHeader" = "Now Playing Player";
+"StartupPageHeader" = "Página de inicio";
+"UpdateHeader" = "Infuse Plus Update";
 "ChangePosterTitle" = "Título y cartel";
 "ChangePosterTitleDesc" = "Sustituye el título y el póster del reproductor que se muestran en el centro de notificaciones y control";
 "MovieTitle" = "Título";
@@ -22,8 +35,11 @@
 "PosterSelected" = "Póster seleccionado";
 "PosterDeleted" = "Póster eliminado";
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
-
-"StartupPage" = "Página de inicio";
+"NotifyUpdates" = "Notificar actualizaciones";
+"NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
+"NewUpdate" = "Nueva actualización disponible";
+"UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
+"Update" = "Sí, actualizar";
 
 "Apply" = "Aplicar cambios";
 "Warning" = "Advertencia";
@@ -50,9 +66,3 @@
 "ChineseTraditional" = "Traducción al Chino Tradicional";
 "Japanese" = "Traducción al Japonés";
 "Spanish" = "Traducción al Español";
-
-"NotifyUpdates" = "Notificar actualizaciones";
-"NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
-"NewUpdate" = "Nueva actualización disponible";
-"UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
-"Update" = "Sí, actualizar";

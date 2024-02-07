@@ -1,10 +1,12 @@
 "EnablePlus" = "有効にする";
 
-"SettingsHeader" = "設定";
+"PremiumSettings" = "Premium";
 "ProFeatures" = "Proの機能を有効化";
 "ProFeaturesDesc" = "サブスクリプションなしでは最初から使用できないProの機能を有効にします";
 "BackgroundPlayback" = "バックグラウンド再生";
 "BackgroundPlaybackDesc" = "バックグラウンド再生を強制し、無効化を防止します";
+
+"PlayerSettings" = "Player";
 "DoubleTapPause" = "ダブルタップで再生/一時停止";
 "DoubleTapPauseDesc" = "プレイヤーで、ダブルタップして再生/一時停止ジェスチャーを有効にします";
 "ButtonSeekTime" = "ボタンシーク時間: %ld 秒";
@@ -13,6 +15,17 @@
 "DoubleTapSeekTimeDesc" = "カスタムダブルタップによるタイムシークを有効にします";
 "PlaybackSpeedDesc" = "再生設定メニューに再生速度サブメニューを追加します";
 "VolumeBoostDesc" = "再生設定メニューに音量増大のサブメニューを追加します";
+"SkipByLongTap" = "Skip Using Long Press";
+"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"FlexibleTimer" = "Flexible Timer";
+"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
+"24hrFormat" = "24-hour Format";
+"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"OtherSettings" = "Other";
+"MRNowPlayingHeader" = "Now Playing Player";
+"StartupPageHeader" = "スタートアップページ";
+"UpdateHeader" = "Infuse Plus Update";
 "ChangePosterTitle" = "タイトルとポスターを設定します";
 "ChangePosterTitleDesc" = "通知とコントロールセンターに表示されるプレーヤーのタイトルとポスターを置き換えます";
 "MovieTitle" = "タイトル";
@@ -22,8 +35,11 @@
 "PosterSelected" = "ポスターを設置";
 "PosterDeleted" = "ポスターを削除";
 "PosterTitleFooter" = "ポスターの画像のみを適用する場合は、タイトルを空にします";
-
-"StartupPage" = "スタートアップページ";
+"NotifyUpdates" = "更新を通知する";
+"NotifyUpdatesDesc" = "Tweakの新しいバージョンが利用可能な場合にアラートを表示します";
+"NewUpdate" = "新しいアップデートがあります";
+"UpdateMessage" = "新しいバージョン %@ が利用可能になりました。\n\nリリースページにアクセスしますか？";
+"Update" = "はい、更新します";
 
 "Apply" = "変更を適用";
 "Warning" = "警告";
@@ -50,9 +66,3 @@
 "ChineseTraditional" = "繁体字中国語ローカライズ";
 "Japanese" = "日本語ローカライズ";
 "Spanish" = "スペイン語ローカライズ";
-
-"NotifyUpdates" = "更新を通知する";
-"NotifyUpdatesDesc" = "Tweakの新しいバージョンが利用可能な場合にアラートを表示します";
-"NewUpdate" = "新しいアップデートがあります";
-"UpdateMessage" = "新しいバージョン %@ が利用可能になりました。\n\nリリースページにアクセスしますか？";
-"Update" = "はい、更新します";

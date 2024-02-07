@@ -1,10 +1,12 @@
 "EnablePlus" = "Enable";
 
-"SettingsHeader" = "Settings";
+"PremiumSettings" = "Premium";
 "ProFeatures" = "Enable Pro Features";
 "ProFeaturesDesc" = "Enables pro features not initially available without a subscription";
 "BackgroundPlayback" = "Background Playback";
 "BackgroundPlaybackDesc" = "Enforces background playback and prevents its disabling";
+
+"PlayerSettings" = "Player";
 "DoubleTapPause" = "Double Tap To Play/Pause";
 "DoubleTapPauseDesc" = "Enables double tap to play/pause gesture in the player";
 "ButtonSeekTime" = "Button seek time: %ld sec";
@@ -13,6 +15,17 @@
 "DoubleTapSeekTimeDesc" = "Enables custom double tap to seek time";
 "PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
 "VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
+"SkipByLongTap" = "Skip Using Long Press";
+"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"FlexibleTimer" = "Flexible Timer";
+"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
+"24hrFormat" = "24-hour Format";
+"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"OtherSettings" = "Other";
+"MRNowPlayingHeader" = "Now Playing Player";
+"StartupPageHeader" = "Startup Page";
+"UpdateHeader" = "Infuse Plus Update";
 "ChangePosterTitle" = "Set Title and Poster";
 "ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
 "MovieTitle" = "Title";
@@ -22,8 +35,11 @@
 "PosterSelected" = "Poster set";
 "PosterDeleted" = "Poster deleted";
 "PosterTitleFooter" = "Leave the title empty to apply only the poster image";
-
-"StartupPage" = "Startup Page";
+"NotifyUpdates" = "Notify updates";
+"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"NewUpdate" = "New update available";
+"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
+"Update" = "Yes, update";
 
 "Apply" = "Apply changes";
 "Warning" = "Warning";
@@ -50,9 +66,3 @@
 "ChineseTraditional" = "Chinese, Traditional localization";
 "Japanese" = "Japanese localization";
 "Spanish" = "Spanish localization";
-
-"NotifyUpdates" = "Notify updates";
-"NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
-"NewUpdate" = "New update available";
-"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
-"Update" = "Yes, update";

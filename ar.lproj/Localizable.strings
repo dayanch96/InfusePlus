@@ -1,10 +1,12 @@
 "EnablePlus" = "تفعيل";
 
-"SettingsHeader" = "الإعدادات";
+"PremiumSettings" = "مميز";
 "ProFeatures" = "تفعيل مميزات الـ Pro";
 "ProFeaturesDesc" = "تفعيل مميزات الـ Pro التي تتطلب اشتراك.";
 "BackgroundPlayback" = "تشغيل في الخلفية";
 "BackgroundPlaybackDesc" = "يفرض تشغيل الصوت في الخلفية ويمنع تعطيله";
+
+"PlayerSettings" = "مشغل";
 "DoubleTapPause" = "النقر مرتين لـ التشغيل/الإيقاف المؤقت";
 "DoubleTapPauseDesc" = "النقر مرتين لتفعيل إيماءة التشغيل/الإيقاف المؤقت في المشغل.";
 "ButtonSeekTime" = "زر تغيير الوقت: %ld ث";
@@ -13,6 +15,17 @@
 "DoubleTapSeekTimeDesc" = "تفعيل النقر مرتين لوقت التغيير المخصص.";
 "PlaybackSpeedDesc" = "يضيف قائمة فرعية لسرعة التشغيل إلى قائمة إعدادات التشغيل";
 "VolumeBoostDesc" = "يضيف قائمة فرعية لتعزيز مستوى الصوت إلى قائمة إعدادات التشغيل";
+"SkipByLongTap" = "تخطي باستخدام الضغط الطويل";
+"SkipByLongTapDesc" = "الضغط الطويل على أزرار الإرجاع السريع ينتقل إلى الفيديو التالي/السابق";
+"FlexibleTimer" = "مؤقت مرن";
+"FlexibleTimerDesc" = "يوفر القدرة على التبديل بين عرض الوقت المتبقي للتشغيل والمدة الإجمالية ووقت نهاية التشغيل بالنقر على الوقت المتبقي";
+"24hrFormat" = "تنسيق 24 ساعة";
+"24hrFormatDesc" = "يعرض وقت نهاية التشغيل بتنسيق 24 ساعة";
+
+"OtherSettings" = "الإعدادات الأخرى";
+"MRNowPlayingHeader" = "مشغل التشغيل الآن";
+"StartupPageHeader" = "صفحة البداية";
+"UpdateHeader" = "تحديث Infuse Plus";
 "ChangePosterTitle" = "تعيين العنوان والملصق";
 "ChangePosterTitleDesc" = "يستبدل العنوان والملصق للمشغل الذي يتم عرضه في الإشعار ومركز التحكم";
 "MovieTitle" = "العنوان";
@@ -22,8 +35,11 @@
 "PosterSelected" = "تم تعيين الملصق";
 "PosterDeleted" = "تم حذف الملصق";
 "PosterTitleFooter" = "اترك العنوان فارغًا لتطبيق الصورة فقط";
-
-"StartupPage" = "صفحة البداية";
+"NotifyUpdates" = "إشعار التحديثات";
+"NotifyUpdatesDesc" = "يعرض تنبيهًا إذا كان هناك نسخة جديدة من الإضافة متوفرة";
+"NewUpdate" = "تحديث جديد متاح";
+"UpdateMessage" = "الإصدار الجديد %@ متاح الآن.\n\nهل ترغب في زيارة صفحة الإصدار؟";
+"Update" = "نعم، قم بالتحديث";
 
 "Apply" = "تطبيق التغييرات";
 "Warning" = "تحذير";
@@ -50,9 +66,3 @@
 "ChineseTraditional" = "ترجمة صينية تقليدية";
 "Japanese" = "ترجمة يابانية";
 "Spanish" = "ترجمة إسبانية";
-
-"NotifyUpdates" = "إشعار التحديثات";
-"NotifyUpdatesDesc" = "يعرض تنبيهًا إذا كان هناك نسخة جديدة من الإضافة متوفرة";
-"NewUpdate" = "تحديث جديد متاح";
-"UpdateMessage" = "الإصدار الجديد %@ متاح الآن.\n\nهل ترغب في زيارة صفحة الإصدار؟";
-"Update" = "نعم، قم بالتحديث";

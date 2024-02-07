@@ -1,10 +1,12 @@
 "EnablePlus" = "啟用";
 
-"SettingsHeader" = "功能選項";
+"PremiumSettings" = "Premium";
 "ProFeatures" = "啟用Pro功能";
 "ProFeaturesDesc" = "初始狀態下需要訂閱才能使用Pro功能";
 "BackgroundPlayback" = "背景播放";
 "BackgroundPlaybackDesc" = "強制背景播放並防止停用";
+
+"PlayerSettings" = "Player";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "ButtonSeekTime" = "按鈕快轉/倒轉時間: %ld 秒";
@@ -13,6 +15,17 @@
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
 "PlaybackSpeedDesc" = "新增播放速度選項至播放器設定中";
 "VolumeBoostDesc" = "新增音量增強選項至播放器設定中";
+"SkipByLongTap" = "Skip Using Long Press";
+"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"FlexibleTimer" = "Flexible Timer";
+"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
+"24hrFormat" = "24-hour Format";
+"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"OtherSettings" = "Other";
+"MRNowPlayingHeader" = "Now Playing Player";
+"StartupPageHeader" = "起始頁面";
+"UpdateHeader" = "Infuse Plus Update";
 "ChangePosterTitle" = "標題和封面";
 "ChangePosterTitleDesc" = "更換通知和控制中心中顯示的播放器標題和封面";
 "MovieTitle" = "標題";
@@ -22,8 +35,11 @@
 "PosterSelected" = "封面已設定";
 "PosterDeleted" = "封面已刪除";
 "PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
-
-"StartupPage" = "起始頁面";
+"NotifyUpdates" = "更新通知";
+"NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
+"NewUpdate" = "有新版本可用";
+"UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
+"Update" = "好,更新";
 
 "Apply" = "套用變更";
 "Warning" = "警告";
@@ -50,9 +66,3 @@
 "ChineseTraditional" = "繁體中文本地化";
 "Japanese" = "日語本地化";
 "Spanish" = "西班牙語本地化";
-
-"NotifyUpdates" = "更新通知";
-"NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
-"NewUpdate" = "有新版本可用";
-"UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
-"Update" = "好,更新";
