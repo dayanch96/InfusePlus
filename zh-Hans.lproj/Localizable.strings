@@ -1,12 +1,12 @@
 "EnablePlus" = "启用插件功能";
 
-"PremiumSettings" = "Premium";
-"ProFeatures" = "启用专业版功能";
-"ProFeaturesDesc" = "启用需要订阅的Pro功能";
+"PremiumSettings" = "会员订阅";
+"ProFeatures" = "启用Pro功能";
+"ProFeaturesDesc" = "启用需要付费订阅的Pro功能";
 "BackgroundPlayback" = "后台播放";
 "BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
 
-"PlayerSettings" = "Player";
+"PlayerSettings" = "播放器";
 "DoubleTapPause" = "双击播放\/暂停";
 "DoubleTapPauseDesc" = "启用在播放器中的双击播放\/暂停手势";
 "ButtonSeekTime" = "按钮跳过时间: %ld 秒";
@@ -15,17 +15,17 @@
 "DoubleTapSeekTimeDesc" = "启用自定义双击快进\/快退跳过时间";
 "PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单";
 "VolumeBoostDesc" = "在播放设置菜单中添加音量增强子菜单";
-"SkipByLongTap" = "Skip Using Long Press";
-"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
-"FlexibleTimer" = "Flexible Timer";
-"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
-"24hrFormat" = "24-hour Format";
-"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+"SkipByLongTap" = "使用长按跳过";
+"SkipByLongTapDesc" = "长按快退按钮跳至下一个\/上一个视频";
+"FlexibleTimer" = "灵活的计时器";
+"FlexibleTimerDesc" = "通过点击剩余时间在显示剩余播放时间、总时长和播放结束时间之间切换";
+"24hrFormat" = "24小时格式";
+"24hrFormatDesc" = "以24小时格式显示播放结束时间";
 
-"OtherSettings" = "Other";
-"MRNowPlayingHeader" = "Now Playing Player";
+"OtherSettings" = "其他";
+"MRNowPlayingHeader" = "播放器正在播放";
 "StartupPageHeader" = "启动页";
-"UpdateHeader" = "Infuse Plus Update";
+"UpdateHeader" = "Infuse Plus 更新";
 "ChangePosterTitle" = "设置标题和海报";
 "ChangePosterTitleDesc" = "替换通知和控制中心中显示的播放器标题和海报";
 "MovieTitle" = "标题";
