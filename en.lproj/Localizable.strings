@@ -9,18 +9,24 @@
 "PlayerSettings" = "Player";
 "DoubleTapPause" = "Double Tap To Play/Pause";
 "DoubleTapPauseDesc" = "Enables double tap to play/pause gesture in the player";
-"ButtonSeekTime" = "Button seek time: %ld sec";
-"ButtonSeekTimeDesc" = "Enables custom seek time for backward and forward buttons";
-"DoubleTapSeekTime" = "Double tap seek time: %ld sec";
-"DoubleTapSeekTimeDesc" = "Enables custom double tap to seek time";
 "PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
 "VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
+"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
 "FlexibleTimer" = "Flexible Timer";
 "FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
 "24hrFormat" = "24-hour Format";
 "24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
+
+"ButtonSeekTime" = "Custom button skip time";
+"ButtonSeekTimeDesc" = "Enables custom skip time for backward and forward buttons";
+"DoubleTapSeekTime" = "Custom double tap skip time";
+"DoubleTapSeekTimeDesc" = "Enables custom double tap to skip time";
+"Seconds" = "%ld sec";
 
 "OtherSettings" = "Other";
 "MRNowPlayingHeader" = "Now Playing Player";
@@ -29,7 +35,7 @@
 "ChangePosterTitle" = "Set Title and Poster";
 "ChangePosterTitleDesc" = "Replaces the title and poster of the player displayed in the notification and control center";
 "MovieTitle" = "Title";
-"EnterTitle" = "Enter text";
+"EnterTitle" = "Enter title";
 "MoviePoster" = "Poster";
 "SelectPoster" = "Select Image";
 "PosterSelected" = "Poster set";
@@ -37,6 +43,8 @@
 "PosterTitleFooter" = "Leave the title empty to apply only the poster image";
 "NotifyUpdates" = "Notify updates";
 "NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
+"UpdateLocalizations" = "Update Localizations";
+"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
 "NewUpdate" = "New update available";
 "UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
 "Update" = "Yes, update";

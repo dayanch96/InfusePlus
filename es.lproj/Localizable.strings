@@ -9,18 +9,24 @@
 "PlayerSettings" = "Player";
 "DoubleTapPause" = "Doble toque para Reproducir/Pausar";
 "DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
-"ButtonSeekTime" = "Tiempo de búsqueda del botón: %ld seg";
-"ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
-"DoubleTapSeekTime" = "Tiempo de búsqueda del doble toque: %ld seg";
-"DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
 "PlaybackSpeedDesc" = "Añade un submenú de velocidad de reproducción al menú de ajustes de reproducción";
 "VolumeBoostDesc" = "Añade un submenú de aumento de volumen al menú de ajustes de reproducción";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
+"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
+"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
 "FlexibleTimer" = "Flexible Timer";
 "FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
 "24hrFormat" = "24-hour Format";
 "24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+
+"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
+
+"ButtonSeekTime" = "Custom button skip time";
+"ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
+"DoubleTapSeekTime" = "Custom double tap skip time";
+"DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
+"Seconds" = "%ld seg";
 
 "OtherSettings" = "Other";
 "MRNowPlayingHeader" = "Now Playing Player";
@@ -37,6 +43,8 @@
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
+"UpdateLocalizations" = "Update Localizations";
+"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
 "NewUpdate" = "Nueva actualización disponible";
 "UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
 "Update" = "Sí, actualizar";
