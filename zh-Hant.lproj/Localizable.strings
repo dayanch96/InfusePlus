@@ -2,38 +2,38 @@
 
 "PremiumSettings" = "Premium";
 "ProFeatures" = "啟用Pro功能";
-"ProFeaturesDesc" = "初始狀態下需要訂閱才能使用Pro功能";
+"ProFeaturesDesc" = "啟用原本需要付費訂閱才能使用的Pro功能";
 "BackgroundPlayback" = "背景播放";
 "BackgroundPlaybackDesc" = "強制背景播放並防止停用";
 
-"PlayerSettings" = "Player";
+"PlayerSettings" = "播放器設定";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "PlaybackSpeedDesc" = "新增播放速度選項至播放器設定中";
 "VolumeBoostDesc" = "新增音量增強選項至播放器設定中";
-"SkipByLongTap" = "Skip Using Long Press";
-"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
-"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
-"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
-"FlexibleTimer" = "Flexible Timer";
-"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
-"24hrFormat" = "24-hour Format";
-"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+"SkipByLongTap" = "長按跳過";
+"SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
+"SpeedByLongTap" = "長按播放速度";
+"SpeedByLongTapDesc" = "長按播放/暫停按鈕可以加快播放速度至所選速度";
+"FlexibleTimer" = "彈性計時器";
+"FlexibleTimerDesc" = "點擊剩餘時間，可以在剩餘播放時間、總播放時間和播放結束時間之間切換";
+"24hrFormat" = "24小時制";
+"24hrFormatDesc" = "播放結束時間將以24小時制顯示";
 
-"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
+"SelectSpeedHeader" = "長按播放速度";
 
-"ButtonSeekTime" = "Custom button skip time";
-"ButtonSeekTimeDesc" = "自訂按鈕快轉/倒轉時間";
-"DoubleTapSeekTime" = "Custom double tap skip time";
+"ButtonSeekTime" = "自訂按鈕跳過時間";
+"ButtonSeekTimeDesc" = "自訂快轉/倒轉按鈕時間";
+"DoubleTapSeekTime" = "自訂點兩下跳過時間";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
 "Seconds" = "%ld 秒";
 
-"OtherSettings" = "Other";
-"MRNowPlayingHeader" = "Now Playing Player";
+"OtherSettings" = "其它設定";
+"MRNowPlayingHeader" = "正在播放的播放器";
 "StartupPageHeader" = "起始頁面";
-"UpdateHeader" = "Infuse Plus Update";
+"UpdateHeader" = "Infuse Plus 更新";
 "ChangePosterTitle" = "標題和封面";
-"ChangePosterTitleDesc" = "更換通知和控制中心中顯示的播放器標題和封面";
+"ChangePosterTitleDesc" = "更換在通知和控制中心顯示的播放器標題和封面";
 "MovieTitle" = "標題";
 "EnterTitle" = "輸入文字";
 "MoviePoster" = "封面";
@@ -43,8 +43,8 @@
 "PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
-"UpdateLocalizations" = "Update Localizations";
-"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
+"UpdateLocalizations" = "更新語言檔";
+"UpdateLocalizationsDesc" = "開啟應用時自動從GitHub更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次Infuse Plus發布。";
 "NewUpdate" = "有新版本可用";
 "UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
 "Update" = "好,更新";
