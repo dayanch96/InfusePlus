@@ -4,35 +4,35 @@
 "ProFeatures" = "Habilitar funciones Pro";
 "ProFeaturesDesc" = "Habilita funciones que no están disponibles sin una suscripción";
 "BackgroundPlayback" = "Reproducción en segundo plano";
-"BackgroundPlaybackDesc" = "Forza la reproducción en segundo plano y evita su desactivación";
+"BackgroundPlaybackDesc" = "Forzar la reproducción en segundo plano y evita su desactivación";
 
-"PlayerSettings" = "Player";
+"PlayerSettings" = "Reproductor";
 "DoubleTapPause" = "Doble toque para Reproducir/Pausar";
 "DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
 "PlaybackSpeedDesc" = "Añade un submenú de velocidad de reproducción al menú de ajustes de reproducción";
 "VolumeBoostDesc" = "Añade un submenú de aumento de volumen al menú de ajustes de reproducción";
-"SkipByLongTap" = "Skip Using Long Press";
-"SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
-"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
-"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
-"FlexibleTimer" = "Flexible Timer";
-"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
-"24hrFormat" = "24-hour Format";
-"24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+"SkipByLongTap" = "Saltar con pulsación larga";
+"SkipByLongTapDesc" = "Pulsando prolongadamente los botones de rebobinado se salta al vídeo siguiente/anterior";
+"SpeedByLongTap" = "Reproducción rápida manteniendo pulsado";
+"SpeedByLongTapDesc" = "Acelera la reproducción a la velocidad seleccionada manteniendo pulsado el botón de reproducción/pausa.";
+"FlexibleTimer" = "Temporizador flexible";
+"FlexibleTimerDesc" = "Permite alternar entre el tiempo de reproducción restante, la duración total y la hora de finalización de la reproducción pulsando sobre el tiempo restante.";
+"24hrFormat" = "Formato 24 horas";
+"24hrFormatDesc" = "Muestra la hora de finalización de la reproducción en formato de 24 horas.";
 
-"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
+"SelectSpeedHeader" = "Pulsar y mantener velocidad de reproducción";
 
-"ButtonSeekTime" = "Custom button skip time";
+"ButtonSeekTime" = "Tiempo de salto de botón personalizado";
 "ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
-"DoubleTapSeekTime" = "Custom double tap skip time";
+"DoubleTapSeekTime" = "Tiempo de salto de doble toque personalizado";
 "DoubleTapSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para el doble toque para buscar";
 "Seconds" = "%ld seg";
 
-"OtherSettings" = "Other";
-"MRNowPlayingHeader" = "Now Playing Player";
+"OtherSettings" = "Otros";
+"MRNowPlayingHeader" = "Reproductor en reproducción";
 "StartupPageHeader" = "Página de inicio";
-"UpdateHeader" = "Infuse Plus Update";
-"ChangePosterTitle" = "Título y cartel";
+"UpdateHeader" = "Actualización de Infuse Plus";
+"ChangePosterTitle" = "Título y poster";
 "ChangePosterTitleDesc" = "Sustituye el título y el póster del reproductor que se muestran en el centro de notificaciones y control";
 "MovieTitle" = "Título";
 "EnterTitle" = "Introducir texto";
@@ -43,8 +43,8 @@
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
-"UpdateLocalizations" = "Update Localizations";
-"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
+"UpdateLocalizations" = "Actualizar localizaciones";
+"UpdateLocalizationsDesc" = "Actualiza automáticamente los archivos de localización desde GitHub al iniciarse. De este modo, si los traductores han actualizado las traducciones, no tendrá que esperar a la próxima versión de Infuse Plus para beneficiarse de ellas.";
 "NewUpdate" = "Nueva actualización disponible";
 "UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
 "Update" = "Sí, actualizar";
