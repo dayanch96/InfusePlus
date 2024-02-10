@@ -1,4 +1,4 @@
-"EnablePlus" = "启用插件功能";
+"EnablePlus" = "功能启用";
 
 "PremiumSettings" = "会员订阅";
 "ProFeatures" = "启用Pro功能";
@@ -8,27 +8,27 @@
 
 "PlayerSettings" = "播放器";
 "DoubleTapPause" = "双击播放\/暂停";
-"DoubleTapPauseDesc" = "启用在播放器中的双击播放\/暂停手势";
+"DoubleTapPauseDesc" = "启用在播放器中的双击“播放\/暂停”手势";
 "PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单";
 "VolumeBoostDesc" = "在播放设置菜单中添加音量增强子菜单";
 "SkipByLongTap" = "使用长按跳过";
-"SkipByLongTapDesc" = "长按快退按钮跳至下一个\/上一个视频";
-"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
-"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
+"SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
+"SpeedByLongTap" = "长按加速播放";
+"SpeedByLongTapDesc" = "按住“播放\/暂停”按钮可将播放速度加快至所选速度";
 "FlexibleTimer" = "灵活的计时器";
-"FlexibleTimerDesc" = "通过点击剩余时间在显示剩余播放时间、总时长和播放结束时间之间切换";
+"FlexibleTimerDesc" = "通过点击剩余时间在“剩余播放时间、总时长和播放结束时间”之间切换";
 "24hrFormat" = "24小时格式";
 "24hrFormatDesc" = "以24小时格式显示播放结束时间";
 
-"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
+"SelectSpeedHeader" = "长按播放速度";
 
-"ButtonSeekTime" = "Custom button skip time";
-"ButtonSeekTimeDesc" = "启用自定义快进\/快退按钮跳过时间";
-"DoubleTapSeekTime" = "Custom double tap skip time";
-"DoubleTapSeekTimeDesc" = "启用自定义双击快进\/快退跳过时间";
+"ButtonSeekTime" = "按钮跳过时间";
+"ButtonSeekTimeDesc" = "启用自定义“快进\/快退”按钮跳过时间";
+"DoubleTapSeekTime" = "双击跳过时间";
+"DoubleTapSeekTimeDesc" = "启用自定义双击“快进\/快退”跳过时间";
 "Seconds" = "%ld 秒";
 
-"OtherSettings" = "其他";
+"OtherSettings" = "其他功能";
 "MRNowPlayingHeader" = "播放器正在播放";
 "StartupPageHeader" = "启动页";
 "UpdateHeader" = "Infuse Plus 更新";
@@ -43,8 +43,8 @@
 "PosterTitleFooter" = "保留标题为空仅应用海报图片";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
-"UpdateLocalizations" = "Update Localizations";
-"UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
+"UpdateLocalizations" = "更新翻译";
+"UpdateLocalizationsDesc" = "启动时自动从GitHub更新翻译本地化文件。确保了如果翻译人员对翻译进行了任何更新，无需等待下个InfusePlus版本即可更新。";
 "NewUpdate" = "有新的更新可用";
 "UpdateMessage" = "新版本 %@ 现在可用。\n\n想访问发布页面吗？";
 "Update" = "是的，更新！";
