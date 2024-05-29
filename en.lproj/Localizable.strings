@@ -13,8 +13,8 @@
 "VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
-"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
-"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
+"SpeedByLongTap" = "Speed up playback";
+"SpeedByLongTapDesc" = "Pressing and holding the play/pause button speeds up playback rate";
 "FlexibleTimer" = "Flexible Timer";
 "FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
 "24hrFormat" = "24-hour Format";
