@@ -56,12 +56,13 @@
 "Cancel" = "Cancel";
 
 "AboutHeader" = "About";
-"Dayanch96" = "Developer";
-"iApps" = "Our Telegram";
+"Developer" = "Infuse Plus Developer";
+"Telegram" = "My Telegram channel";
+"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
 "Donate" = "Donate";
 "DonateDesc" = "Buy me a coffee";
-"Github" = "Github page";
-"GithubDesc" = "Check for updates";
+"Github" = "Github repository";
+"GithubDesc" = "Report issues, track and access all tweak versions. Give the repository your star";
 
 "DonateMessage" = "If you like Infuse Plus and would like to support me, you can buy me a coffee using any of convenient ways below.\n\nThanks❤";
 "MaybeLater" = "Maybe later";
@@ -69,8 +70,21 @@
 "Thanks" = "Thanks";
 
 "SpecialThanks" = "Special Thanks";
+"TopContributors" = "Top contributors";
+"Translators" = "Localization";
 "Arabic" = "Arabic localization";
 "ChineseSimplified" = "Chinese, Simplified localization";
 "ChineseTraditional" = "Chinese, Traditional localization";
 "Japanese" = "Japanese localization";
 "Spanish" = "Spanish localization";
+
+"Welcome.Premium" = "Premium features";
+"Welcome.PremiumDesc" = "Get access to all exclusive app features";
+"Welcome.Player" = "Player enhancement";
+"Welcome.PlayerDesc" = "Flexible player settings and additional features to enhance your player experience";
+"Welcome.Gestures" = "Flexible gestures";
+"Welcome.GesturesDesc" = "Extra gestures and improvements of existing ones. Custom skip durations and more";
+"Welcome.More" = "And even more";
+"Welcome.MoreDesc" = "Setup the startup tab, change the player poster and title in the control center, update notifications, and much more";
+"SupportMe" = "Support Me";
+"Continue" = "Continue";

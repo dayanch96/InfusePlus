@@ -1,0 +1,90 @@
+"EnablePlus" = "功能启用";
+
+"PremiumSettings" = "会员订阅";
+"ProFeatures" = "启用Pro功能";
+"ProFeaturesDesc" = "启用需要付费订阅的Pro功能";
+"BackgroundPlayback" = "后台播放";
+"BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
+
+"PlayerSettings" = "播放器";
+"DoubleTapPause" = "双击播放\/暂停";
+"DoubleTapPauseDesc" = "启用在播放器中的双击“播放\/暂停”手势";
+"PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单";
+"VolumeBoostDesc" = "在播放设置菜单中添加音量增强子菜单";
+"SkipByLongTap" = "使用长按跳过";
+"SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
+"SpeedByLongTap" = "长按加速播放";
+"SpeedByLongTapDesc" = "按住“播放\/暂停”按钮可将播放速度加快至所选速度";
+"FlexibleTimer" = "灵活的计时器";
+"FlexibleTimerDesc" = "通过点击剩余时间在“剩余播放时间、总时长和播放结束时间”之间切换";
+"24hrFormat" = "24小时格式";
+"24hrFormatDesc" = "以24小时格式显示播放结束时间";
+
+"SelectSpeedHeader" = "长按播放速度";
+
+"ButtonSeekTime" = "按钮跳过时间";
+"ButtonSeekTimeDesc" = "启用自定义“快进\/快退”按钮跳过时间";
+"DoubleTapSeekTime" = "双击跳过时间";
+"DoubleTapSeekTimeDesc" = "启用自定义双击“快进\/快退”跳过时间";
+"Seconds" = "%ld 秒";
+
+"OtherSettings" = "其他功能";
+"MRNowPlayingHeader" = "播放器正在播放";
+"StartupPageHeader" = "启动页";
+"UpdateHeader" = "Infuse Plus 更新";
+"ChangePosterTitle" = "设置标题和海报";
+"ChangePosterTitleDesc" = "替换通知和控制中心中显示的播放器标题和海报";
+"MovieTitle" = "标题";
+"EnterTitle" = "输入文本";
+"MoviePoster" = "海报";
+"SelectPoster" = "选择图片";
+"PosterSelected" = "海报已设置";
+"PosterDeleted" = "海报已删除";
+"PosterTitleFooter" = "保留标题为空仅应用海报图片";
+"NotifyUpdates" = "更新通知";
+"NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
+"UpdateLocalizations" = "更新翻译";
+"UpdateLocalizationsDesc" = "启动时自动从GitHub更新翻译本地化文件。确保了如果翻译人员对翻译进行了任何更新，无需等待下个InfusePlus版本即可更新。";
+"NewUpdate" = "有新的更新可用";
+"UpdateMessage" = "新版本 %@ 现在可用。\n\n想访问发布页面吗？";
+"Update" = "是的，更新！";
+
+"Apply" = "应用更改";
+"Warning" = "警告";
+"ApplyMessage" = "此操作将关闭Infuse来应用生效，你确定吗？";
+"Yes" = "是";
+"Cancel" = "取消";
+
+"AboutHeader" = "关于";
+"Developer" = "Developer";
+"Telegram" = "My Telegram channel";
+"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
+"Donate" = "捐赠";
+"DonateDesc" = "买一杯咖啡";
+"Github" = "Github页面";
+"GithubDesc" = "Report issues, track and access all tweak versions. Give the repository your star";
+
+"DonateMessage" = "如果您喜欢Infuse Plus并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
+"MaybeLater" = "也许以后";
+"Copied" = "已复制到剪贴板";
+"Thanks" = "谢谢";
+
+"SpecialThanks" = "特别鸣谢";
+"TopContributors" = "Top contributors";
+"Translators" = "Localization";
+"Arabic" = "阿拉伯语本地化";
+"ChineseSimplified" = "简体中文本地化";
+"ChineseTraditional" = "繁体中文本地化";
+"Japanese" = "日语本地化";
+"Spanish" = "西班牙语本地化";
+
+"Welcome.Premium" = "Premium features";
+"Welcome.PremiumDesc" = "Get access to all exclusive app features";
+"Welcome.Player" = "Player enhancement";
+"Welcome.PlayerDesc" = "Flexible player settings and additional features to enhance your player experience";
+"Welcome.Gestures" = "Flexible gestures";
+"Welcome.GesturesDesc" = "Extra gestures and improvements of existing ones. Custom skip durations and more";
+"Welcome.More" = "And even more";
+"Welcome.MoreDesc" = "Setup the startup tab, change the player poster and title in the control center, update notifications, and much more";
+"SupportMe" = "Support Me";
+"Continue" = "Continue";
