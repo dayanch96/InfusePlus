@@ -1,6 +1,6 @@
 # InfusePlus
 <p align="center">
-<img src=https://github-production-user-asset-6210df.s3.amazonaws.com/38832025/241606359-e48135e8-147c-4687-a2f8-d2556d5301c9.png?raw=true) />
+<img src=https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/logo.png />
 </p>
 
 ## Screenshots
