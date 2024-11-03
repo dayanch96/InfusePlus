@@ -47,6 +47,7 @@
 "UpdateLocalizationsDesc" = "Actualiza automáticamente los archivos de localización desde GitHub al iniciarse. De este modo, si los traductores han actualizado las traducciones, no tendrá que esperar a la próxima versión de Infuse Plus para beneficiarse de ellas.";
 "NewUpdate" = "Nueva actualización disponible";
 "UpdateMessage" = "Ya está disponible la nueva versión %@.\n\n¿Quieres visitar la página de la versión?";
+"WhatsNew" = "What's new:";
 "Update" = "Sí, actualizar";
 
 "Apply" = "Aplicar cambios";
@@ -58,7 +59,7 @@
 "AboutHeader" = "Acerca de";
 "Developer" = "Infuse Plus Developer";
 "Telegram" = "My Telegram channel";
-"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
+"TelegramDesc" = "Get app updates first and reach out for help in the chat";
 "Donate" = "Donar";
 "DonateDesc" = "Cómprame un café";
 "Github" = "Página de Github";

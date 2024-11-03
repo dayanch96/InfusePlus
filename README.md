@@ -5,9 +5,9 @@
 
 ## Screenshots
 
-| Infuse Settings | Infuse Plus Settings | Player Settings | Other Settings |
-|---|---|---|---|
-| ![1](https://github.com/dayanch96/InfusePlus/assets/38832025/229ca3c2-49a5-4592-bc68-b8baa7072dcf) | ![2](https://github.com/dayanch96/InfusePlus/assets/38832025/3a7f65de-7c86-4091-a614-db5160b1e212) | ![3](https://github.com/dayanch96/InfusePlus/assets/38832025/c9943464-7ddf-474e-9eb2-f4bb9aa782c3) | ![4](https://github.com/dayanch96/InfusePlus/assets/38832025/fdec852b-85e6-4df1-a98e-a7c09d0e1a07) |
+| ![ss1](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot1.png) | ![ss2](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot2.png) | ![ss3](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot3.png) |
+| --- | --- | --- |
+| ![ss4](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot4.png) | ![ss5](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot5.png) | ![ss6](https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/screenshot6.png) |
 
 
 <p align="center">

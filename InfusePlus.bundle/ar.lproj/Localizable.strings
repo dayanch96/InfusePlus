@@ -47,6 +47,7 @@
 "UpdateLocalizationsDesc" = "تحديث ملفات الترجمة تلقائيًا من GitHub عند بدء التشغيل. هذا يضمن أنه إذا قام المترجمون بعمل أي تحديثات على الترجمات، فلن تضطر إلى الانتظار حتى صدور إصدار جديد من Infuse Plus للاستفادة منها.";
 "NewUpdate" = "تحديث جديد متاح";
 "UpdateMessage" = "الإصدار الجديد %@ متاح الآن.\n\nهل ترغب في زيارة صفحة الإصدار؟";
+"WhatsNew" = "What's new:";
 "Update" = "نعم، قم بالتحديث";
 
 "Apply" = "تطبيق التغييرات";
@@ -58,7 +59,7 @@
 "AboutHeader" = "حول";
 "Developer" = "Infuse Plus Developer";
 "Telegram" = "My Telegram channel";
-"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
+"TelegramDesc" = "Get app updates first and reach out for help in the chat";
 "Donate" = "التبرع";
 "DonateDesc" = "اشترِ لي كوب قهوة";
 "Github" = "صفحة Github";

@@ -47,6 +47,7 @@
 "UpdateLocalizationsDesc" = "開啟應用時自動從GitHub更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次Infuse Plus發布。";
 "NewUpdate" = "有新版本可用";
 "UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
+"WhatsNew" = "What's new:";
 "Update" = "好,更新";
 
 "Apply" = "套用變更";
@@ -58,7 +59,7 @@
 "AboutHeader" = "關於";
 "Developer" = "Developer";
 "Telegram" = "My Telegram channel";
-"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
+"TelegramDesc" = "Get app updates first and reach out for help in the chat";
 "Donate" = "贊助";
 "DonateDesc" = "請我喝杯咖啡";
 "Github" = "Github";
