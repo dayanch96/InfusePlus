@@ -6,7 +6,7 @@
 "BackgroundPlayback" = "后台播放";
 "BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
 
-"PlayerSettings" = "播放器";
+"PlayerSettings" = "播放增强";
 "DoubleTapPause" = "双击播放\/暂停";
 "DoubleTapPauseDesc" = "启用在播放器中的双击“播放\/暂停”手势";
 "PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单";
@@ -57,13 +57,13 @@
 "Cancel" = "取消";
 
 "AboutHeader" = "关于";
-"Developer" = "Developer";
-"Telegram" = "My Telegram channel";
-"TelegramDesc" = "Get app updates first and reach out for help in the chat";
+"Developer" = "开发者";
+"Telegram" = "电报频道";
+"TelegramDesc" = "能及时获取插件更新并在聊天中寻求帮助";
 "Donate" = "捐赠";
 "DonateDesc" = "买一杯咖啡";
 "Github" = "Github页面";
-"GithubDesc" = "Report issues, track and access all tweak versions. Give the repository your star";
+"GithubDesc" = "反馈问题、跟踪和访问所有插件版本；记得给存储库点上⭐️哟。";
 
 "DonateMessage" = "如果您喜欢Infuse Plus并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
 "MaybeLater" = "也许以后";
@@ -71,21 +71,21 @@
 "Thanks" = "谢谢";
 
 "SpecialThanks" = "特别鸣谢";
-"TopContributors" = "Top contributors";
-"Translators" = "Localization";
+"TopContributors" = "杰出贡献者";
+"Translators" = "本地化翻译";
 "Arabic" = "阿拉伯语本地化";
 "ChineseSimplified" = "简体中文本地化";
 "ChineseTraditional" = "繁体中文本地化";
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
 
-"Welcome.Premium" = "Premium features";
-"Welcome.PremiumDesc" = "Get access to all exclusive app features";
-"Welcome.Player" = "Player enhancement";
-"Welcome.PlayerDesc" = "Flexible player settings and additional features to enhance your player experience";
-"Welcome.Gestures" = "Flexible gestures";
-"Welcome.GesturesDesc" = "Extra gestures and improvements of existing ones. Custom skip durations and more";
-"Welcome.More" = "And even more";
-"Welcome.MoreDesc" = "Setup the startup tab, change the player poster and title in the control center, update notifications, and much more";
-"SupportMe" = "Support Me";
-"Continue" = "Continue";
+"Welcome.Premium" = "高级功能";
+"Welcome.PremiumDesc" = "访问所有独家应用程序功能";
+"Welcome.Player" = "播放增强";
+"Welcome.PlayerDesc" = "灵活的播放器设置和附加功能可增强播放器体验";
+"Welcome.Gestures" = "灵活手势";
+"Welcome.GesturesDesc" = "额外手势和现有手势的改进；自定义跳过持续时间等";
+"Welcome.More" = "更多功能";
+"Welcome.MoreDesc" = "设置启动页、更改控制中心的播放器海报和标题、更新通知等等";
+"SupportMe" = "支持我";
+"Continue" = "继续";
