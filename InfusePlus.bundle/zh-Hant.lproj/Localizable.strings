@@ -73,11 +73,11 @@
 "SpecialThanks" = "特別鳴謝";
 "TopContributors" = "重要貢獻者";
 "Translators" = "在地化翻譯";
-"Arabic" = "阿拉伯語本地化";
-"ChineseSimplified" = "簡體中文本地化";
-"ChineseTraditional" = "繁體中文本地化";
-"Japanese" = "日語本地化";
-"Spanish" = "西班牙語本地化";
+"Arabic" = "阿拉伯語在地化";
+"ChineseSimplified" = "簡體中文在地化";
+"ChineseTraditional" = "繁體中文在地化";
+"Japanese" = "日語在地化";
+"Spanish" = "西班牙語在地化";
 
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
