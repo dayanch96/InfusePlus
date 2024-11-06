@@ -45,11 +45,10 @@
 "NotifyUpdatesDesc" = "Tweakの新しいバージョンが利用可能な場合にアラートを表示します";
 "UpdateLocalizations" = "Update Localizations";
 "UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
-"NewUpdate" = "新しいアップデートがあります";
-"UpdateMessage" = "新しいバージョン %@ が利用可能になりました。\n\nリリースページにアクセスしますか？";
-"WhatsNew" = "What's new:";
-"Update" = "はい、更新します";
-
+"NewUpdate" = "Infuse Plus %@ is out!";
+"Update.Tweak" = "Get it from Github";
+"Update.IPA" = "Download IPA from Telegram";
+"Update.Dismiss" = "Dismiss";
 "Apply" = "変更を適用";
 "Warning" = "警告";
 "ApplyMessage" = "この操作はInfuseを終了して変更を適用します。よろしいですか?";

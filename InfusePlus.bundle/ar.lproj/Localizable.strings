@@ -45,10 +45,10 @@
 "NotifyUpdatesDesc" = "عرض تنبيه إذا كانت هناك نسخة جديدة من الأداة متوفرة";
 "UpdateLocalizations" = "تحديث الترجمات";
 "UpdateLocalizationsDesc" = "تحديث ملفات الترجمة تلقائيًا من GitHub عند بدء التشغيل. هذا يضمن أنه إذا قام المترجمون بعمل أي تحديثات على الترجمات، فلن تضطر إلى الانتظار حتى صدور إصدار جديد من Infuse Plus للاستفادة منها.";
-"NewUpdate" = "تحديث جديد متاح";
-"UpdateMessage" = "الإصدار الجديد %@ متاح الآن.\n\nهل ترغب في زيارة صفحة الإصدار؟";
-"WhatsNew" = "What's new:";
-"Update" = "نعم، قم بالتحديث";
+"NewUpdate" = "Infuse Plus %@ is out!";
+"Update.Tweak" = "Get it from Github";
+"Update.IPA" = "Download IPA from Telegram";
+"Update.Dismiss" = "Dismiss";
 
 "Apply" = "تطبيق التغييرات";
 "Warning" = "تحذير";

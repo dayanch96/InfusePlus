@@ -45,10 +45,10 @@
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
 "UpdateLocalizationsDesc" = "開啟應用時自動從GitHub更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次Infuse Plus發布。";
-"NewUpdate" = "有新版本可用";
-"UpdateMessage" = "新版本 %@ 已推出\n\n您想前往發布頁面嗎？";
-"WhatsNew" = "What's new:";
-"Update" = "好,更新";
+"NewUpdate" = "Infuse Plus %@ is out!";
+"Update.Tweak" = "Get it from Github";
+"Update.IPA" = "Download IPA from Telegram";
+"Update.Dismiss" = "Dismiss";
 
 "Apply" = "套用變更";
 "Warning" = "警告";

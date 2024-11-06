@@ -45,10 +45,10 @@
 "NotifyUpdatesDesc" = "Shows an alert if a new version of the tweak is available";
 "UpdateLocalizations" = "Update Localizations";
 "UpdateLocalizationsDesc" = "Automatically updates localization files from GitHub upon startup. This ensures that if translators have made any updates to the translations, you won't have to wait for the next Infuse Plus release to benefit from them";
-"NewUpdate" = "New update available";
-"UpdateMessage" = "New version %@ is now available.\n\nWould you like to visit the release page?";
-"WhatsNew" = "What's new:";
-"Update" = "Yes, update";
+"NewUpdate" = "Infuse Plus %@ is out!";
+"Update.Tweak" = "Get it from Github";
+"Update.IPA" = "Download IPA from Telegram";
+"Update.Dismiss" = "Dismiss";
 
 "Apply" = "Apply changes";
 "Warning" = "Warning";
