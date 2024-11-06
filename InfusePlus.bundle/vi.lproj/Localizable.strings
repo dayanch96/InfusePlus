@@ -1,0 +1,91 @@
+"EnablePlus" = "Bật";
+
+"PremiumSettings" = "Premium";
+"ProFeatures" = "Kích hoạt các tính năng chuyên nghiệp";
+"ProFeaturesDesc" = "Kích hoạt các tính năng chuyên nghiệp ban đầu không có sẵn nếu không đăng ký";
+"BackgroundPlayback" = "Phát lại nền";
+"BackgroundPlaybackDesc" = "Thực thi phát lại trong nền và ngăn chặn việc vô hiệu hóa nó";
+
+"PlayerSettings" = "Người chơi ";
+"DoubleTapPause" = "Nhấn đúp để phát/tạm dừng";
+"DoubleTapPauseDesc" = "Cho phép nhấn đúp để phát/tạm dừng cử chỉ trong trình phát";
+"PlaybackSpeedDesc" = "Thêm menu con tốc độ phát lại vào menu cài đặt phát lại";
+"VolumeBoostDesc" = "Thêm menu con tăng âm lượng vào menu cài đặt phát lại";
+"SkipByLongTap" = "Bỏ qua Sử dụng Nhấn giữ";
+"SkipByLongTapDesc" = "Nhấn và giữ nút tua lại để chuyển sang video tiếp theo/trước đó";
+"SpeedByLongTap" = "Tăng tốc độ phát lại";
+"SpeedByLongTapDesc" = "Nhấn và giữ nút phát/tạm dừng sẽ tăng tốc độ phát lại";
+"FlexibleTimer" = "Hẹn giờ linh hoạt";
+"FlexibleTimerDesc" = "Cung cấp khả năng chuyển đổi giữa hiển thị thời gian phát lại còn lại, tổng thời lượng và thời gian kết thúc phát lại bằng cách nhấn vào thời gian còn lại";
+"24hrFormat" = "Định dạng 24 giờ";
+"24hrFormatDesc" = "Hiển thị thời gian kết thúc phát lại ở định dạng 24 giờ";
+
+"SelectSpeedHeader" = "Nhấn và giữ tốc độ phát lại";
+
+"ButtonSeekTime" = "Nút tùy chỉnh bỏ qua thời gian";
+"ButtonSeekTimeDesc" = "Cho phép tùy chỉnh thời gian bỏ qua cho các nút lùi và tiến";
+"DoubleTapSeekTime" = "Thời gian bỏ qua nhấn đúp tùy chỉnh";
+"DoubleTapSeekTimeDesc" = "Cho phép nhấn đúp tùy chỉnh để bỏ qua thời gian";
+"Seconds" = "%ld giây";
+
+"OtherSettings" = "Khác";
+"MRNowPlayingHeader" = "Người chơi đang chơi";
+"StartupPageHeader" = "Trang khởi động";
+"UpdateHeader" = "Cập nhật Infuse Plus";
+"ChangePosterTitle" = "Đặt tiêu đề và áp phích";
+"ChangePosterTitleDesc" = "Thay thế tiêu đề và áp phích của người chơi được hiển thị trong trung tâm thông báo và điều khiển";
+"MovieTitle" = "Tiêu đề";
+"EnterTitle" = "Nhập tiêu đề";
+"MoviePoster" = "Áp phích";
+"SelectPoster" = "Chọn hình ảnh";
+"PosterSelected" = "Bộ áp phích";
+"PosterDeleted" = "Đã xóa áp phích";
+"PosterTitleFooter" = "Để trống tiêu đề chỉ áp dụng hình ảnh áp phích";
+"NotifyUpdates" = "Thông báo cập nhật";
+"NotifyUpdatesDesc" = "Hiển thị cảnh báo nếu có phiên bản mới của tinh chỉnh";
+"UpdateLocalizations" = "Cập nhật bản dịch";
+"UpdateLocalizationsDesc" = "Tự động cập nhật các tệp bản dịch từ GitHub khi khởi động. Điều này đảm bảo rằng nếu người dịch đã thực hiện bất kỳ cập nhật nào cho bản dịch, bạn sẽ không phải đợi bản phát hành Infuse Plus tiếp theo để được hưởng lợi từ chúng";
+"NewUpdate" = "Infuse Plus %@ đã hết!";
+"Update.Tweak" = "Lấy nó từ Github";
+"Update.IPA" = "Tải xuống IPA từ Telegram";
+"Update.Dismiss" = "Loại bỏ";
+
+"Apply" = "Áp dụng thay đổi";
+"Warning" = "Cảnh báo";
+"ApplyMessage" = "Hành động này sẽ đóng Infuse để áp dụng các thay đổi. Bạn có chắc không?";
+"Yes" = "Đúng";
+"Cancel" = "Hủy bỏ";
+
+"AboutHeader" = "Giới thiệu";
+"Developer" = "Nhà phát triển Infuse Plus";
+"Telegram" = "Kênh Telegram của tôi";
+"TelegramDesc" = "Nhận bản cập nhật ứng dụng trước và liên hệ để được trợ giúp trong cuộc trò chuyện";
+"Donate" = "Ủng hộ";
+"DonateDesc" = "Mua cho tôi một ly cà phê";
+"Github" = "Kho lưu trữ Github";
+"GithubDesc" = "Báo cáo sự cố, theo dõi và truy cập tất cả các phiên bản tweak. Hãy cho kho lưu trữ ngôi sao của bạn";
+
+"DonateMessage" = "Nếu bạn thích Infuse Plus và muốn ủng hộ tôi, bạn có thể mua cho tôi một ly cà phê bằng bất kỳ cách nào thuận tiện dưới đây.\n\nCảm ơn❤";
+"MaybeLater" = "Có lẽ sau này";
+"Copied" = "Đã sao chép vào bảng nhớ tạm";
+"Thanks" = "Cảm ơn";
+
+"SpecialThanks" = "Cảm ơn đặc biệt";
+"TopContributors" = "Những người đóng góp hàng đầu";
+"Translators" = "Bản dịch";
+"Arabic" = "Bản dịch tiếng Ả Rập";
+"ChineseSimplified" = "Tiếng Trung, bản dịch giản thể";
+"ChineseTraditional" = "Tiếng Trung, bản dịch truyền thống";
+"Japanese" = "Bản dịch tiếng Nhật";
+"Spanish" = "Bản dịch tiếng Tây Ban Nha";
+
+"Welcome.Premium" = "Tính năng cao cấp";
+"Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính năng ứng dụng độc quyền";
+"Welcome.Player" = "Nâng cao trình phát";
+"Welcome.PlayerDesc" = "Cài đặt trình phát linh hoạt và các tính năng bổ sung để nâng cao trải nghiệm trình phát của bạn";
+"Welcome.Gestures" = "Cử chỉ linh hoạt";
+"Welcome.GesturesDesc" = "Cử chỉ bổ sung và cải tiến của những cái hiện có. Thời lượng bỏ qua tùy chỉnh và hơn thế nữa";
+"Welcome.More" = "Và hơn thế nữa";
+"Welcome.MoreDesc" = "Thiết lập tab khởi động, thay đổi áp phích và tiêu đề của trình phát trong trung tâm điều khiển, cập nhật thông báo, v.v.";
+"SupportMe" = "Hỗ trợ tôi";
+"Continue" = "Tiếp tục";
