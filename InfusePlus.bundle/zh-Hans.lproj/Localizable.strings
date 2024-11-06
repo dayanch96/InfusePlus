@@ -1,8 +1,8 @@
 "EnablePlus" = "功能启用";
 
 "PremiumSettings" = "会员订阅";
-"ProFeatures" = "启用Pro功能";
-"ProFeaturesDesc" = "启用需要付费订阅的Pro功能";
+"ProFeatures" = "启用 Pro 功能";
+"ProFeaturesDesc" = "启用需要付费订阅的 Pro 功能";
 "BackgroundPlayback" = "后台播放";
 "BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
 
@@ -17,8 +17,8 @@
 "SpeedByLongTapDesc" = "按住“播放\/暂停”按钮可将播放速度加快至所选速度";
 "FlexibleTimer" = "灵活的计时器";
 "FlexibleTimerDesc" = "通过点击剩余时间在“剩余播放时间、总时长和播放结束时间”之间切换";
-"24hrFormat" = "24小时格式";
-"24hrFormatDesc" = "以24小时格式显示播放结束时间";
+"24hrFormat" = "24 小时格式";
+"24hrFormatDesc" = "以 24 小时格式显示播放结束时间";
 
 "SelectSpeedHeader" = "长按播放速度";
 
@@ -44,15 +44,15 @@
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
-"UpdateLocalizationsDesc" = "启动时自动从GitHub更新翻译本地化文件。确保了如果翻译人员对翻译进行了任何更新，无需等待下个InfusePlus版本即可更新。";
-"NewUpdate" = "Infuse Plus %@ is out!";
-"Update.Tweak" = "Get it from Github";
-"Update.IPA" = "Download IPA from Telegram";
-"Update.Dismiss" = "Dismiss";
+"UpdateLocalizationsDesc" = "启动时自动从 GitHub 更新翻译本地化文件。确保了如果翻译人员对翻译进行了任何更新，无需等待下个 Infuse Plus 版本即可更新。";
+"NewUpdate" = "Infuse Plus %@ 已发布！";
+"Update.Tweak" = "从 Github 获取";
+"Update.IPA" = "从 Telegram 下载 IPA";
+"Update.Dismiss" = "取消";
 
 "Apply" = "应用更改";
 "Warning" = "警告";
-"ApplyMessage" = "此操作将关闭Infuse来应用生效，你确定吗？";
+"ApplyMessage" = "此操作将关闭 Infuse 来应用生效，你确定吗？";
 "Yes" = "是";
 "Cancel" = "取消";
 
@@ -60,12 +60,12 @@
 "Developer" = "开发者";
 "Telegram" = "电报频道";
 "TelegramDesc" = "能及时获取插件更新并在聊天中寻求帮助";
-"Donate" = "捐赠";
-"DonateDesc" = "买一杯咖啡";
-"Github" = "Github页面";
+"Donate" = "捐赠作者";
+"DonateDesc" = "给开发者买一杯咖啡";
+"Github" = "Github 页面";
 "GithubDesc" = "反馈问题、跟踪和访问所有插件版本；记得给存储库点上⭐️哟。";
 
-"DonateMessage" = "如果您喜欢Infuse Plus并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
+"DonateMessage" = "如果您喜欢 Infuse Plus 并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
 "MaybeLater" = "也许以后";
 "Copied" = "已复制到剪贴板";
 "Thanks" = "谢谢";
