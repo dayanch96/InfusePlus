@@ -9,16 +9,19 @@
 "PlayerSettings" = "Người chơi ";
 "DoubleTapPause" = "Nhấn đúp để phát/tạm dừng";
 "DoubleTapPauseDesc" = "Cho phép nhấn đúp để phát/tạm dừng cử chỉ trong trình phát";
-"PlaybackSpeedDesc" = "Thêm menu con tốc độ phát lại vào menu cài đặt phát lại";
-"VolumeBoostDesc" = "Thêm menu con tăng âm lượng vào menu cài đặt phát lại";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
 "SkipByLongTap" = "Bỏ qua Sử dụng Nhấn giữ";
 "SkipByLongTapDesc" = "Nhấn và giữ nút tua lại để chuyển sang video tiếp theo/trước đó";
 "SpeedByLongTap" = "Tăng tốc độ phát lại";
 "SpeedByLongTapDesc" = "Nhấn và giữ nút phát/tạm dừng sẽ tăng tốc độ phát lại";
 "FlexibleTimer" = "Hẹn giờ linh hoạt";
-"FlexibleTimerDesc" = "Cung cấp khả năng chuyển đổi giữa hiển thị thời gian phát lại còn lại, tổng thời lượng và thời gian kết thúc phát lại bằng cách nhấn vào thời gian còn lại";
+"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
 "24hrFormat" = "Định dạng 24 giờ";
 "24hrFormatDesc" = "Hiển thị thời gian kết thúc phát lại ở định dạng 24 giờ";
+"RemainingTime" = "Remaining Time";
+"EndTime" = "End Time";
+"Duration" = "Duration";
 
 "SelectSpeedHeader" = "Nhấn và giữ tốc độ phát lại";
 

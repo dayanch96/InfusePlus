@@ -9,16 +9,19 @@
 "PlayerSettings" = "Player";
 "DoubleTapPause" = "Double Tap To Play/Pause";
 "DoubleTapPauseDesc" = "Enables double tap to play/pause gesture in the player";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
 "SpeedByLongTap" = "Speed up playback";
 "SpeedByLongTapDesc" = "Pressing and holding the play/pause button speeds up playback rate";
 "FlexibleTimer" = "Flexible Timer";
-"FlexibleTimerDesc" = "Provides the ability to toggle between displaying the remaining playback time, total duration, and playback end time by tapping on the remaining time";
+"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
 "24hrFormat" = "24-hour Format";
 "24hrFormatDesc" = "Displays the playback end time in 24-hour format";
+"RemainingTime" = "Remaining Time";
+"EndTime" = "End Time";
+"Duration" = "Duration";
 
 "SelectSpeedHeader" = "Press'n'Hold Playback Speed";
 

@@ -9,16 +9,19 @@
 "PlayerSettings" = "مشغل";
 "DoubleTapPause" = "النقر مرتين لـ التشغيل/الإيقاف المؤقت";
 "DoubleTapPauseDesc" = "النقر مرتين لتفعيل إيماءة التشغيل/الإيقاف المؤقت في المشغل.";
-"PlaybackSpeedDesc" = "إضافة قائمة فرعية لسرعة التشغيل إلى قائمة إعدادات التشغيل.";
-"VolumeBoostDesc" = "إضافة قائمة فرعية لتعزيز مستوى الصوت إلى قائمة إعدادات التشغيل.";
+"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
 "SkipByLongTap" = "تخطي باستخدام الضغط المطول";
 "SkipByLongTapDesc" = "الضغط مطولًا على أزرار الإرجاع السريع للانتقال إلى الفيديو التالي/السابق.";
 "SpeedByLongTap" = "تسريع التشغيل باستخدام الضغط مع الاستمرار";
 "SpeedByLongTapDesc" = "تسريع التشغيل إلى السرعة المحددة عن طريق الضغط مع الاستمرار على زر التشغيل/التوقف.";
 "FlexibleTimer" = "مؤقت مرن";
-"FlexibleTimerDesc" = "توفير القدرة على التبديل بين عرض الوقت المتبقي للتشغيل والمدة الإجمالية ووقت نهاية التشغيل بالنقر على الوقت المتبقي.";
+"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
 "24hrFormat" = "تنسيق 24 ساعة";
 "24hrFormatDesc" = "عرض وقت نهاية التشغيل بتنسيق 24 ساعة.";
+"RemainingTime" = "Remaining Time";
+"EndTime" = "End Time";
+"Duration" = "Duration";
 
 "SelectSpeedHeader" = "سرعة التشغيل بالضغط مع الاستمرار";
 
