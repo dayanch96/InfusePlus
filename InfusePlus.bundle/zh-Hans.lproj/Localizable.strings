@@ -9,19 +9,19 @@
 "PlayerSettings" = "播放增强";
 "DoubleTapPause" = "双击播放\/暂停";
 "DoubleTapPauseDesc" = "启用在播放器中的双击“播放\/暂停”手势";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单；此选项将覆盖 Infuse 8 上的原有子菜单。";
+"VolumeBoostDesc" = "在播放设置菜单中添加音量增强子菜单；此选项将覆盖 Infuse 8 上的原有子菜单。";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "SpeedByLongTap" = "长按加速播放";
 "SpeedByLongTapDesc" = "按住“播放\/暂停”按钮可将播放速度加快至所选速度";
 "FlexibleTimer" = "灵活的计时器";
-"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
+"FlexibleTimerDesc" = "在播放设置菜单中添加灵活的计时器子菜单，可以在显示剩余播放时间、总时长和播放结束时间之间切换";
 "24hrFormat" = "24 小时格式";
 "24hrFormatDesc" = "以 24 小时格式显示播放结束时间";
-"RemainingTime" = "Remaining Time";
-"EndTime" = "End Time";
-"Duration" = "Duration";
+"RemainingTime" = "剩余时间";
+"EndTime" = "结束时间";
+"Duration" = "总时长";
 
 "SelectSpeedHeader" = "长按播放速度";
 
