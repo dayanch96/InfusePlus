@@ -9,19 +9,19 @@
 "PlayerSettings" = "播放器設定";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"PlaybackSpeedDesc" = "在播放設定選單中新增播放速度子選單。此選項會覆蓋Infuse 8的預設子選單";
+"VolumeBoostDesc" = "在播放設定選單中新增音量增強子選單。此選項會覆蓋Infuse 8的預設子選單";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "SpeedByLongTap" = "長按播放速度";
 "SpeedByLongTapDesc" = "長按播放/暫停按鈕可以加快播放速度至所選速度";
 "FlexibleTimer" = "彈性計時器";
-"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
+"FlexibleTimerDesc" = "在播放設定選單中新增彈性計時器子選單，提供切換顯示剩餘播放時間、總播放時間和播放結束時間的功能";
 "24hrFormat" = "24小時制";
 "24hrFormatDesc" = "播放結束時間將以24小時制顯示";
-"RemainingTime" = "Remaining Time";
-"EndTime" = "End Time";
-"Duration" = "Duration";
+"RemainingTime" = "剩餘時間";
+"EndTime" = "結束時間";
+"Duration" = "總播放時間";
 
 "SelectSpeedHeader" = "長按播放速度";
 
@@ -29,7 +29,7 @@
 "ButtonSeekTimeDesc" = "自訂快轉/倒轉按鈕時間";
 "DoubleTapSeekTime" = "自訂點兩下跳過時間";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
-"Seconds" = "%ld 秒";
+"Seconds" = "%ld秒";
 
 "OtherSettings" = "其它設定";
 "MRNowPlayingHeader" = "正在播放的播放器";
