@@ -10,31 +10,31 @@
 "DoubleTapPause" = "双击播放\/暂停";
 "DoubleTapPauseDesc" = "启用在播放器中的双击“播放\/暂停”手势";
 "PlaybackSpeedDesc" = "在播放设置菜单中添加播放速度子菜单；此选项将覆盖 Infuse 8 上的原有子菜单";
-"VolumeBoostDesc" = "在播放设置菜单中添加音量增强子菜单；此选项将覆盖 Infuse 8 上的原有子菜单";
-"NoStockPlaybackSpeed" = "No stock playback speed";
-"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
-"NoStockVolumeBoost" = "No stock volume boost";
-"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
+"VolumeBoostDesc" = "在播放设置菜单中添加声音增强子菜单；此选项将覆盖 Infuse 8 上的原有子菜单";
+"NoStockPlaybackSpeed" = "无原生播放速度";
+"NoStockPlaybackSpeedDesc" = "从播放设置菜单中删除原生播放速度子菜单";
+"NoStockVolumeBoost" = "无原生声音增强";
+"NoStockVolumeBoostDesc" = "从播放设置菜单中删除原生声音增强子菜单";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
-"LoopButton" = "Loop Button";
-"LoopButtonDesc" = "Adds a loop button to the overlay";
-"SkipButtons" = "Skip buttons";
-"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
-"HideRewindButtons" = "Hide Rewind Buttons";
-"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+"LoopButton" = "循环按钮";
+"LoopButtonDesc" = "在播放界面添加循环按钮";
+"SkipButtons" = "跳过按钮";
+"SkipButtonsDesc" = "在播放界面添加跳至下一个和上一个按钮";
+"HideRewindButtons" = "隐藏快退按钮";
+"HideRewindButtonsDesc" = "从播放界面删除快退和快进按钮";
 
-"ShowStatusBar" = "Show Status Bar";
-"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
-"BatteryPercentage" = "Show Battery Percentage";
-"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
-"ModernPercentage" = "Modern Percentage";
-"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+"ShowStatusBar" = "显示状态栏";
+"ShowStatusBarDesc" = "在播放器中显示连接、时间和电池电量的状态栏";
+"BatteryPercentage" = "显示电池百分比";
+"BatteryPercentageDesc" = "在状态栏中显示电池百分比";
+"ModernPercentage" = "现代百分比";
+"ModernPercentageDesc" = "组合电池图标和百分比，如图标所示";
 
-"SpeedByLongTap" = "Speed Up Playback";
-"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
-"AdjustSpeedGesture" = "Adjust Playback Speed";
-"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+"SpeedByLongTap" = "播放加速";
+"SpeedByLongTapDesc" = "按住播放界面可加快播放速度";
+"AdjustSpeedGesture" = "调整播放速度";
+"AdjustSpeedGestureDesc" = "长按可上下移动调整播放速度";
 
 "FlexibleTimer" = "灵活的计时器";
 "FlexibleTimerDesc" = "在播放设置菜单中添加灵活的计时器子菜单，可以在显示剩余播放时间、总时长和播放结束时间之间切换";
@@ -72,25 +72,25 @@
 "NewUpdate" = "Infuse Plus %@ 已发布！";
 "Update.Tweak" = "从 Github 获取";
 "Update.IPA" = "从 Telegram 下载 IPA";
-"Update.Repo" = "Open repositories list";
+"Update.Repo" = "打开存储库列表";
 "Update.Dismiss" = "取消";
 
-"PrefsHeader" = "Infuse Plus Preferences";
-"ImportPrefs" = "Import Preferences";
-"ExportPrefs" = "Export Preferences";
-"RestoreDefaults" = "Restore Default Preferences";
+"PrefsHeader" = "Infuse Plus 偏好设置";
+"ImportPrefs" = "导入偏好设置";
+"ExportPrefs" = "导出偏好设置";
+"RestoreDefaults" = "恢复默认设置";
 
-"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
-"Import.Yes" = "Yes, import preferences";
-"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
-"Reset.Yes" = "Yes, reset to defaults";
-"No" = "No";
+"PreImportMessage" = "即将导入 Infuse Plus 偏好设置；此操作将永久覆盖您当前的偏好设置。\n\n您想继续吗？";
+"Import.Yes" = "是的，导入偏好设置";
+"PreResetMessage" = "即将把 Infuse Plus 偏好设置重置为默认值；此操作将导致您配置的所有偏好设置丢失。\n\n您想继续吗？";
+"Reset.Yes" = "是的，重置为默认值";
+"No" = "不";
 "Yes" = "是";
 "Cancel" = "取消";
 
 "AboutHeader" = "关于";
 "Developer" = "开发者";
-"Donate" = "Support Development";
+"Donate" = "支持开发";
 "DonateDesc" = "给开发者买一杯咖啡";
 
 "DonateMessage" = "如果您喜欢 Infuse Plus 并想支持我，您可以使用以下任何一种方便的方式给我买一杯咖啡。\n\n谢谢❤";
@@ -98,7 +98,7 @@
 "Copied" = "已复制到剪贴板";
 "Thanks" = "谢谢";
 
-"LinksHeader" = "Links";
+"LinksHeader" = "链接";
 
 "SpecialThanks" = "特别鸣谢";
 "TopContributors" = "杰出贡献者";
