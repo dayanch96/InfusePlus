@@ -11,10 +11,31 @@
 "DoubleTapPauseDesc" = "Habilita el gesto de doble toque para reproducir/pausar en el reproductor";
 "PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
 "VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"NoStockPlaybackSpeed" = "No stock playback speed";
+"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
+"NoStockVolumeBoost" = "No stock volume boost";
+"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
 "SkipByLongTap" = "Saltar con pulsación larga";
 "SkipByLongTapDesc" = "Pulsando prolongadamente los botones de rebobinado se salta al vídeo siguiente/anterior";
-"SpeedByLongTap" = "Reproducción rápida manteniendo pulsado";
-"SpeedByLongTapDesc" = "Acelera la reproducción a la velocidad seleccionada manteniendo pulsado el botón de reproducción/pausa.";
+"LoopButton" = "Loop Button";
+"LoopButtonDesc" = "Adds a loop button to the overlay";
+"SkipButtons" = "Skip buttons";
+"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
+"HideRewindButtons" = "Hide Rewind Buttons";
+"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+
+"ShowStatusBar" = "Show Status Bar";
+"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
+"BatteryPercentage" = "Show Battery Percentage";
+"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
+"ModernPercentage" = "Modern Percentage";
+"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+
+"SpeedByLongTap" = "Speed Up Playback";
+"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
+"AdjustSpeedGesture" = "Adjust Playback Speed";
+"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+
 "FlexibleTimer" = "Temporizador flexible";
 "FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
 "24hrFormat" = "Formato 24 horas";
@@ -22,8 +43,6 @@
 "RemainingTime" = "Remaining Time";
 "EndTime" = "End Time";
 "Duration" = "Duration";
-
-"SelectSpeedHeader" = "Pulsar y mantener velocidad de reproducción";
 
 "ButtonSeekTime" = "Tiempo de salto de botón personalizado";
 "ButtonSeekTimeDesc" = "Habilita un tiempo de búsqueda personalizado para los botones de retroceso y avance";
@@ -33,8 +52,6 @@
 
 "OtherSettings" = "Otros";
 "MRNowPlayingHeader" = "Reproductor en reproducción";
-"StartupPageHeader" = "Página de inicio";
-"UpdateHeader" = "Actualización de Infuse Plus";
 "ChangePosterTitle" = "Título y poster";
 "ChangePosterTitleDesc" = "Sustituye el título y el póster del reproductor que se muestran en el centro de notificaciones y control";
 "MovieTitle" = "Título";
@@ -44,6 +61,10 @@
 "PosterSelected" = "Póster seleccionado";
 "PosterDeleted" = "Póster eliminado";
 "PosterTitleFooter" = "Dejar el título vacío para aplicar sólo la imagen del póster";
+
+"StartupPageHeader" = "Página de inicio";
+
+"UpdateHeader" = "Actualización de Infuse Plus";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay disponible una nueva versión del tweak";
 "UpdateLocalizations" = "Actualizar localizaciones";
@@ -51,27 +72,33 @@
 "NewUpdate" = "Infuse Plus %@ is out!";
 "Update.Tweak" = "Get it from Github";
 "Update.IPA" = "Download IPA from Telegram";
+"Update.Repo" = "Open repositories list";
 "Update.Dismiss" = "Dismiss";
 
-"Apply" = "Aplicar cambios";
-"Warning" = "Advertencia";
-"ApplyMessage" = "Esta acción cerrará Infuse para aplicar los cambios. ¿Estás seguro?";
+"PrefsHeader" = "Infuse Plus Preferences";
+"ImportPrefs" = "Import Preferences";
+"ExportPrefs" = "Export Preferences";
+"RestoreDefaults" = "Restore Default Preferences";
+
+"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
+"Import.Yes" = "Yes, import preferences";
+"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
+"Reset.Yes" = "Yes, reset to defaults";
+"No" = "No";
 "Yes" = "Sí";
 "Cancel" = "Cancelar";
 
 "AboutHeader" = "Acerca de";
 "Developer" = "Infuse Plus Developer";
-"Telegram" = "My Telegram channel";
-"TelegramDesc" = "Get app updates first and reach out for help in the chat";
-"Donate" = "Donar";
+"Donate" = "Support Development";
 "DonateDesc" = "Cómprame un café";
-"Github" = "Página de Github";
-"GithubDesc" = "Report issues, track and access all tweak versions. Give the repository your star";
 
 "DonateMessage" = "Si te gusta Infuse Plus y quieres apoyarme, puedes comprarme un café usando cualquiera de las formas convenientes a continuación.\n\n¡Gracias❤!";
 "MaybeLater" = "Quizás después";
 "Copied" = "Copiado al portapapeles";
 "Thanks" = "Gracias";
+
+"LinksHeader" = "Links";
 
 "SpecialThanks" = "Agradecimientos especiales";
 "TopContributors" = "Top contributors";

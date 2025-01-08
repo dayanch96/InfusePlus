@@ -11,10 +11,31 @@
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "PlaybackSpeedDesc" = "在播放設定選單中新增播放速度子選單。此選項會覆蓋Infuse 8的預設子選單";
 "VolumeBoostDesc" = "在播放設定選單中新增音量增強子選單。此選項會覆蓋Infuse 8的預設子選單";
+"NoStockPlaybackSpeed" = "No stock playback speed";
+"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
+"NoStockVolumeBoost" = "No stock volume boost";
+"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
-"SpeedByLongTap" = "長按播放速度";
-"SpeedByLongTapDesc" = "長按播放/暫停按鈕可以加快播放速度至所選速度";
+"LoopButton" = "Loop Button";
+"LoopButtonDesc" = "Adds a loop button to the overlay";
+"SkipButtons" = "Skip buttons";
+"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
+"HideRewindButtons" = "Hide Rewind Buttons";
+"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+
+"ShowStatusBar" = "Show Status Bar";
+"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
+"BatteryPercentage" = "Show Battery Percentage";
+"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
+"ModernPercentage" = "Modern Percentage";
+"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+
+"SpeedByLongTap" = "Speed Up Playback";
+"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
+"AdjustSpeedGesture" = "Adjust Playback Speed";
+"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+
 "FlexibleTimer" = "彈性計時器";
 "FlexibleTimerDesc" = "在播放設定選單中新增彈性計時器子選單，提供切換顯示剩餘播放時間、總播放時間和播放結束時間的功能";
 "24hrFormat" = "24小時制";
@@ -22,8 +43,6 @@
 "RemainingTime" = "剩餘時間";
 "EndTime" = "結束時間";
 "Duration" = "總播放時間";
-
-"SelectSpeedHeader" = "長按播放速度";
 
 "ButtonSeekTime" = "自訂按鈕跳過時間";
 "ButtonSeekTimeDesc" = "自訂快轉/倒轉按鈕時間";
@@ -33,8 +52,6 @@
 
 "OtherSettings" = "其它設定";
 "MRNowPlayingHeader" = "正在播放的播放器";
-"StartupPageHeader" = "起始頁面";
-"UpdateHeader" = "Infuse Plus更新";
 "ChangePosterTitle" = "標題和封面";
 "ChangePosterTitleDesc" = "更換在通知和控制中心顯示的播放器標題和封面";
 "MovieTitle" = "標題";
@@ -44,6 +61,10 @@
 "PosterSelected" = "封面已設定";
 "PosterDeleted" = "封面已刪除";
 "PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
+
+"StartupPageHeader" = "起始頁面";
+
+"UpdateHeader" = "Infuse Plus更新";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
@@ -51,27 +72,33 @@
 "NewUpdate" = "Infuse Plus %@ 已發布!";
 "Update.Tweak" = "從Github取得";
 "Update.IPA" = "從Telegram下載IPA";
+"Update.Repo" = "Open repositories list";
 "Update.Dismiss" = "關閉";
 
-"Apply" = "套用變更";
-"Warning" = "警告";
-"ApplyMessage" = "這個操作將關閉Infuse以套用變更，您確定要繼續嗎？";
+"PrefsHeader" = "Infuse Plus Preferences";
+"ImportPrefs" = "Import Preferences";
+"ExportPrefs" = "Export Preferences";
+"RestoreDefaults" = "Restore Default Preferences";
+
+"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
+"Import.Yes" = "Yes, import preferences";
+"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
+"Reset.Yes" = "Yes, reset to defaults";
+"No" = "No";
 "Yes" = "是";
 "Cancel" = "取消";
 
 "AboutHeader" = "關於";
 "Developer" = "開發者";
-"Telegram" = "我的Telegram頻道";
-"TelegramDesc" = "第一時間獲得應用程式更新資訊，並在聊天室中尋求幫助";
-"Donate" = "贊助";
+"Donate" = "Support Development";
 "DonateDesc" = "請我喝杯咖啡";
-"Github" = "Github";
-"GithubDesc" = "回報問題、追蹤並取得所有插件版本。請別吝設給儲存庫點個星";
 
 "DonateMessage" = "如果您喜歡Infuse Plus並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
 "MaybeLater" = "再等一會兒吧";
 "Copied" = "已複製到剪貼板";
 "Thanks" = "謝謝";
+
+"LinksHeader" = "Links";
 
 "SpecialThanks" = "特別鳴謝";
 "TopContributors" = "重要貢獻者";

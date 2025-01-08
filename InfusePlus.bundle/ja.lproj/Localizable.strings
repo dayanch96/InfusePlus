@@ -11,10 +11,31 @@
 "DoubleTapPauseDesc" = "プレイヤーで、ダブルタップして再生/一時停止ジェスチャーを有効にします";
 "PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
 "VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
+"NoStockPlaybackSpeed" = "No stock playback speed";
+"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
+"NoStockVolumeBoost" = "No stock volume boost";
+"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
-"SpeedByLongTap" = "Speed Playback Using Press'n'Hold";
-"SpeedByLongTapDesc" = "Speeds up playback to the selected speed by pressing and holding the play/pause button";
+"LoopButton" = "Loop Button";
+"LoopButtonDesc" = "Adds a loop button to the overlay";
+"SkipButtons" = "Skip buttons";
+"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
+"HideRewindButtons" = "Hide Rewind Buttons";
+"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+
+"ShowStatusBar" = "Show Status Bar";
+"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
+"BatteryPercentage" = "Show Battery Percentage";
+"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
+"ModernPercentage" = "Modern Percentage";
+"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+
+"SpeedByLongTap" = "Speed Up Playback";
+"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
+"AdjustSpeedGesture" = "Adjust Playback Speed";
+"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+
 "FlexibleTimer" = "Flexible Timer";
 "FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
 "24hrFormat" = "24-hour Format";
@@ -22,8 +43,6 @@
 "RemainingTime" = "Remaining Time";
 "EndTime" = "End Time";
 "Duration" = "Duration";
-
-"SelectSpeedHeader" = "Press'n'Hold Playback Speed";
 
 "ButtonSeekTime" = "Custom button skip time";
 "ButtonSeekTimeDesc" = "進む・戻るボタンのシーク時間をカスタマイズを有効にします";
@@ -33,8 +52,6 @@
 
 "OtherSettings" = "Other";
 "MRNowPlayingHeader" = "Now Playing Player";
-"StartupPageHeader" = "スタートアップページ";
-"UpdateHeader" = "Infuse Plus Update";
 "ChangePosterTitle" = "タイトルとポスターを設定します";
 "ChangePosterTitleDesc" = "通知とコントロールセンターに表示されるプレーヤーのタイトルとポスターを置き換えます";
 "MovieTitle" = "タイトル";
@@ -44,6 +61,10 @@
 "PosterSelected" = "ポスターを設置";
 "PosterDeleted" = "ポスターを削除";
 "PosterTitleFooter" = "ポスターの画像のみを適用する場合は、タイトルを空にします";
+
+"StartupPageHeader" = "スタートアップページ";
+
+"UpdateHeader" = "Infuse Plus Update";
 "NotifyUpdates" = "更新を通知する";
 "NotifyUpdatesDesc" = "Tweakの新しいバージョンが利用可能な場合にアラートを表示します";
 "UpdateLocalizations" = "Update Localizations";
@@ -51,26 +72,33 @@
 "NewUpdate" = "Infuse Plus %@ is out!";
 "Update.Tweak" = "Get it from Github";
 "Update.IPA" = "Download IPA from Telegram";
+"Update.Repo" = "Open repositories list";
 "Update.Dismiss" = "Dismiss";
-"Apply" = "変更を適用";
-"Warning" = "警告";
-"ApplyMessage" = "この操作はInfuseを終了して変更を適用します。よろしいですか?";
+
+"PrefsHeader" = "Infuse Plus Preferences";
+"ImportPrefs" = "Import Preferences";
+"ExportPrefs" = "Export Preferences";
+"RestoreDefaults" = "Restore Default Preferences";
+
+"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
+"Import.Yes" = "Yes, import preferences";
+"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
+"Reset.Yes" = "Yes, reset to defaults";
+"No" = "No";
 "Yes" = "はい";
 "Cancel" = "キャンセル";
 
 "AboutHeader" = "開発者Infuse Plus";
 "Developer" = "Infuse Plus Developer";
-"Telegram" = "My Telegram channel";
-"TelegramDesc" = "Stay updated, get app updates first, and reach out for help in the chat";
-"Donate" = "寄付";
+"Donate" = "Support Development";
 "DonateDesc" = "コーヒーを買ってくれると嬉しいです";
-"Github" = "Githubページ";
-"GithubDesc" = "Report issues, track and access all tweak versions. Give the repository your star";
 
 "DonateMessage" = "Infuse Plusが気に入ってサポートしてくれる方、下記の方法でコーヒーをご購入いただければ幸いです \n\nありがとう❤";
 "MaybeLater" = "後で";
 "Copied" = "クリップボードにコピーされました";
 "Thanks" = "ありがとう";
+
+"LinksHeader" = "Links";
 
 "SpecialThanks" = "特別なお礼";
 "TopContributors" = "Top contributors";
