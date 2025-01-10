@@ -9,32 +9,32 @@
 "PlayerSettings" = "播放器設定";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
-"PlaybackSpeedDesc" = "在播放設定選單中新增播放速度子選單。此選項會覆蓋Infuse 8的預設子選單";
-"VolumeBoostDesc" = "在播放設定選單中新增音量增強子選單。此選項會覆蓋Infuse 8的預設子選單";
-"NoStockPlaybackSpeed" = "No stock playback speed";
-"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
-"NoStockVolumeBoost" = "No stock volume boost";
-"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
+"PlaybackSpeedDesc" = "在播放設定選單中新增播放速度選項。此選項會覆蓋 Infuse 8 的原生選項";
+"VolumeBoostDesc" = "在播放設定選單中新增音量增強選項。此選項會覆蓋 Infuse 8 的原生選項";
+"NoStockPlaybackSpeed" = "移除原生播放速度";
+"NoStockPlaybackSpeedDesc" = "從播放設定選單中移除原生播放速度選項";
+"NoStockVolumeBoost" = "移除原生音量增強";
+"NoStockVolumeBoostDesc" = "從播放設定選單中移除原生音量增強選項";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
-"LoopButton" = "Loop Button";
-"LoopButtonDesc" = "Adds a loop button to the overlay";
-"SkipButtons" = "Skip buttons";
-"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
-"HideRewindButtons" = "Hide Rewind Buttons";
-"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+"LoopButton" = "循環播放按鈕";
+"LoopButtonDesc" = "在播放介面加入循環播放按鈕";
+"SkipButtons" = "跳過按鈕";
+"SkipButtonsDesc" = "在播放介面加入上一個/下一個按鈕";
+"HideRewindButtons" = "隱藏快轉/倒轉按鈕";
+"HideRewindButtonsDesc" = "從播放介面移除快轉與倒轉按鈕";
 
-"ShowStatusBar" = "Show Status Bar";
-"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
-"BatteryPercentage" = "Show Battery Percentage";
-"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
-"ModernPercentage" = "Modern Percentage";
-"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+"ShowStatusBar" = "顯示狀態列";
+"ShowStatusBarDesc" = "在播放器中顯示包含連線狀態、時間與電池電量的狀態列";
+"BatteryPercentage" = "顯示電池百分比";
+"BatteryPercentageDesc" = "在狀態列中顯示電池百分比";
+"ModernPercentage" = "現代百分比";
+"ModernPercentageDesc" = "如圖所示，將電池圖示和百分比合併顯示";
 
-"SpeedByLongTap" = "Speed Up Playback";
-"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
-"AdjustSpeedGesture" = "Adjust Playback Speed";
-"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+"SpeedByLongTap" = "長按加速播放";
+"SpeedByLongTapDesc" = "長按播放介面可加快播放速度";
+"AdjustSpeedGesture" = "調整播放速度";
+"AdjustSpeedGestureDesc" = "長按時透過上下滑動調整播放速度";
 
 "FlexibleTimer" = "彈性計時器";
 "FlexibleTimerDesc" = "在播放設定選單中新增彈性計時器子選單，提供切換顯示剩餘播放時間、總播放時間和播放結束時間的功能";
@@ -72,25 +72,25 @@
 "NewUpdate" = "Infuse Plus %@ 已發布!";
 "Update.Tweak" = "從Github取得";
 "Update.IPA" = "從Telegram下載IPA";
-"Update.Repo" = "Open repositories list";
+"Update.Repo" = "開啟儲存庫列表";
 "Update.Dismiss" = "關閉";
 
-"PrefsHeader" = "Infuse Plus Preferences";
-"ImportPrefs" = "Import Preferences";
-"ExportPrefs" = "Export Preferences";
-"RestoreDefaults" = "Restore Default Preferences";
+"PrefsHeader" = "Infuse Plus偏好設定";
+"ImportPrefs" = "匯入偏好設定";
+"ExportPrefs" = "匯出偏好設定";
+"RestoreDefaults" = "還原預設偏好設定";
 
-"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
-"Import.Yes" = "Yes, import preferences";
-"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
-"Reset.Yes" = "Yes, reset to defaults";
-"No" = "No";
+"PreImportMessage" = "即將匯入Infuse Plus偏好設定。此動作將永久覆蓋您目前的偏好設定。\n\n是否要繼續?";
+"Import.Yes" = "是的，匯入偏好設定";
+"PreResetMessage" = "Infuse Plus即將重設偏好設定為預設值。此動作將導致您所有已設定的偏好設定遺失。\n\n是否要繼續?";
+"Reset.Yes" = "是的，重設為預設值";
+"No" = "不";
 "Yes" = "是";
 "Cancel" = "取消";
 
 "AboutHeader" = "關於";
 "Developer" = "開發者";
-"Donate" = "Support Development";
+"Donate" = "支持開發";
 "DonateDesc" = "請我喝杯咖啡";
 
 "DonateMessage" = "如果您喜歡Infuse Plus並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
@@ -98,7 +98,7 @@
 "Copied" = "已複製到剪貼板";
 "Thanks" = "謝謝";
 
-"LinksHeader" = "Links";
+"LinksHeader" = "相關連結";
 
 "SpecialThanks" = "特別鳴謝";
 "TopContributors" = "重要貢獻者";
