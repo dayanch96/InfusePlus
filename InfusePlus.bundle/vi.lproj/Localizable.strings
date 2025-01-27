@@ -30,6 +30,7 @@
 "BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
 "ModernPercentage" = "Modern Percentage";
 "ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
+"StatusBarFooter" = "On some devices, the battery percentage may be rounded to the nearest 5%. This is a limitation set by Apple.";
 
 "SpeedByLongTap" = "Speed Up Playback";
 "SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";

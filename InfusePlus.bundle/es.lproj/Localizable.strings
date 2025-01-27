@@ -30,6 +30,7 @@
 "BatteryPercentageDesc" = "Muestra el porcentaje de batería en la barra de estado";
 "ModernPercentage" = "Porcentaje moderno";
 "ModernPercentageDesc" = "Combina el icono de la batería y el porcentaje, como se muestra en el icono";
+"StatusBarFooter" = "On some devices, the battery percentage may be rounded to the nearest 5%. This is a limitation set by Apple.";
 
 "SpeedByLongTap" = "Acelerar reproducción";
 "SpeedByLongTapDesc" = "Manteniendo pulsada la superposición se acelera la velocidad de reproducción";
