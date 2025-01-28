@@ -30,7 +30,7 @@
 "BatteryPercentageDesc" = "在状态栏中显示电池百分比";
 "ModernPercentage" = "现代百分比";
 "ModernPercentageDesc" = "组合电池图标和百分比，如图标所示";
-"StatusBarFooter" = "On some devices, the battery percentage may be rounded to the nearest 5%. This is a limitation set by Apple.";
+"StatusBarFooter" = "在某些设备上，电池电量百分比可能会四舍五入到最接近的 5%。这是苹果公司的限制。";
 
 "SpeedByLongTap" = "播放加速";
 "SpeedByLongTapDesc" = "按住播放界面可加快播放速度";
