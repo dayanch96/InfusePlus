@@ -30,7 +30,7 @@
 "BatteryPercentageDesc" = "在狀態列中顯示電池百分比";
 "ModernPercentage" = "現代百分比";
 "ModernPercentageDesc" = "如圖所示，將電池圖示和百分比合併顯示";
-"StatusBarFooter" = "On some devices, the battery percentage may be rounded to the nearest 5%. This is a limitation set by Apple.";
+"StatusBarFooter" = "在某些裝置上，電池百分比可能會四捨五入到最接近的5%。這是 Apple 設定的限制。";
 
 "SpeedByLongTap" = "長按加速播放";
 "SpeedByLongTapDesc" = "長按播放介面可加快播放速度";
