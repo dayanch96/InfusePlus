@@ -1,49 +1,49 @@
 "EnablePlus" = "Bật";
 
-"PremiumSettings" = "Premium";
-"ProFeatures" = "Kích hoạt các tính năng chuyên nghiệp";
-"ProFeaturesDesc" = "Kích hoạt các tính năng chuyên nghiệp ban đầu không có sẵn nếu không đăng ký";
+"PremiumSettings" = "Chế độ Premium";
+"ProFeatures" = "Kích hoạt tính năng Pro";
+"ProFeaturesDesc" = "Kích hoạt các tính năng Pro không có sẵn ban đầu mà không có đăng ký";
 "BackgroundPlayback" = "Phát lại nền";
 "BackgroundPlaybackDesc" = "Thực thi phát lại trong nền và ngăn chặn việc vô hiệu hóa nó";
 
 "PlayerSettings" = "Người chơi ";
 "DoubleTapPause" = "Nhấn đúp để phát/tạm dừng";
 "DoubleTapPauseDesc" = "Cho phép nhấn đúp để phát/tạm dừng cử chỉ trong trình phát";
-"PlaybackSpeedDesc" = "Adds a playback speed submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
-"VolumeBoostDesc" = "Adds a volume boost submenu to the playback settings menu. This option overrides stock submenu on Infuse 8";
-"NoStockPlaybackSpeed" = "No Stock Playback Speed";
-"NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
-"NoStockVolumeBoost" = "No Stock Volume Boost";
-"NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
+"PlaybackSpeedDesc" = "Thêm một tùy chọn tốc độ phát lại vào menu cài đặt phát lại. Tùy chọn này ghi đè tùy chọn mặc định trên Infuse 8";
+"VolumeBoostDesc" = "Thêm một tùy chọn tăng âm lượng vào menu cài đặt phát lại. Tùy chọn này ghi đè tùy chọn mặc định trên Infuse 8";
+"NoStockPlaybackSpeed" = "Không có tốc độ phát lại mặc định";
+"NoStockPlaybackSpeedDesc" = "Loại bỏ tùy chọn tốc độ phát lại mặc định khỏi menu cài đặt phát lại";
+"NoStockVolumeBoost" = "Không có tăng âm lượng mặc định";
+"NoStockVolumeBoostDesc" = "Loại bỏ tùy chọn tăng âm lượng mặc định khỏi menu cài đặt phát lại";
 "SkipByLongTap" = "Bỏ qua Sử dụng Nhấn giữ";
 "SkipByLongTapDesc" = "Nhấn và giữ nút tua lại để chuyển sang video tiếp theo/trước đó";
-"LoopButton" = "Loop Button";
-"LoopButtonDesc" = "Adds a loop button to the overlay";
-"SkipButtons" = "Skip buttons";
-"SkipButtonsDesc" = "Adds skip to next and previous buttons to the overlay";
-"HideRewindButtons" = "Hide Rewind Buttons";
-"HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
+"LoopButton" = "Nút lặp lại";
+"LoopButtonDesc" = "Thêm nút lặp lại vào lớp phủ";
+"SkipButtons" = "Nút bỏ qua";
+"SkipButtonsDesc" = "Thêm nút bỏ qua tới tiếp theo và trước đó vào lớp phủ";
+"HideRewindButtons" = "Ẩn nút tua lại";
+"HideRewindButtonsDesc" = "Loại bỏ các nút tua lại và tua nhanh khỏi lớp phủ";
 
-"ShowStatusBar" = "Show Status Bar";
-"ShowStatusBarDesc" = "Shows status bar with connection, time and battery level in the player";
-"BatteryPercentage" = "Show Battery Percentage";
-"BatteryPercentageDesc" = "Displays the battery percentage in the status bar";
-"ModernPercentage" = "Modern Percentage";
-"ModernPercentageDesc" = "Combines the battery icon and percentage, as shown in the icon";
-"StatusBarFooter" = "On some devices, the battery percentage may be rounded to the nearest 5%. This is a limitation set by Apple.";
+"ShowStatusBar" = "Hiển thị thanh trạng thái";
+"ShowStatusBarDesc" = "Hiển thị thanh trạng thái với kết nối, thời gian và mức pin trong trình phát";
+"BatteryPercentage" = "Hiển thị phần trăm pin";
+"BatteryPercentageDesc" = "Hiển thị phần trăm pin trong thanh trạng thái";
+"ModernPercentage" = "Phần trăm hiện đại";
+"ModernPercentageDesc" = "Kết hợp biểu tượng pin và phần trăm, như trong biểu tượng";
+"StatusBarFooter" = "Trên một số thiết bị, phần trăm pin có thể được làm tròn đến số gần nhất 5%. Đây là một hạn chế do Apple đặt ra.";
 
-"SpeedByLongTap" = "Speed Up Playback";
-"SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
-"AdjustSpeedGesture" = "Adjust Playback Speed";
-"AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+"SpeedByLongTap" = "Tăng tốc phát lại";
+"SpeedByLongTapDesc" = "Nhấn và giữ lớp phủ để tăng tốc độ phát lại";
+"AdjustSpeedGesture" = "Điều chỉnh tốc độ phát lại";
+"AdjustSpeedGestureDesc" = "Cho phép điều chỉnh tốc độ phát lại với các chuyển động lên/xuống trong khi nhấn dài";
 
 "FlexibleTimer" = "Hẹn giờ linh hoạt";
-"FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
+"FlexibleTimerDesc" = "Thêm một tùy chọn bộ đếm thời gian linh hoạt vào menu cài đặt phát lại để cung cấp khả năng chuyển đổi giữa việc hiển thị thời gian còn lại, tổng thời gian và thời gian kết thúc";
 "24hrFormat" = "Định dạng 24 giờ";
 "24hrFormatDesc" = "Hiển thị thời gian kết thúc phát lại ở định dạng 24 giờ";
-"RemainingTime" = "Remaining Time";
-"EndTime" = "End Time";
-"Duration" = "Duration";
+"RemainingTime" = "Thời gian còn lại";
+"EndTime" = "Thời gian kết thúc";
+"Duration" = "Thời gian";
 
 "ButtonSeekTime" = "Nút tùy chỉnh bỏ qua thời gian";
 "ButtonSeekTimeDesc" = "Cho phép tùy chỉnh thời gian bỏ qua cho các nút lùi và tiến";
@@ -70,28 +70,28 @@
 "NotifyUpdatesDesc" = "Hiển thị cảnh báo nếu có phiên bản mới của tinh chỉnh";
 "UpdateLocalizations" = "Cập nhật bản dịch";
 "UpdateLocalizationsDesc" = "Tự động cập nhật các tệp bản dịch từ GitHub khi khởi động. Điều này đảm bảo rằng nếu người dịch đã thực hiện bất kỳ cập nhật nào cho bản dịch, bạn sẽ không phải đợi bản phát hành Infuse Plus tiếp theo để được hưởng lợi từ chúng";
-"NewUpdate" = "Infuse Plus %@ đã hết!";
+"NewUpdate" = "Infuse Plus %@ đã cũ!";
 "Update.Tweak" = "Lấy nó từ Github";
 "Update.IPA" = "Tải xuống IPA từ Telegram";
-"Update.Repo" = "Open repositories list";
+"Update.Repo" = "Mở danh sách kho lưu trữ";
 "Update.Dismiss" = "Loại bỏ";
 
-"PrefsHeader" = "Infuse Plus Preferences";
-"ImportPrefs" = "Import Preferences";
-"ExportPrefs" = "Export Preferences";
-"RestoreDefaults" = "Restore Default Preferences";
+"PrefsHeader" = "Tùy chọn Infuse Plus";
+"ImportPrefs" = "Nhập tùy chọn";
+"ExportPrefs" = "Xuất tùy chọn";
+"RestoreDefaults" = "Khôi phục tùy chọn mặc định";
 
-"PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
-"Import.Yes" = "Yes, import preferences";
-"PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
-"Reset.Yes" = "Yes, reset to defaults";
-"No" = "No";
-"Yes" = "Đúng";
-"Cancel" = "Hủy bỏ";
+"PreImportMessage" = "Bạn sắp nhập các tùy chọn Infuse Plus. Hành động này sẽ ghi đè vĩnh viễn các tùy chọn hiện tại của bạn.\n\nBạn có muốn tiếp tục không?";
+"Import.Yes" = "Có, nhập tùy chọn";
+"PreResetMessage" = "Bạn sắp đặt lại các tùy chọn Infuse Plus về giá trị mặc định. Hành động này sẽ làm mất tất cả các tùy chọn đã cấu hình của bạn.\n\nBạn có muốn tiếp tục không?";
+"Reset.Yes" = "Có, đặt lại về mặc định";
+"No" = "Không";
+"Yes" = "Có";
+"Cancel" = "Hủy";
 
 "AboutHeader" = "Giới thiệu";
 "Developer" = "Nhà phát triển Infuse Plus";
-"Donate" = "Support Development";
+"Donate" = "Hỗ trợ nhà phát triển";
 "DonateDesc" = "Mua cho tôi một ly cà phê";
 
 "DonateMessage" = "Nếu bạn thích Infuse Plus và muốn ủng hộ tôi, bạn có thể mua cho tôi một ly cà phê bằng bất kỳ cách nào thuận tiện dưới đây.\n\nCảm ơn❤";
@@ -99,16 +99,16 @@
 "Copied" = "Đã sao chép vào bảng nhớ tạm";
 "Thanks" = "Cảm ơn";
 
-"LinksHeader" = "Links";
+"LinksHeader" = "Liên kết";
 
 "SpecialThanks" = "Cảm ơn đặc biệt";
 "TopContributors" = "Những người đóng góp hàng đầu";
 "Translators" = "Bản dịch";
-"Arabic" = "Bản dịch tiếng Ả Rập";
-"ChineseSimplified" = "Tiếng Trung, bản dịch giản thể";
-"ChineseTraditional" = "Tiếng Trung, bản dịch truyền thống";
-"Japanese" = "Bản dịch tiếng Nhật";
-"Spanish" = "Bản dịch tiếng Tây Ban Nha";
+"Arabic" = "Tiếng Ả Rập";
+"ChineseSimplified" = "Tiếng Trung (giản thể)";
+"ChineseTraditional" = "Tiếng Trung (phồn thể)";
+"Japanese" = "Tiếng Nhật";
+"Spanish" = "Tiếng Tây Ban Nha";
 
 "Welcome.Premium" = "Tính năng cao cấp";
 "Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính năng ứng dụng độc quyền";
