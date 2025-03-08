@@ -1,67 +1,67 @@
 "EnablePlus" = "Bật";
 
-"PremiumSettings" = "Chế độ Premium";
-"ProFeatures" = "Kích hoạt tính năng Pro";
-"ProFeaturesDesc" = "Kích hoạt các tính năng Pro không có sẵn ban đầu mà không có đăng ký";
-"BackgroundPlayback" = "Phát lại nền";
-"BackgroundPlaybackDesc" = "Thực thi phát lại trong nền và ngăn chặn việc vô hiệu hóa nó";
+"PremiumSettings" = "Premium";
+"ProFeatures" = "Bật tính năng trả phí";
+"ProFeaturesDesc" = "Kích hoạt các tính năng trả phí mà không cần thanh toán";
+"BackgroundPlayback" = "Phát lại trong nền";
+"BackgroundPlaybackDesc" = "Buộc phát lại trong nền và ngăn chặn việc vô hiệu hóa nó";
 
-"PlayerSettings" = "Người chơi ";
+"PlayerSettings" = "Trình phát";
 "DoubleTapPause" = "Nhấn đúp để phát/tạm dừng";
-"DoubleTapPauseDesc" = "Cho phép nhấn đúp để phát/tạm dừng cử chỉ trong trình phát";
-"PlaybackSpeedDesc" = "Thêm một tùy chọn tốc độ phát lại vào menu cài đặt phát lại. Tùy chọn này ghi đè tùy chọn mặc định trên Infuse 8";
-"VolumeBoostDesc" = "Thêm một tùy chọn tăng âm lượng vào menu cài đặt phát lại. Tùy chọn này ghi đè tùy chọn mặc định trên Infuse 8";
-"NoStockPlaybackSpeed" = "Không có tốc độ phát lại mặc định";
-"NoStockPlaybackSpeedDesc" = "Loại bỏ tùy chọn tốc độ phát lại mặc định khỏi menu cài đặt phát lại";
-"NoStockVolumeBoost" = "Không có tăng âm lượng mặc định";
-"NoStockVolumeBoostDesc" = "Loại bỏ tùy chọn tăng âm lượng mặc định khỏi menu cài đặt phát lại";
-"SkipByLongTap" = "Bỏ qua Sử dụng Nhấn giữ";
-"SkipByLongTapDesc" = "Nhấn và giữ nút tua lại để chuyển sang video tiếp theo/trước đó";
+"DoubleTapPauseDesc" = "Bật cử chỉ nhấn đúp để phát/tạm dừng trong trình phát";
+"PlaybackSpeedDesc" = "Thêm tùy chọn điều khiển tốc độ vào trình phát. Sẽ ghi đè tùy chọn mặc định của Infuse";
+"VolumeBoostDesc" = "Thêm tùy chọn khuếch đại âm lượng vào trình phát. Sẽ ghi đè tùy chọn mặc định của Infuse";
+"NoStockPlaybackSpeed" = "Ẩn tốc độ phát lại mặc định";
+"NoStockPlaybackSpeedDesc" = "Loại bỏ tùy chọn tốc độ phát mặc định khỏi trình phát";
+"NoStockVolumeBoost" = "Ẩn khuếch đại âm lượng mặc định";
+"NoStockVolumeBoostDesc" = "Loại bỏ tùy chọn khuếch đại âm lượng mặc định khỏi trình phát";
+"SkipByLongTap" = "Nhấn giữ để chuyển video";
+"SkipByLongTapDesc" = "Nhấn giữ nút tua để chuyển sang video tiếp theo/trước đó";
 "LoopButton" = "Nút lặp lại";
 "LoopButtonDesc" = "Thêm nút lặp lại vào lớp phủ";
 "SkipButtons" = "Nút bỏ qua";
-"SkipButtonsDesc" = "Thêm nút bỏ qua tới tiếp theo và trước đó vào lớp phủ";
+"SkipButtonsDesc" = "Thêm nút chuyển sang video tiếp theo/trước đó vào lớp phủ";
 "HideRewindButtons" = "Ẩn nút tua lại";
-"HideRewindButtonsDesc" = "Loại bỏ các nút tua lại và tua nhanh khỏi lớp phủ";
+"HideRewindButtonsDesc" = "Loại bỏ nút tua lại khỏi lớp phủ";
 
 "ShowStatusBar" = "Hiển thị thanh trạng thái";
-"ShowStatusBarDesc" = "Hiển thị thanh trạng thái với kết nối, thời gian và mức pin trong trình phát";
+"ShowStatusBarDesc" = "Hiển thị thanh trạng thái với kết nối mạng, thời gian và mức pin trong trình phát";
 "BatteryPercentage" = "Hiển thị phần trăm pin";
-"BatteryPercentageDesc" = "Hiển thị phần trăm pin trong thanh trạng thái";
+"BatteryPercentageDesc" = "Hiển thị phần trăm pin trong trên trạng thái";
 "ModernPercentage" = "Phần trăm hiện đại";
-"ModernPercentageDesc" = "Kết hợp biểu tượng pin và phần trăm, như trong biểu tượng";
-"StatusBarFooter" = "Trên một số thiết bị, phần trăm pin có thể được làm tròn đến số gần nhất 5%. Đây là một hạn chế do Apple đặt ra.";
+"ModernPercentageDesc" = "Kết hợp biểu tượng pin và phần trăm, giống như mặc định";
+"StatusBarFooter" = "Trên một số thiết bị, phần trăm pin có thể được làm tròn đến 5%. Đây là một hạn chế do Apple đặt ra.";
 
 "SpeedByLongTap" = "Tăng tốc phát lại";
-"SpeedByLongTapDesc" = "Nhấn và giữ lớp phủ để tăng tốc độ phát lại";
+"SpeedByLongTapDesc" = "Nhấn giữ vào lớp phủ để tăng tốc độ phát lại";
 "AdjustSpeedGesture" = "Điều chỉnh tốc độ phát lại";
-"AdjustSpeedGestureDesc" = "Cho phép điều chỉnh tốc độ phát lại với các chuyển động lên/xuống trong khi nhấn dài";
+"AdjustSpeedGestureDesc" = "Cho phép điều chỉnh tốc độ phát lại bằng các thao tác lên/xuống trong khi nhấn giữ";
 
 "FlexibleTimer" = "Hẹn giờ linh hoạt";
-"FlexibleTimerDesc" = "Thêm một tùy chọn bộ đếm thời gian linh hoạt vào menu cài đặt phát lại để cung cấp khả năng chuyển đổi giữa việc hiển thị thời gian còn lại, tổng thời gian và thời gian kết thúc";
+"FlexibleTimerDesc" = "Thêm tùy chọn đếm thời gian linh hoạt vào trình phát. Có thể chuyển đổi giữa thời gian còn lại, tổng thời gian và thời gian kết thúc";
 "24hrFormat" = "Định dạng 24 giờ";
 "24hrFormatDesc" = "Hiển thị thời gian kết thúc phát lại ở định dạng 24 giờ";
 "RemainingTime" = "Thời gian còn lại";
 "EndTime" = "Thời gian kết thúc";
 "Duration" = "Thời gian";
 
-"ButtonSeekTime" = "Nút tùy chỉnh bỏ qua thời gian";
-"ButtonSeekTimeDesc" = "Cho phép tùy chỉnh thời gian bỏ qua cho các nút lùi và tiến";
-"DoubleTapSeekTime" = "Thời gian bỏ qua nhấn đúp tùy chỉnh";
-"DoubleTapSeekTimeDesc" = "Cho phép nhấn đúp tùy chỉnh để bỏ qua thời gian";
+"ButtonSeekTime" = "Tùy chỉnh thời gian tua";
+"ButtonSeekTimeDesc" = "Cho phép tùy chỉnh thời gian tua đi tua lại";
+"DoubleTapSeekTime" = "Tùy chỉnh thời gian nhấn đúp để tua";
+"DoubleTapSeekTimeDesc" = "Cho phép tùy chỉnh thòi gian khi nhấn đúp để tua";
 "Seconds" = "%ld giây";
 
 "OtherSettings" = "Khác";
-"MRNowPlayingHeader" = "Người chơi đang chơi";
+"MRNowPlayingHeader" = "Video đang phát";
 "ChangePosterTitle" = "Đặt tiêu đề và áp phích";
-"ChangePosterTitleDesc" = "Thay thế tiêu đề và áp phích của người chơi được hiển thị trong trung tâm thông báo và điều khiển";
+"ChangePosterTitleDesc" = "Thay thế tiêu đề và áp phích của video được hiển thị trong trung tâm thông báo và điều khiển";
 "MovieTitle" = "Tiêu đề";
 "EnterTitle" = "Nhập tiêu đề";
 "MoviePoster" = "Áp phích";
 "SelectPoster" = "Chọn hình ảnh";
-"PosterSelected" = "Bộ áp phích";
+"PosterSelected" = "Đã đặt áp phích";
 "PosterDeleted" = "Đã xóa áp phích";
-"PosterTitleFooter" = "Để trống tiêu đề chỉ áp dụng hình ảnh áp phích";
+"PosterTitleFooter" = "Để trống tiêu đề sẽ chỉ áp dụng hình ảnh áp phích";
 
 "StartupPageHeader" = "Trang khởi động";
 
@@ -69,22 +69,22 @@
 "NotifyUpdates" = "Thông báo cập nhật";
 "NotifyUpdatesDesc" = "Hiển thị cảnh báo nếu có phiên bản mới của tinh chỉnh";
 "UpdateLocalizations" = "Cập nhật bản dịch";
-"UpdateLocalizationsDesc" = "Tự động cập nhật các tệp bản dịch từ GitHub khi khởi động. Điều này đảm bảo rằng nếu người dịch đã thực hiện bất kỳ cập nhật nào cho bản dịch, bạn sẽ không phải đợi bản phát hành Infuse Plus tiếp theo để được hưởng lợi từ chúng";
+"UpdateLocalizationsDesc" = "Tự động cập nhật các bản dịch từ GitHub khi khởi động. Điều này đảm bảo rằng nếu người dịch đã thực hiện bất kỳ cập nhật nào cho bản dịch, bạn sẽ không phải đợi bản phát hành Infuse Plus tiếp theo để được hưởng lợi từ chúng";
 "NewUpdate" = "Infuse Plus %@ đã cũ!";
 "Update.Tweak" = "Lấy nó từ Github";
 "Update.IPA" = "Tải xuống IPA từ Telegram";
 "Update.Repo" = "Mở danh sách kho lưu trữ";
-"Update.Dismiss" = "Loại bỏ";
+"Update.Dismiss" = "Để sau";
 
-"PrefsHeader" = "Tùy chọn Infuse Plus";
-"ImportPrefs" = "Nhập tùy chọn";
-"ExportPrefs" = "Xuất tùy chọn";
-"RestoreDefaults" = "Khôi phục tùy chọn mặc định";
+"PrefsHeader" = "Cài đặt Infuse Plus";
+"ImportPrefs" = "Nhập cài đặt";
+"ExportPrefs" = "Xuất cài đặt";
+"RestoreDefaults" = "Đặt lại cài đặt";
 
-"PreImportMessage" = "Bạn sắp nhập các tùy chọn Infuse Plus. Hành động này sẽ ghi đè vĩnh viễn các tùy chọn hiện tại của bạn.\n\nBạn có muốn tiếp tục không?";
-"Import.Yes" = "Có, nhập tùy chọn";
-"PreResetMessage" = "Bạn sắp đặt lại các tùy chọn Infuse Plus về giá trị mặc định. Hành động này sẽ làm mất tất cả các tùy chọn đã cấu hình của bạn.\n\nBạn có muốn tiếp tục không?";
-"Reset.Yes" = "Có, đặt lại về mặc định";
+"PreImportMessage" = "Bạn sắp nhập các cài đặt Infuse Plus. Hành động này sẽ ghi đè vĩnh viễn các cài đặt hiện tại của bạn.\n\nBạn có muốn tiếp tục không?";
+"Import.Yes" = "Có, nhập cài đặt;
+"PreResetMessage" = "Bạn sắp đặt lại các cài đặt Infuse Plus về mặc định. Hành động này sẽ làm mất tất cả các cài đặt của bạn.\n\nBạn có muốn tiếp tục không?";
+"Reset.Yes" = "Có, đặt lại";
 "No" = "Không";
 "Yes" = "Có";
 "Cancel" = "Hủy";
@@ -94,8 +94,8 @@
 "Donate" = "Hỗ trợ nhà phát triển";
 "DonateDesc" = "Mua cho tôi một ly cà phê";
 
-"DonateMessage" = "Nếu bạn thích Infuse Plus và muốn ủng hộ tôi, bạn có thể mua cho tôi một ly cà phê bằng bất kỳ cách nào thuận tiện dưới đây.\n\nCảm ơn❤";
-"MaybeLater" = "Có lẽ sau này";
+"DonateMessage" = "Nếu bạn thích Infuse Plus và muốn ủng hộ tôi, bạn có thể mua cho tôi một ly cà phê bằng bất kỳ cách dưới đây.\n\nCảm ơn❤";
+"MaybeLater" = "Có lẽ để sau";
 "Copied" = "Đã sao chép vào bảng nhớ tạm";
 "Thanks" = "Cảm ơn";
 
@@ -111,12 +111,12 @@
 "Spanish" = "Tiếng Tây Ban Nha";
 
 "Welcome.Premium" = "Tính năng cao cấp";
-"Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính năng ứng dụng độc quyền";
-"Welcome.Player" = "Nâng cao trình phát";
-"Welcome.PlayerDesc" = "Cài đặt trình phát linh hoạt và các tính năng bổ sung để nâng cao trải nghiệm trình phát của bạn";
+"Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính trả phí";
+"Welcome.Player" = "Trình phát nâng cao";
+"Welcome.PlayerDesc" = "Trình phát linh hoạt với các tính năng bổ sung để nâng cao trải nghiệm của bạn";
 "Welcome.Gestures" = "Cử chỉ linh hoạt";
-"Welcome.GesturesDesc" = "Cử chỉ bổ sung và cải tiến của những cái hiện có. Thời lượng bỏ qua tùy chỉnh và hơn thế nữa";
+"Welcome.GesturesDesc" = "Thêm cử chỉ, cải tiến của những cái hiện có. Tùy chỉnh thời gian và hơn thế nữa";
 "Welcome.More" = "Và hơn thế nữa";
-"Welcome.MoreDesc" = "Thiết lập tab khởi động, thay đổi áp phích và tiêu đề của trình phát trong trung tâm điều khiển, cập nhật thông báo, v.v.";
+"Welcome.MoreDesc" = "Thiết lập trang khởi động, thay đổi áp phích và tiêu đề của video trong trung tâm điều khiển, thông báo, v.v.";
 "SupportMe" = "Hỗ trợ tôi";
 "Continue" = "Tiếp tục";
