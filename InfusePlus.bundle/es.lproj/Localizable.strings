@@ -110,6 +110,10 @@
 "Japanese" = "Traducción al Japonés";
 "Spanish" = "Traducción al Español";
 
+"Photos" = "Photos";
+"Imported" = "Imported";
+"MediaNotFound" = "Media not found";
+
 "Welcome.Premium" = "Funciones Premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la app";
 "Welcome.Player" = "Mejora del reproductor";

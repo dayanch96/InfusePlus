@@ -12,7 +12,7 @@ on:
 
       tweak_version:
         description: "The version of the tweak to use. Enter the version manually from dayanch96/InfusePlus/releases or leave default"
-        default: "2.0.1"
+        default: "2.1"
         required: true
         type: string
 
@@ -48,6 +48,8 @@ jobs:
 
       - name: Hide sensitive inputs
         uses: levibostian/action-hide-sensitive-inputs@v1
+        with:
+          exclude_inputs: display_name,tweak_version,bundle_id
 
       - name: Validate IPA URL
         run: |

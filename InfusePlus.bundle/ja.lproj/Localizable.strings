@@ -110,6 +110,10 @@
 "Japanese" = "日本語ローカライズ";
 "Spanish" = "スペイン語ローカライズ";
 
+"Photos" = "Photos";
+"Imported" = "Imported";
+"MediaNotFound" = "Media not found";
+
 "Welcome.Premium" = "Premium features";
 "Welcome.PremiumDesc" = "Get access to all exclusive app features";
 "Welcome.Player" = "Player enhancement";

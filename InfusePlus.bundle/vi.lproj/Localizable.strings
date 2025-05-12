@@ -82,7 +82,7 @@
 "RestoreDefaults" = "Đặt lại cài đặt";
 
 "PreImportMessage" = "Bạn sắp nhập các cài đặt Infuse Plus. Hành động này sẽ ghi đè vĩnh viễn các cài đặt hiện tại của bạn.\n\nBạn có muốn tiếp tục không?";
-"Import.Yes" = "Có, nhập cài đặt;
+"Import.Yes" = "Có, nhập cài đặt";
 "PreResetMessage" = "Bạn sắp đặt lại các cài đặt Infuse Plus về mặc định. Hành động này sẽ làm mất tất cả các cài đặt của bạn.\n\nBạn có muốn tiếp tục không?";
 "Reset.Yes" = "Có, đặt lại";
 "No" = "Không";
@@ -109,6 +109,10 @@
 "ChineseTraditional" = "Tiếng Trung (phồn thể)";
 "Japanese" = "Tiếng Nhật";
 "Spanish" = "Tiếng Tây Ban Nha";
+
+"Photos" = "Photos";
+"Imported" = "Imported";
+"MediaNotFound" = "Media not found";
 
 "Welcome.Premium" = "Tính năng cao cấp";
 "Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính trả phí";

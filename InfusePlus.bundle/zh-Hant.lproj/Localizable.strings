@@ -110,6 +110,10 @@
 "Japanese" = "日語在地化";
 "Spanish" = "西班牙語在地化";
 
+"Photos" = "Photos";
+"Imported" = "Imported";
+"MediaNotFound" = "Media not found";
+
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
 "Welcome.Player" = "播放器強化";
