@@ -110,9 +110,9 @@
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
 
-"Photos" = "Photos";
-"Imported" = "Imported";
-"MediaNotFound" = "Media not found";
+"Photos" = "照片";
+"Imported" = "已导入";
+"MediaNotFound" = "未找到媒体";
 
 "Welcome.Premium" = "高级功能";
 "Welcome.PremiumDesc" = "访问所有独家应用程序功能";
