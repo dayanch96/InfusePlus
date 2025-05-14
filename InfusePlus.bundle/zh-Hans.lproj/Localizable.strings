@@ -114,6 +114,17 @@
 "Imported" = "已导入";
 "MediaNotFound" = "未找到媒体";
 
+"ImportLinksFromFile" = "Import from file";
+"ExportLinksToFile" = "Export to file";
+"RemoveLinks" = "Remove all links";
+"AddLink" = "Add link";
+"AddViaURL" = "Direct URL";
+"URL" = "URL";
+"PlayDirectly" = "Play directly";
+"InvalidLink" = "Invalid link";
+"InvalidFile" = "Invalid file";
+"Done" = "Done";
+
 "Welcome.Premium" = "高级功能";
 "Welcome.PremiumDesc" = "访问所有独家应用程序功能";
 "Welcome.Player" = "播放增强";

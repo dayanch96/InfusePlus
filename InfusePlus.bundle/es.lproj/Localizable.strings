@@ -114,6 +114,17 @@
 "Imported" = "Importado";
 "MediaNotFound" = "Contenido no encontrado";
 
+"ImportLinksFromFile" = "Import from file";
+"ExportLinksToFile" = "Export to file";
+"RemoveLinks" = "Remove all links";
+"AddLink" = "Add link";
+"AddViaURL" = "Direct URL";
+"URL" = "URL";
+"PlayDirectly" = "Play directly";
+"InvalidLink" = "Invalid link";
+"InvalidFile" = "Invalid file";
+"Done" = "Done";
+
 "Welcome.Premium" = "Funciones premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la aplicación";
 "Welcome.Player" = "Mejoras del reproductor";
