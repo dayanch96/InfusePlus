@@ -114,12 +114,12 @@
 "Imported" = "已導入";
 "MediaNotFound" = "未找到媒體";
 
-"ImportLinksFromFile" = "從檔案導入";
+"ImportLinksFromFile" = "從檔案匯入";
 "ExportLinksToFile" = "匯出至檔案";
 "RemoveLinks" = "移除所有連結";
 "AddLink" = "新增連結";
-"AddViaURL" = "透過網址新增";
-"URL" = "網址";
+"AddViaURL" = "直連URL";
+"URL" = "輸入URL";
 "PlayDirectly" = "直接播放";
 "InvalidLink" = "無效連結";
 "InvalidFile" = "無效檔案";
