@@ -114,16 +114,16 @@
 "Imported" = "已導入";
 "MediaNotFound" = "未找到媒體";
 
-"ImportLinksFromFile" = "Import from file";
-"ExportLinksToFile" = "Export to file";
-"RemoveLinks" = "Remove all links";
-"AddLink" = "Add link";
-"AddViaURL" = "Direct URL";
-"URL" = "URL";
-"PlayDirectly" = "Play directly";
-"InvalidLink" = "Invalid link";
-"InvalidFile" = "Invalid file";
-"Done" = "Done";
+"ImportLinksFromFile" = "從檔案匯入";
+"ExportLinksToFile" = "匯出至檔案";
+"RemoveLinks" = "移除所有連結";
+"AddLink" = "新增連結";
+"AddViaURL" = "直連URL";
+"URL" = "輸入URL";
+"PlayDirectly" = "直接播放";
+"InvalidLink" = "無效連結";
+"InvalidFile" = "無效檔案";
+"Done" = "完成";
 
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
