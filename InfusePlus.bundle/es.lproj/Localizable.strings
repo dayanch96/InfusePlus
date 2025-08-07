@@ -114,23 +114,23 @@
 "Imported" = "Importado";
 "MediaNotFound" = "Contenido no encontrado";
 
-"LinkImport" = "Link Import";
-"ImportLinksFromFile" = "Import from file";
-"ExportLinksToFile" = "Export to file";
-"RemoveLinks" = "Remove all links";
-"AddLink" = "Add link";
-"AddViaURL" = "Direct URL";
+"LinkImport" = "Importar enlace";
+"ImportLinksFromFile" = "Importar desde archivo";
+"ExportLinksToFile" = "Exportar a archivo";
+"RemoveLinks" = "Eliminar todos los enlaces";
+"AddLink" = "Añadir enlace";
+"AddViaURL" = "URL directa";
 "URL" = "URL";
-"PlayDirectly" = "Play directly";
-"InvalidLink" = "Invalid link";
-"InvalidFile" = "Invalid file";
-"Done" = "Done";
+"PlayDirectly" = "Reproducir directamente";
+"InvalidLink" = "Enlace no válido";
+"InvalidFile" = "Archivo no válido";
+"Done" = "Hecho";
 
-"FileImport" = "File import";
-"ImportLocalFiles" = "Import local files";
-"LocalImport" = "Folder Import";
-"LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
-"FolderName" = "Set folder name";
+"FileImport" = "Importar archivos";
+"ImportLocalFiles" = "Importar archivos locales";
+"LocalImport" = "Importar carpeta";
+"LocalImportMessage" = "Dado que la selección de carpetas no es compatible con la carga lateral, esta solución alternativa permite seleccionar varios archivos de vídeo a la vez para importarlos de forma masiva.";
+"FolderName" = "Establecer nombre de carpeta";
 
 "Welcome.Premium" = "Funciones premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la aplicación";
