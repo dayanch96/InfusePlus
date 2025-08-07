@@ -114,6 +114,7 @@
 "Imported" = "Imported";
 "MediaNotFound" = "Media not found";
 
+"LinkImport" = "Link Import";
 "ImportLinksFromFile" = "Import from file";
 "ExportLinksToFile" = "Export to file";
 "RemoveLinks" = "Remove all links";
@@ -124,6 +125,12 @@
 "InvalidLink" = "Invalid link";
 "InvalidFile" = "Invalid file";
 "Done" = "Done";
+
+"FileImport" = "File import";
+"ImportLocalFiles" = "Import local files";
+"LocalImport" = "Folder Import";
+"LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
+"FolderName" = "Set folder name";
 
 "Welcome.Premium" = "Tính năng cao cấp";
 "Welcome.PremiumDesc" = "Có quyền truy cập vào tất cả các tính trả phí";

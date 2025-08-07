@@ -114,6 +114,7 @@
 "Imported" = "Importado";
 "MediaNotFound" = "Contenido no encontrado";
 
+"LinkImport" = "Link Import";
 "ImportLinksFromFile" = "Import from file";
 "ExportLinksToFile" = "Export to file";
 "RemoveLinks" = "Remove all links";
@@ -124,6 +125,12 @@
 "InvalidLink" = "Invalid link";
 "InvalidFile" = "Invalid file";
 "Done" = "Done";
+
+"FileImport" = "File import";
+"ImportLocalFiles" = "Import local files";
+"LocalImport" = "Folder Import";
+"LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
+"FolderName" = "Set folder name";
 
 "Welcome.Premium" = "Funciones premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la aplicación";

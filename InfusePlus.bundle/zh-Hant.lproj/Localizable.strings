@@ -114,6 +114,7 @@
 "Imported" = "已導入";
 "MediaNotFound" = "未找到媒體";
 
+"LinkImport" = "Link Import";
 "ImportLinksFromFile" = "從檔案匯入";
 "ExportLinksToFile" = "匯出至檔案";
 "RemoveLinks" = "移除所有連結";
@@ -124,6 +125,12 @@
 "InvalidLink" = "無效連結";
 "InvalidFile" = "無效檔案";
 "Done" = "完成";
+
+"FileImport" = "File import";
+"ImportLocalFiles" = "Import local files";
+"LocalImport" = "Folder Import";
+"LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
+"FolderName" = "Set folder name";
 
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
