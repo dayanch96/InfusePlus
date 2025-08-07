@@ -114,7 +114,7 @@
 "Imported" = "已导入";
 "MediaNotFound" = "未找到媒体";
 
-"LinkImport" = "Link Import";
+"LinkImport" = "链接导入";
 "ImportLinksFromFile" = "从文件导入";
 "ExportLinksToFile" = "导出到文件";
 "RemoveLinks" = "删除所有链接";
@@ -126,11 +126,11 @@
 "InvalidFile" = "无效文件";
 "Done" = "完成";
 
-"FileImport" = "File import";
-"ImportLocalFiles" = "Import local files";
-"LocalImport" = "Folder Import";
-"LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
-"FolderName" = "Set folder name";
+"FileImport" = "文件导入";
+"ImportLocalFiles" = "导入本地文件";
+"LocalImport" = "文件夹导入";
+"LocalImportMessage" = "由于侧载不支持文件夹选择，此解决方法允许一次选择多个视频文件进行批量导入。";
+"FolderName" = "设置文件夹名称";
 
 "Welcome.Premium" = "高级功能";
 "Welcome.PremiumDesc" = "访问所有独家应用程序功能";
