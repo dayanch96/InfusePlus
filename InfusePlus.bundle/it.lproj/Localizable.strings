@@ -1,0 +1,144 @@
+"EnablePlus" = "Abilita";
+
+"PremiumSettings" = "Premium";
+"ProFeatures" = "Abilita Funzioni Pro";
+"ProFeaturesDesc" = "Abilita le funzioni pro non inizialmente disponibili senza abbonamento";
+"BackgroundPlayback" = "Riproduzione in Background";
+"BackgroundPlaybackDesc" = "Forza la riproduzione in background e ne impedisce la disattivazione";
+
+"PlayerSettings" = "Lettore";
+"DoubleTapPause" = "Doppio Tocco per Play/Pausa";
+"DoubleTapPauseDesc" = "Abilita il gesto doppio tocco per play/pausa nel lettore";
+"PlaybackSpeedDesc" = "Aggiunge un sottomenu velocità di riproduzione al menu impostazioni riproduzione. Questa opzione sostituisce il sottomenu originale su Infuse 8";
+"VolumeBoostDesc" = "Aggiunge un sottomenu amplificazione volume al menu impostazioni riproduzione. Questa opzione sostituisce il sottomenu originale su Infuse 8";
+"NoStockPlaybackSpeed" = "Rimuovi Velocità Riproduzione Originale";
+"NoStockPlaybackSpeedDesc" = "Rimuove il sottomenu velocità di riproduzione originale dal menu impostazioni riproduzione";
+"NoStockVolumeBoost" = "Rimuovi Amplificazione Volume Originale";
+"NoStockVolumeBoostDesc" = "Rimuove il sottomenu amplificazione volume originale dal menu impostazioni riproduzione";
+"SkipByLongTap" = "Salta con Pressione Prolungata";
+"SkipByLongTapDesc" = "La pressione prolungata sui pulsanti di riavvolgimento salta al video successivo/precedente";
+"LoopButton" = "Pulsante Ripetizione";
+"LoopButtonDesc" = "Aggiunge un pulsante ripetizione alla sovrapposizione";
+"SkipButtons" = "Pulsanti Salto";
+"SkipButtonsDesc" = "Aggiunge i pulsanti salta al successivo e precedente alla sovrapposizione";
+"HideRewindButtons" = "Nascondi Pulsanti Riavvolgimento";
+"HideRewindButtonsDesc" = "Rimuove i pulsanti riavvolgimento e avanzamento rapido dalla sovrapposizione";
+
+"ShowStatusBar" = "Mostra Barra di Stato";
+"ShowStatusBarDesc" = "Mostra la barra di stato con connessione, orario e livello batteria nel lettore";
+"BatteryPercentage" = "Mostra Percentuale Batteria";
+"BatteryPercentageDesc" = "Visualizza la percentuale della batteria nella barra di stato";
+"ModernPercentage" = "Percentuale Moderna";
+"ModernPercentageDesc" = "Combina l'icona della batteria e la percentuale, come mostrato nell'icona";
+"StatusBarFooter" = "Su alcuni dispositivi, la percentuale della batteria potrebbe essere arrotondata al 5% più vicino. Questa è una limitazione impostata da Apple.";
+
+"SpeedByLongTap" = "Accelera Riproduzione";
+"SpeedByLongTapDesc" = "Tenere premuto sulla sovrapposizione accelera la velocità di riproduzione";
+"AdjustSpeedGesture" = "Regola Velocità Riproduzione";
+"AdjustSpeedGestureDesc" = "Consente di regolare la velocità di riproduzione con movimenti su/giù durante una pressione prolungata";
+
+"FlexibleTimer" = "Timer Flessibile";
+"FlexibleTimerDesc" = "Aggiunge un sottomenu timer flessibile al menu impostazioni riproduzione per fornire la possibilità di alternare tra visualizzazione del tempo rimanente, durata totale e orario di fine riproduzione";
+"24hrFormat" = "Formato 24 ore";
+"24hrFormatDesc" = "Visualizza l'orario di fine riproduzione in formato 24 ore";
+"RemainingTime" = "Tempo Rimanente";
+"EndTime" = "Orario di Fine";
+"Duration" = "Durata";
+
+"ButtonSeekTime" = "Tempo di Salto Pulsanti";
+"ButtonSeekTimeDesc" = "Abilita tempo di salto personalizzato per i pulsanti indietro e avanti";
+"DoubleTapSeekTime" = "Tempo di Salto Doppio Tocco";
+"DoubleTapSeekTimeDesc" = "Abilita tempo di salto personalizzato per il doppio tocco";
+"Seconds" = "%ld sec";
+
+"OtherSettings" = "Altro";
+"MRNowPlayingHeader" = "Lettore In Riproduzione";
+"ChangePosterTitle" = "Imposta Titolo e Poster";
+"ChangePosterTitleDesc" = "Sostituisce il titolo e il poster del lettore visualizzati nella notifica e nel centro di controllo";
+"MovieTitle" = "Titolo";
+"EnterTitle" = "Inserisci titolo";
+"MoviePoster" = "Poster";
+"SelectPoster" = "Seleziona Immagine";
+"PosterSelected" = "Poster impostato";
+"PosterDeleted" = "Poster eliminato";
+"PosterTitleFooter" = "Lascia il titolo vuoto per applicare solo l'immagine del poster";
+
+"StartupPageHeader" = "Pagina di Avvio";
+
+"UpdateHeader" = "Aggiornamento Infuse Plus";
+"NotifyUpdates" = "Notifica Aggiornamenti";
+"NotifyUpdatesDesc" = "Mostra un avviso se è disponibile una nuova versione del tweak";
+"UpdateLocalizations" = "Aggiorna Localizzazioni";
+"UpdateLocalizationsDesc" = "Aggiorna automaticamente i file di localizzazione da GitHub all'avvio. Questo assicura che se i traduttori hanno fatto aggiornamenti alle traduzioni, non dovrai aspettare la prossima release di Infuse Plus per beneficiarne";
+"NewUpdate" = "Infuse Plus %@ è disponibile!";
+"Update.Tweak" = "Scaricalo da Github";
+"Update.IPA" = "Scarica IPA da Telegram";
+"Update.Repo" = "Apri lista repository";
+"Update.Dismiss" = "Ignora";
+
+"PrefsHeader" = "Preferenze Infuse Plus";
+"ImportPrefs" = "Importa Preferenze";
+"ExportPrefs" = "Esporta Preferenze";
+"RestoreDefaults" = "Ripristina Preferenze Predefinite";
+
+"PreImportMessage" = "Stai per importare le preferenze di Infuse Plus. Questa azione sovrascriverà permanentemente le tue preferenze attuali.\n\nVuoi continuare?";
+"Import.Yes" = "Sì, importa preferenze";
+"PreResetMessage" = "Stai per ripristinare le preferenze di Infuse Plus ai valori predefiniti. Questa azione comporterà la perdita di tutte le preferenze configurate.\n\nVuoi continuare?";
+"Reset.Yes" = "Sì, ripristina ai predefiniti";
+"No" = "No";
+"Yes" = "Sì";
+"Cancel" = "Annulla";
+
+"AboutHeader" = "Informazioni";
+"Developer" = "Sviluppatore Infuse Plus";
+"Donate" = "Supporta lo Sviluppo";
+"DonateDesc" = "Offrimi un caffè";
+
+"DonateMessage" = "Se ti piace Infuse Plus e vorresti supportarmi, puoi offrirmi un caffè usando uno dei metodi convenienti qui sotto.\n\nGrazie❤";
+"MaybeLater" = "Forse più tardi";
+"Copied" = "Copiato negli appunti";
+"Thanks" = "Grazie";
+
+"LinksHeader" = "Link";
+
+"SpecialThanks" = "Ringraziamenti Speciali";
+"TopContributors" = "Principali contributori";
+"Translators" = "Localizzazione";
+"Arabic" = "Localizzazione araba";
+"ChineseSimplified" = "Localizzazione cinese semplificata";
+"ChineseTraditional" = "Localizzazione cinese tradizionale";
+"Japanese" = "Localizzazione giapponese";
+"Spanish" = "Localizzazione spagnola";
+
+"Photos" = "Foto";
+"Imported" = "Importato";
+"MediaNotFound" = "Media non trovato";
+
+"LinkImport" = "Importa Link";
+"ImportLinksFromFile" = "Importa da file";
+"ExportLinksToFile" = "Esporta su file";
+"RemoveLinks" = "Rimuovi tutti i link";
+"AddLink" = "Aggiungi link";
+"AddViaURL" = "URL diretto";
+"URL" = "URL";
+"PlayDirectly" = "Riproduci direttamente";
+"InvalidLink" = "Link non valido";
+"InvalidFile" = "File non valido";
+"Done" = "Fatto";
+
+"FileImport" = "Importa file";
+"ImportLocalFiles" = "Importa file locali";
+"LocalImport" = "Importa Cartella";
+"LocalImportMessage" = "Poiché la selezione cartelle non è supportata nel sideload, questa soluzione alternativa consente di selezionare più file video contemporaneamente per l'importazione in blocco";
+"FolderName" = "Imposta nome cartella";
+
+"Welcome.Premium" = "Funzioni premium";
+"Welcome.PremiumDesc" = "Ottieni accesso a tutte le funzioni esclusive dell'app";
+"Welcome.Player" = "Miglioramento lettore";
+"Welcome.PlayerDesc" = "Impostazioni lettore flessibili e funzioni aggiuntive per migliorare la tua esperienza di riproduzione";
+"Welcome.Gestures" = "Gesti flessibili";
+"Welcome.GesturesDesc" = "Gesti extra e miglioramenti a quelli esistenti. Durate di salto personalizzate e altro";
+"Welcome.More" = "E molto altro";
+"Welcome.MoreDesc" = "Configura la scheda di avvio, cambia il poster e il titolo del lettore nel centro di controllo, notifiche di aggiornamento e molto altro";
+"SupportMe" = "Supportami";
+"Continue" = "Continua";
