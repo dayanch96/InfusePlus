@@ -1,0 +1,144 @@
+"EnablePlus" = "Włącz";
+
+"PremiumSettings" = "Premium";
+"ProFeatures" = "Włącz funkcje Pro";
+"ProFeaturesDesc" = "Włącza funkcje Pro niedostępne początkowo bez subskrypcji";
+"BackgroundPlayback" = "Odtwarzanie w tle";
+"BackgroundPlaybackDesc" = "Wymusza odtwarzanie w tle i zapobiega jego wyłączaniu";
+
+"PlayerSettings" = "Odtwarzacz";
+"DoubleTapPause" = "Podwójne stuknięcie – Odtwórz/Pauza";
+"DoubleTapPauseDesc" = "Włącza gest podwójnego stuknięcia do odtwarzania/pauzy w odtwarzaczu";
+"PlaybackSpeedDesc" = "Dodaje podmenu prędkości odtwarzania do menu ustawień odtwarzania. Ta opcja zastępuje domyślne podmenu w Infuse 8";
+"VolumeBoostDesc" = "Dodaje podmenu wzmocnienia głośności do menu ustawień odtwarzania. Ta opcja zastępuje domyślne podmenu w Infuse 8";
+"NoStockPlaybackSpeed" = "Brak domyślnej prędkości odtwarzania";
+"NoStockPlaybackSpeedDesc" = "Usuwa domyślne podmenu prędkości odtwarzania z menu ustawień odtwarzania";
+"NoStockVolumeBoost" = "Brak domyślnego wzmocnienia głośności";
+"NoStockVolumeBoostDesc" = "Usuwa domyślne podmenu wzmocnienia głośności z menu ustawień odtwarzania";
+"SkipByLongTap" = "Przewijanie długim naciśnięciem";
+"SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
+"LoopButton" = "Przycisk pętli";
+"LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
+"SkipButtons" = "Przyciski przewijania";
+"SkipButtonsDesc" = "Dodaje przyciski przejścia do następnego i poprzedniego filmu do nakładki";
+"HideRewindButtons" = "Ukryj przyciski przewijania";
+"HideRewindButtonsDesc" = "Usuwa przyciski przewijania wstecz i do przodu z nakładki";
+
+"ShowStatusBar" = "Pokaż pasek stanu";
+"ShowStatusBarDesc" = "Pokazuje pasek stanu z połączeniem, godziną i poziomem baterii w odtwarzaczu";
+"BatteryPercentage" = "Pokaż procent baterii";
+"BatteryPercentageDesc" = "Wyświetla procent baterii na pasku stanu";
+"ModernPercentage" = "Nowoczesny procent";
+"ModernPercentageDesc" = "Łączy ikonę baterii i procent, tak jak w ikonie";
+"StatusBarFooter" = "Na niektórych urządzeniach procent baterii może być zaokrąglany do najbliższych 5%. Jest to ograniczenie narzucone przez Apple.";
+
+"SpeedByLongTap" = "Przyspiesz odtwarzanie";
+"SpeedByLongTapDesc" = "Przytrzymanie nakładki zwiększa prędkość odtwarzania";
+"AdjustSpeedGesture" = "Dostosuj prędkość odtwarzania";
+"AdjustSpeedGestureDesc" = "Umożliwia regulację prędkości odtwarzania ruchami w górę/w dół podczas długiego naciśnięcia";
+
+"FlexibleTimer" = "Elastyczny licznik czasu";
+"FlexibleTimerDesc" = "Dodaje elastyczne podmenu timera do menu ustawień odtwarzania, umożliwiające przełączanie między wyświetlaniem pozostałego czasu, całkowitego czasu trwania i godziny zakończenia odtwarzania";
+"24hrFormat" = "Format 24-godzinny";
+"24hrFormatDesc" = "Wyświetla godzinę zakończenia odtwarzania w formacie 24-godzinnym";
+"RemainingTime" = "Pozostały czas";
+"EndTime" = "Czas zakończenia";
+"Duration" = "Czas trwania";
+
+"ButtonSeekTime" = "Czas przewijania przyciskami";
+"ButtonSeekTimeDesc" = "Umożliwia ustawienie własnego czasu przewijania dla przycisków wstecz i do przodu";
+"DoubleTapSeekTime" = "Czas przewijania podwójnym stuknięciem";
+"DoubleTapSeekTimeDesc" = "Umożliwia ustawienie własnego czasu przewijania dla podwójnego stuknięcia";
+"Seconds" = "%ld s";
+
+"OtherSettings" = "Inne";
+"MRNowPlayingHeader" = "Odtwarzacz Teraz odtwarzane";
+"ChangePosterTitle" = "Ustaw tytuł i plakat";
+"ChangePosterTitleDesc" = "Zastępuje tytuł i plakat odtwarzacza wyświetlane w powiadomieniu i centrum sterowania";
+"MovieTitle" = "Tytuł";
+"EnterTitle" = "Wprowadź tytuł";
+"MoviePoster" = "Plakat";
+"SelectPoster" = "Wybierz obraz";
+"PosterSelected" = "Plakat ustawiony";
+"PosterDeleted" = "Plakat usunięty";
+"PosterTitleFooter" = "Pozostaw tytuł pusty, aby zastosować tylko obraz plakatu";
+
+"StartupPageHeader" = "Strona startowa";
+
+"UpdateHeader" = "Aktualizacja Infuse Plus";
+"NotifyUpdates" = "Powiadamiaj o aktualizacjach";
+"NotifyUpdatesDesc" = "Wyświetla alert, jeśli dostępna jest nowa wersja modyfikacji";
+"UpdateLocalizations" = "Aktualizuj tłumaczenia";
+"UpdateLocalizationsDesc" = "Automatycznie aktualizuje pliki tłumaczeń z GitHub przy uruchomieniu. Dzięki temu, jeśli tłumacze wprowadzą zmiany, nie trzeba czekać na kolejne wydanie Infuse Plus, aby z nich skorzystać";
+"NewUpdate" = "Dostępne Infuse Plus %@!";
+"Update.Tweak" = "Pobierz z GitHuba";
+"Update.IPA" = "Pobierz IPA z Telegrama";
+"Update.Repo" = "Otwórz listę repozytoriów";
+"Update.Dismiss" = "Zamknij";
+
+"PrefsHeader" = "Preferencje Infuse Plus";
+"ImportPrefs" = "Importuj preferencje";
+"ExportPrefs" = "Eksportuj preferencje";
+"RestoreDefaults" = "Przywróć domyślne preferencje";
+
+"PreImportMessage" = "Zamierzasz zaimportować preferencje Infuse Plus. Ta operacja trwale nadpisze Twoje obecne ustawienia.\n\nCzy chcesz kontynuować?";
+"Import.Yes" = "Tak, zaimportuj preferencje";
+"PreResetMessage" = "Zamierzasz przywrócić domyślne preferencje Infuse Plus. Ta operacja spowoduje utratę wszystkich ustawień.\n\nCzy chcesz kontynuować?";
+"Reset.Yes" = "Tak, przywróć domyślne";
+"No" = "Nie";
+"Yes" = "Tak";
+"Cancel" = "Anuluj";
+
+"AboutHeader" = "O aplikacji";
+"Developer" = "Twórca Infuse Plus";
+"Donate" = "Wesprzyj rozwój";
+"DonateDesc" = "Postaw mi kawę";
+
+"DonateMessage" = "Jeśli podoba Ci się Infuse Plus i chcesz mnie wesprzeć, możesz postawić mi kawę w dowolny z poniższych wygodnych sposobów.\n\nDzięki❤";
+"MaybeLater" = "Może później";
+"Copied" = "Skopiowano do schowka";
+"Thanks" = "Dziękuję";
+
+"LinksHeader" = "Linki";
+
+"SpecialThanks" = "Specjalne podziękowania";
+"TopContributors" = "Najwięksi współtwórcy";
+"Translators" = "Tłumaczenia";
+"Arabic" = "Tłumaczenie arabskie";
+"ChineseSimplified" = "Tłumaczenie chińskie uproszczone";
+"ChineseTraditional" = "Tłumaczenie chińskie tradycyjne";
+"Japanese" = "Tłumaczenie japońskie";
+"Spanish" = "Tłumaczenie hiszpańskie";
+
+"Photos" = "Zdjęcia";
+"Imported" = "Zaimportowano";
+"MediaNotFound" = "Nie znaleziono pliku";
+
+"LinkImport" = "Import linków";
+"ImportLinksFromFile" = "Importuj z pliku";
+"ExportLinksToFile" = "Eksportuj do pliku";
+"RemoveLinks" = "Usuń wszystkie linki";
+"AddLink" = "Dodaj link";
+"AddViaURL" = "Bezpośredni URL";
+"URL" = "URL";
+"PlayDirectly" = "Odtwarzaj bezpośrednio";
+"InvalidLink" = "Nieprawidłowy link";
+"InvalidFile" = "Nieprawidłowy plik";
+"Done" = "Gotowe";
+
+"FileImport" = "Import plików";
+"ImportLocalFiles" = "Importuj pliki lokalne";
+"LocalImport" = "Import folderu";
+"LocalImportMessage" = "Ponieważ wybór folderu nie jest obsługiwany przy sideloadzie, to obejście umożliwia wybór wielu plików wideo naraz w celu masowego importu";
+"FolderName" = "Ustaw nazwę folderu";
+
+"Welcome.Premium" = "Funkcje premium";
+"Welcome.PremiumDesc" = "Uzyskaj dostęp do wszystkich ekskluzywnych funkcji aplikacji";
+"Welcome.Player" = "Ulepszenie odtwarzacza";
+"Welcome.PlayerDesc" = "Elastyczne ustawienia odtwarzacza i dodatkowe funkcje poprawiające jego działanie";
+"Welcome.Gestures" = "Elastyczne gesty";
+"Welcome.GesturesDesc" = "Dodatkowe gesty i ulepszenia istniejących. Własne czasy przewijania i więcej";
+"Welcome.More" = "I wiele więcej";
+"Welcome.MoreDesc" = "Ustaw kartę startową, zmień plakat i tytuł odtwarzacza w centrum sterowania, powiadomienia o aktualizacjach i wiele więcej";
+"SupportMe" = "Wesprzyj mnie";
+"Continue" = "Kontynuuj";
