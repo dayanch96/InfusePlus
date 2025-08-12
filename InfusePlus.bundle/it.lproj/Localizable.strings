@@ -36,6 +36,8 @@
 "SpeedByLongTapDesc" = "Tenere premuto sulla sovrapposizione accelera la velocità di riproduzione";
 "AdjustSpeedGesture" = "Regola Velocità Riproduzione";
 "AdjustSpeedGestureDesc" = "Consente di regolare la velocità di riproduzione con movimenti su/giù durante una pressione prolungata";
+"CompactToast" = "Compact Toast";
+"CompactToastDesc" = "Displays a compact-style toast for playback rate";
 
 "FlexibleTimer" = "Timer Flessibile";
 "FlexibleTimerDesc" = "Aggiunge un sottomenu timer flessibile al menu impostazioni riproduzione per fornire la possibilità di alternare tra visualizzazione del tempo rimanente, durata totale e orario di fine riproduzione";
@@ -131,6 +133,7 @@
 "LocalImport" = "Importa Cartella";
 "LocalImportMessage" = "Poiché la selezione cartelle non è supportata nel sideload, questa soluzione alternativa consente di selezionare più file video contemporaneamente per l'importazione in blocco";
 "FolderName" = "Imposta nome cartella";
+"ImportFromPhotos" = "Import from Photos";
 
 "Welcome.Premium" = "Funzioni premium";
 "Welcome.PremiumDesc" = "Ottieni accesso a tutte le funzioni esclusive dell'app";

@@ -12,7 +12,7 @@ on:
 
       tweak_version:
         description: "The version of the tweak to use. Enter the version manually from dayanch96/InfusePlus/releases or leave default"
-        default: "2.3.1"
+        default: "2.4"
         required: true
         type: string
 

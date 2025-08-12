@@ -36,6 +36,8 @@
 "SpeedByLongTapDesc" = "Przytrzymanie nakładki zwiększa prędkość odtwarzania";
 "AdjustSpeedGesture" = "Dostosuj prędkość odtwarzania";
 "AdjustSpeedGestureDesc" = "Umożliwia regulację prędkości odtwarzania ruchami w górę/w dół podczas długiego naciśnięcia";
+"CompactToast" = "Compact Toast";
+"CompactToastDesc" = "Displays a compact-style toast for playback rate";
 
 "FlexibleTimer" = "Elastyczny licznik czasu";
 "FlexibleTimerDesc" = "Dodaje elastyczne podmenu timera do menu ustawień odtwarzania, umożliwiające przełączanie między wyświetlaniem pozostałego czasu, całkowitego czasu trwania i godziny zakończenia odtwarzania";
@@ -131,6 +133,7 @@
 "LocalImport" = "Import folderu";
 "LocalImportMessage" = "Ponieważ wybór folderu nie jest obsługiwany przy sideloadzie, to obejście umożliwia wybór wielu plików wideo naraz w celu masowego importu";
 "FolderName" = "Ustaw nazwę folderu";
+"ImportFromPhotos" = "Import from Photos";
 
 "Welcome.Premium" = "Funkcje premium";
 "Welcome.PremiumDesc" = "Uzyskaj dostęp do wszystkich ekskluzywnych funkcji aplikacji";

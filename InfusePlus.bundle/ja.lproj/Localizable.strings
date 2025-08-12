@@ -36,6 +36,8 @@
 "SpeedByLongTapDesc" = "Pressing and holding the overlay speeds up playback rate";
 "AdjustSpeedGesture" = "Adjust Playback Speed";
 "AdjustSpeedGestureDesc" = "Allows adjusting the playback speed with up/down movements during a long press";
+"CompactToast" = "Compact Toast";
+"CompactToastDesc" = "Displays a compact-style toast for playback rate";
 
 "FlexibleTimer" = "Flexible Timer";
 "FlexibleTimerDesc" = "Adds a flexible timer submenu to the playback settings menu to provide the ability to toggle between displaying the remaining playback time, total duration, and playback end time";
@@ -131,6 +133,7 @@
 "LocalImport" = "Folder Import";
 "LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
 "FolderName" = "Set folder name";
+"ImportFromPhotos" = "Import from Photos";
 
 "Welcome.Premium" = "Premium features";
 "Welcome.PremiumDesc" = "Get access to all exclusive app features";

@@ -36,6 +36,8 @@
 "SpeedByLongTapDesc" = "يؤدي الضغط مع الاستمرار على الخيار في المشغل إلى تسريع معدل التشغيل.";
 "AdjustSpeedGesture" = "ضبط سرعة التشغيل";
 "AdjustSpeedGestureDesc" = "السماح بضبط سرعة التشغيل بحركات أعلى/أسفل أثناء استمرار الضغط.";
+"CompactToast" = "Compact Toast";
+"CompactToastDesc" = "Displays a compact-style toast for playback rate";
 
 "FlexibleTimer" = "المؤقت المرن";
 "FlexibleTimerDesc" = "إضافة قائمة فرعية للمشغل المرن إلى قائمة إعدادات التشغيل لتوفير القدرة على التبديل بين عرض وقت التشغيل المتبقي والمدة الإجمالية ووقت انتهاء التشغيل.";
@@ -131,6 +133,7 @@
 "LocalImport" = "Folder Import";
 "LocalImportMessage" = "As folder selection is not supported on sideload, this workaround allows to select multiple video files at once for bulk import";
 "FolderName" = "Set folder name";
+"ImportFromPhotos" = "Import from Photos";
 
 "Welcome.Premium" = "المميزات المميزة";
 "Welcome.PremiumDesc" = "احصل على وصول إلى جميع مميزات التطبيق الحصرية.";
