@@ -36,8 +36,8 @@
 "SpeedByLongTapDesc" = "按住播放界面可加快播放速度";
 "AdjustSpeedGesture" = "调整播放速度";
 "AdjustSpeedGestureDesc" = "长按可上下移动调整播放速度";
-"CompactToast" = "Compact Toast";
-"CompactToastDesc" = "Displays a compact-style toast for playback rate";
+"CompactToast" = "紧凑提示";
+"CompactToastDesc" = "显示紧凑型播放速率提示弹窗";
 
 "FlexibleTimer" = "灵活的计时器";
 "FlexibleTimerDesc" = "在播放设置菜单中添加灵活的计时器子菜单，可以在显示剩余播放时间、总时长和播放结束时间之间切换";
@@ -133,7 +133,7 @@
 "LocalImport" = "文件夹导入";
 "LocalImportMessage" = "由于侧载不支持文件夹选择，此解决方法允许一次选择多个视频文件进行批量导入。";
 "FolderName" = "设置文件夹名称";
-"ImportFromPhotos" = "Import from Photos";
+"ImportFromPhotos" = "从照片导入";
 
 "Welcome.Premium" = "高级功能";
 "Welcome.PremiumDesc" = "访问所有独家应用程序功能";
