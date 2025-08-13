@@ -36,8 +36,8 @@
 "SpeedByLongTapDesc" = "長按播放介面可加快播放速度";
 "AdjustSpeedGesture" = "調整播放速度";
 "AdjustSpeedGestureDesc" = "長按時透過上下滑動調整播放速度";
-"CompactToast" = "Compact Toast";
-"CompactToastDesc" = "Displays a compact-style toast for playback rate";
+"CompactToast" = "精簡通知";
+"CompactToastDesc" = "播放速度的通知視窗採用精簡風格呈現";
 
 "FlexibleTimer" = "彈性計時器";
 "FlexibleTimerDesc" = "在播放設定選單中新增彈性計時器子選單，提供切換顯示剩餘播放時間、總播放時間和播放結束時間的功能";
@@ -133,7 +133,7 @@
 "LocalImport" = "匯入資料夾";
 "LocalImportMessage" = "側載功能不支援資料夾選取，此解決方案允許同時選取多個影片檔案，進行批次匯入。";
 "FolderName" = "設定資料夾名稱";
-"ImportFromPhotos" = "Import from Photos";
+"ImportFromPhotos" = "從照片App匯入";
 
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
