@@ -36,7 +36,7 @@
 "SpeedByLongTapDesc" = "Przytrzymanie nakładki zwiększa prędkość odtwarzania";
 "AdjustSpeedGesture" = "Dostosuj prędkość odtwarzania";
 "AdjustSpeedGestureDesc" = "Umożliwia regulację prędkości odtwarzania ruchami w górę/w dół podczas długiego naciśnięcia";
-"CompactToast" = "Kompaktowy Toast";
+"CompactToast" = "Kompaktowy przycisk";
 "CompactToastDesc" = "Wyświetla kompaktową informację o szybkości odtwarzania";
 
 "FlexibleTimer" = "Elastyczny licznik czasu";
