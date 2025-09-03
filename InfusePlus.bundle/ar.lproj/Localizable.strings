@@ -68,6 +68,8 @@
 "StartupPageHeader" = "صفحة البداية";
 
 "UpdateHeader" = "تحديث Infuse Plus";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "إشعار التحديثات";
 "NotifyUpdatesDesc" = "عرض تنبيه إذا كانت هناك نسخة جديدة من الأداة متوفرة.";
 "UpdateLocalizations" = "تحديث الترجمات";

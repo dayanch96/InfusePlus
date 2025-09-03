@@ -68,6 +68,8 @@
 "StartupPageHeader" = "Начальная вкладка";
 
 "UpdateHeader" = "Обновление Infuse Plus";
+"AutoCleanTrash" = "Очистка корзины";
+"AutoCleanTrashDesc" = "Автоматически очищает корзину от файлов удаленных с Infuse при каждом запуске приложения";
 "NotifyUpdates" = "Оповещать об обновлениях";
 "NotifyUpdatesDesc" = "Показывает оповещение, если доступна новая версия твика";
 "UpdateLocalizations" = "Обновлять перевод";

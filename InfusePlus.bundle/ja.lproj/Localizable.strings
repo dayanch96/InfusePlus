@@ -68,6 +68,8 @@
 "StartupPageHeader" = "スタートアップページ";
 
 "UpdateHeader" = "Infuse Plus Update";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "更新を通知する";
 "NotifyUpdatesDesc" = "Tweakの新しいバージョンが利用可能な場合にアラートを表示します";
 "UpdateLocalizations" = "Update Localizations";

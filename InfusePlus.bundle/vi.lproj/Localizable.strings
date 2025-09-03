@@ -68,6 +68,8 @@
 "StartupPageHeader" = "Trang khởi động";
 
 "UpdateHeader" = "Cập nhật Infuse Plus";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Thông báo cập nhật";
 "NotifyUpdatesDesc" = "Hiển thị cảnh báo nếu có phiên bản mới của tinh chỉnh";
 "UpdateLocalizations" = "Cập nhật bản dịch";

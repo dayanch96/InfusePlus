@@ -68,6 +68,8 @@
 "StartupPageHeader" = "Página de inicio";
 
 "UpdateHeader" = "Actualización de Infuse Plus";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay una nueva versión del tweak disponible";
 "UpdateLocalizations" = "Actualizar traducciones";
