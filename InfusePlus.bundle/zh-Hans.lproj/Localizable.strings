@@ -68,8 +68,8 @@
 "StartupPageHeader" = "启动页";
 
 "UpdateHeader" = "Infuse Plus 更新";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "自动清理";
+"AutoCleanTrashDesc" = "启动时自动清理 Infuse 的缓存/垃圾文件夹。";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
