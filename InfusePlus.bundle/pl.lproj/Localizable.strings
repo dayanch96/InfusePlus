@@ -68,8 +68,8 @@
 "StartupPageHeader" = "Strona startowa";
 
 "UpdateHeader" = "Aktualizacja Infuse Plus";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "Automatyczne czyszczenie kosza";
+"AutoCleanTrashDesc" = "Automatycznie czyści folder kosza Infuse podczas uruchamiania";
 "NotifyUpdates" = "Powiadamiaj o aktualizacjach";
 "NotifyUpdatesDesc" = "Wyświetla alert, jeśli dostępna jest nowa wersja modyfikacji";
 "UpdateLocalizations" = "Aktualizuj tłumaczenia";
