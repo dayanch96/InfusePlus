@@ -36,8 +36,8 @@
 "SpeedByLongTapDesc" = "Mantener pulsada la capa superpuesta acelera la velocidad de reproducción";
 "AdjustSpeedGesture" = "Ajustar velocidad de reproducción con gesto";
 "AdjustSpeedGestureDesc" = "Permite ajustar la velocidad de reproducción deslizando arriba/abajo durante una pulsación prolongada";
-"CompactToast" = "Compact Toast";
-"CompactToastDesc" = "Displays a compact-style toast for playback rate";
+"CompactToast" = "Aviso compacto";
+"CompactToastDesc" = "Muestra un aviso de estilo compacto para la tasa de reproducción";
 
 "FlexibleTimer" = "Temporizador flexible";
 "FlexibleTimerDesc" = "Añade un submenú de temporizador flexible al menú de ajustes de reproducción para alternar entre mostrar el tiempo restante, la duración total y la hora de finalización de la reproducción";
@@ -68,8 +68,8 @@
 "StartupPageHeader" = "Página de inicio";
 
 "UpdateHeader" = "Actualización de Infuse Plus";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "Auto limpieza de Papelera";
+"AutoCleanTrashDesc" = "Limpia automáticamente la carpeta de Papelera de Infuse al iniciar";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay una nueva versión del tweak disponible";
 "UpdateLocalizations" = "Actualizar traducciones";
@@ -135,7 +135,7 @@
 "LocalImport" = "Importar carpeta";
 "LocalImportMessage" = "Dado que la selección de carpetas no es compatible con la carga lateral, esta solución alternativa permite seleccionar varios archivos de vídeo a la vez para importarlos de forma masiva.";
 "FolderName" = "Establecer nombre de carpeta";
-"ImportFromPhotos" = "Import from Photos";
+"ImportFromPhotos" = "Importar desde Fotos";
 
 "Welcome.Premium" = "Funciones premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la aplicación";
