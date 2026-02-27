@@ -19,27 +19,27 @@
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "水平翻轉";
+"HorFlipButtonDesc" = "在播放介面加入水平翻轉按鈕";
+"VerFlipButton" = "垂直翻轉";
+"VerFlipButtonDesc" = "在播放介面加入垂直翻轉按鈕";
 "SkipButtons" = "跳過按鈕";
 "SkipButtonsDesc" = "在播放介面加入上一個/下一個按鈕";
 "HideRewindButtons" = "隱藏快轉/倒轉按鈕";
 "HideRewindButtonsDesc" = "從播放介面移除快轉與倒轉按鈕";
-"MutePlayerOnly" = "Mute Player Only";
-"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+"MutePlayerOnly" = "僅播放器靜音";
+"MutePlayerOnlyDesc" = "使用播放器音量按鈕時僅將影片靜音，不影響系統音量";
 
-"OverlayLock" = "Overlay Lock";
-"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
-"AllowLongPresses" = "Allow Long Press Gestures";
-"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
-"AllowDoubleTaps" = "Allow Double Tap Gestures";
-"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
-"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
-"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
-"AllowPanGestures" = "Allow Pan Gestures";
-"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
+"OverlayLock" = "介面鎖定";
+"OverlayLockDesc" = "在播放設定選單加入介面鎖定按鈕";
+"AllowLongPresses" = "允許長按手勢";
+"AllowLongPressesDesc" = "介面鎖定時仍可長按（例如：更改播放速度）";
+"AllowDoubleTaps" = "允許點兩下手勢";
+"AllowDoubleTapsDesc" = "允許點兩下進行快轉、倒轉或播放/暫停";
+"AllowTwoFingerTaps" = "允許雙指點擊手勢";
+"AllowTwoFingerTapsDesc" = "允許雙指點擊以播放或暫停";
+"AllowPanGestures" = "允許滑動手勢";
+"AllowPanGesturesDesc" = "允許滑動手勢以調整進度、亮度或音量";
 
 "ShowStatusBar" = "顯示狀態列";
 "ShowStatusBarDesc" = "在播放器中顯示包含連線狀態、時間與電池電量的狀態列";
@@ -80,13 +80,13 @@
 "SelectPoster" = "選擇圖片";
 "PosterSelected" = "封面已設定";
 "PosterDeleted" = "封面已刪除";
-"PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
+"PosterTitleFooter" = "若只需更改封面，請將標題欄位留空";
 
 "StartupPageHeader" = "起始頁面";
 
 "UpdateHeader" = "Infuse Plus更新";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "自動清理垃圾";
+"AutoCleanTrashDesc" = "啟動時自動清理 Infuse 的垃圾資料夾";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
@@ -117,7 +117,7 @@
 
 "DonateMessage" = "如果您喜歡Infuse Plus並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
 "MaybeLater" = "再等一會兒吧";
-"Copied" = "已複製到剪貼板";
+"Copied" = "已複製到剪貼簿";
 "Thanks" = "謝謝";
 
 "LinksHeader" = "相關連結";
@@ -131,11 +131,11 @@
 "Japanese" = "日語在地化";
 "Spanish" = "西班牙語在地化";
 
-"LockOverlay" = "Lock Overlay";
-"TapToUnlock" = "Tap to unlock";
+"LockOverlay" = "鎖定控制介面";
+"TapToUnlock" = "點擊以解鎖";
 
 "Photos" = "照片";
-"Imported" = "已導入";
+"Imported" = "已匯入";
 "MediaNotFound" = "未找到媒體";
 
 "LinkImport" = "匯入連結";
