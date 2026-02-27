@@ -19,27 +19,27 @@
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "水平翻转";
+"HorFlipButtonDesc" = "在播放界面添加水平翻转按钮";
+"VerFlipButton" = "垂直翻转";
+"VerFlipButtonDesc" = "在播放界面添加垂直翻转按钮";
 "SkipButtons" = "跳过按钮";
 "SkipButtonsDesc" = "在播放界面添加跳至下一个和上一个按钮";
 "HideRewindButtons" = "隐藏快退按钮";
 "HideRewindButtonsDesc" = "从播放界面删除快退和快进按钮";
-"MutePlayerOnly" = "Mute Player Only";
-"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+"MutePlayerOnly" = "仅静音播放器";
+"MutePlayerOnlyDesc" = "使用播放器内音量按钮时，仅静音播放器不影响系统音量";
 
-"OverlayLock" = "Overlay Lock";
-"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
-"AllowLongPresses" = "Allow Long Press Gestures";
-"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
-"AllowDoubleTaps" = "Allow Double Tap Gestures";
-"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
-"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
-"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
-"AllowPanGestures" = "Allow Pan Gestures";
-"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
+"OverlayLock" = "播放界面锁定";
+"OverlayLockDesc" = "在播放设置菜单中添加播放界面锁定按钮";
+"AllowLongPresses" = "允许长按手势";
+"AllowLongPressesDesc" = "允许在锁定的播放界面上进行长按手势，例如用于更改播放速度";
+"AllowDoubleTaps" = "允许双击手势";
+"AllowDoubleTapsDesc" = "允许双击手势进行快进、快退或播放/暂停";
+"AllowTwoFingerTaps" = "允许双指轻击手势";
+"AllowTwoFingerTapsDesc" = "允许双指轻击手势进行播放或暂停";
+"AllowPanGestures" = "允许平移手势";
+"AllowPanGesturesDesc" = "允许手指平移来调整亮度/音量";
 
 "ShowStatusBar" = "显示状态栏";
 "ShowStatusBarDesc" = "在播放器中显示连接、时间和电池电量的状态栏";
@@ -85,8 +85,8 @@
 "StartupPageHeader" = "启动页";
 
 "UpdateHeader" = "Infuse Plus 更新";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "自动清理垃圾";
+"AutoCleanTrashDesc" = "启动时自动清理 Infuse 的垃圾文件夹";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
@@ -131,8 +131,8 @@
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
 
-"LockOverlay" = "Lock Overlay";
-"TapToUnlock" = "Tap to unlock";
+"LockOverlay" = "锁定界面";
+"TapToUnlock" = "点击解锁";
 
 "Photos" = "照片";
 "Imported" = "已导入";
