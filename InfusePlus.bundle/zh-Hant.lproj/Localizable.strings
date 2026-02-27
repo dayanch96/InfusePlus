@@ -19,10 +19,27 @@
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "跳過按鈕";
 "SkipButtonsDesc" = "在播放介面加入上一個/下一個按鈕";
 "HideRewindButtons" = "隱藏快轉/倒轉按鈕";
 "HideRewindButtonsDesc" = "從播放介面移除快轉與倒轉按鈕";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "顯示狀態列";
 "ShowStatusBarDesc" = "在播放器中顯示包含連線狀態、時間與電池電量的狀態列";
@@ -68,8 +85,8 @@
 "StartupPageHeader" = "起始頁面";
 
 "UpdateHeader" = "Infuse Plus更新";
-"AutoCleanTrash" = "自動清理垃圾";
-"AutoCleanTrashDesc" = "啟動時自動清理 Infuse 垃圾資料夾";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
@@ -113,6 +130,9 @@
 "ChineseTraditional" = "繁體中文在地化";
 "Japanese" = "日語在地化";
 "Spanish" = "西班牙語在地化";
+
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "照片";
 "Imported" = "已導入";

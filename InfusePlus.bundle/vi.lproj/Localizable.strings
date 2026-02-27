@@ -19,10 +19,27 @@
 "SkipByLongTapDesc" = "Nhấn giữ nút tua để chuyển sang video tiếp theo/trước đó";
 "LoopButton" = "Nút lặp lại";
 "LoopButtonDesc" = "Thêm nút lặp lại vào lớp phủ";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "Nút bỏ qua";
 "SkipButtonsDesc" = "Thêm nút chuyển sang video tiếp theo/trước đó vào lớp phủ";
 "HideRewindButtons" = "Ẩn nút tua lại";
 "HideRewindButtonsDesc" = "Loại bỏ nút tua lại khỏi lớp phủ";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "Hiển thị thanh trạng thái";
 "ShowStatusBarDesc" = "Hiển thị thanh trạng thái với kết nối mạng, thời gian và mức pin trong trình phát";
@@ -113,6 +130,9 @@
 "ChineseTraditional" = "Tiếng Trung (phồn thể)";
 "Japanese" = "Tiếng Nhật";
 "Spanish" = "Tiếng Tây Ban Nha";
+
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "Photos";
 "Imported" = "Imported";

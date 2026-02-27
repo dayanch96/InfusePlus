@@ -19,10 +19,27 @@
 "SkipByLongTapDesc" = "Mantener pulsados los botones de rebobinado salta al vídeo siguiente/anterior";
 "LoopButton" = "Botón de bucle";
 "LoopButtonDesc" = "Añade un botón de bucle a la capa superpuesta";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "Botones de salto";
 "SkipButtonsDesc" = "Añade botones para saltar al vídeo siguiente y anterior en la capa superpuesta";
 "HideRewindButtons" = "Ocultar botones de rebobinado";
 "HideRewindButtonsDesc" = "Elimina los botones de rebobinado y avance rápido de la capa superpuesta";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "Mostrar barra de estado";
 "ShowStatusBarDesc" = "Muestra la barra de estado con la conexión, la hora y el nivel de batería en el reproductor";
@@ -36,8 +53,8 @@
 "SpeedByLongTapDesc" = "Mantener pulsada la capa superpuesta acelera la velocidad de reproducción";
 "AdjustSpeedGesture" = "Ajustar velocidad de reproducción con gesto";
 "AdjustSpeedGestureDesc" = "Permite ajustar la velocidad de reproducción deslizando arriba/abajo durante una pulsación prolongada";
-"CompactToast" = "Aviso compacto";
-"CompactToastDesc" = "Muestra un aviso de estilo compacto para la tasa de reproducción";
+"CompactToast" = "Compact Toast";
+"CompactToastDesc" = "Displays a compact-style toast for playback rate";
 
 "FlexibleTimer" = "Temporizador flexible";
 "FlexibleTimerDesc" = "Añade un submenú de temporizador flexible al menú de ajustes de reproducción para alternar entre mostrar el tiempo restante, la duración total y la hora de finalización de la reproducción";
@@ -68,8 +85,8 @@
 "StartupPageHeader" = "Página de inicio";
 
 "UpdateHeader" = "Actualización de Infuse Plus";
-"AutoCleanTrash" = "Auto limpieza de Papelera";
-"AutoCleanTrashDesc" = "Limpia automáticamente la carpeta de Papelera de Infuse al iniciar";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Notificar actualizaciones";
 "NotifyUpdatesDesc" = "Muestra una alerta si hay una nueva versión del tweak disponible";
 "UpdateLocalizations" = "Actualizar traducciones";
@@ -114,6 +131,9 @@
 "Japanese" = "Traducción al japonés";
 "Spanish" = "Traducción al español";
 
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
+
 "Photos" = "Fotos";
 "Imported" = "Importado";
 "MediaNotFound" = "Contenido no encontrado";
@@ -135,7 +155,7 @@
 "LocalImport" = "Importar carpeta";
 "LocalImportMessage" = "Dado que la selección de carpetas no es compatible con la carga lateral, esta solución alternativa permite seleccionar varios archivos de vídeo a la vez para importarlos de forma masiva.";
 "FolderName" = "Establecer nombre de carpeta";
-"ImportFromPhotos" = "Importar desde Fotos";
+"ImportFromPhotos" = "Import from Photos";
 
 "Welcome.Premium" = "Funciones premium";
 "Welcome.PremiumDesc" = "Obtén acceso a todas las funciones exclusivas de la aplicación";

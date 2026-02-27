@@ -19,10 +19,27 @@
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "跳过按钮";
 "SkipButtonsDesc" = "在播放界面添加跳至下一个和上一个按钮";
 "HideRewindButtons" = "隐藏快退按钮";
 "HideRewindButtonsDesc" = "从播放界面删除快退和快进按钮";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "显示状态栏";
 "ShowStatusBarDesc" = "在播放器中显示连接、时间和电池电量的状态栏";
@@ -68,8 +85,8 @@
 "StartupPageHeader" = "启动页";
 
 "UpdateHeader" = "Infuse Plus 更新";
-"AutoCleanTrash" = "自动清理";
-"AutoCleanTrashDesc" = "启动时自动清理 Infuse 的缓存/垃圾文件夹。";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
@@ -113,6 +130,9 @@
 "ChineseTraditional" = "繁体中文本地化";
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
+
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "照片";
 "Imported" = "已导入";

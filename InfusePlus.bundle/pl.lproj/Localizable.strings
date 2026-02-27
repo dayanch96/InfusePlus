@@ -19,10 +19,27 @@
 "SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
 "LoopButton" = "Przycisk pętli";
 "LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "Przyciski przewijania";
 "SkipButtonsDesc" = "Dodaje przyciski przejścia do następnego i poprzedniego filmu do nakładki";
 "HideRewindButtons" = "Ukryj przyciski przewijania";
 "HideRewindButtonsDesc" = "Usuwa przyciski przewijania wstecz i do przodu z nakładki";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "Pokaż pasek stanu";
 "ShowStatusBarDesc" = "Pokazuje pasek stanu z połączeniem, godziną i poziomem baterii w odtwarzaczu";
@@ -68,8 +85,8 @@
 "StartupPageHeader" = "Strona startowa";
 
 "UpdateHeader" = "Aktualizacja Infuse Plus";
-"AutoCleanTrash" = "Automatyczne czyszczenie kosza";
-"AutoCleanTrashDesc" = "Automatycznie czyści folder kosza Infuse podczas uruchamiania";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Powiadamiaj o aktualizacjach";
 "NotifyUpdatesDesc" = "Wyświetla alert, jeśli dostępna jest nowa wersja modyfikacji";
 "UpdateLocalizations" = "Aktualizuj tłumaczenia";
@@ -113,6 +130,9 @@
 "ChineseTraditional" = "Tłumaczenie chińskie tradycyjne";
 "Japanese" = "Tłumaczenie japońskie";
 "Spanish" = "Tłumaczenie hiszpańskie";
+
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "Zdjęcia";
 "Imported" = "Zaimportowano";
