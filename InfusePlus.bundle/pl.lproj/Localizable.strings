@@ -19,27 +19,27 @@
 "SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
 "LoopButton" = "Przycisk pętli";
 "LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "Odbicie poziome";
+"HorFlipButtonDesc" = "Dodaje przycisk odbicia poziomego do nakładki";
+"VerFlipButton" = "Odbicie pionowe";
+"VerFlipButtonDesc" = "Dodaje przycisk odbicia pionowego do nakładki";
 "SkipButtons" = "Przyciski przewijania";
 "SkipButtonsDesc" = "Dodaje przyciski przejścia do następnego i poprzedniego filmu do nakładki";
 "HideRewindButtons" = "Ukryj przyciski przewijania";
 "HideRewindButtonsDesc" = "Usuwa przyciski przewijania wstecz i do przodu z nakładki";
-"MutePlayerOnly" = "Mute Player Only";
-"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+"MutePlayerOnly" = "Wycisz tylko odtwarzacz";
+"MutePlayerOnlyDesc" = "Wycisza odtwarzacz bez wpływu na głośność systemową podczas używania przycisku głośności w odtwarzaczu";
 
-"OverlayLock" = "Overlay Lock";
-"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
-"AllowLongPresses" = "Allow Long Press Gestures";
-"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
-"AllowDoubleTaps" = "Allow Double Tap Gestures";
-"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
-"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
-"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
-"AllowPanGestures" = "Allow Pan Gestures";
-"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
+"OverlayLock" = "Blokada nakładki";
+"OverlayLockDesc" = "Dodaje przycisk blokady nakładki do menu ustawień odtwarzania";
+"AllowLongPresses" = "Zezwól na gesty długiego przytrzymania";
+"AllowLongPressesDesc" = "Umożliwia gesty długiego przytrzymania na zablokowanej nakładce, np. zmianę prędkości odtwarzania";
+"AllowDoubleTaps" = "Zezwól na gesty podwójnego stuknięcia";
+"AllowDoubleTapsDesc" = "Umożliwia gesty podwójnego stuknięcia do przewijania w przód, wstecz lub odtwarzania/wstrzymania";
+"AllowTwoFingerTaps" = "Zezwól na gesty stuknięcia dwoma palcami";
+"AllowTwoFingerTapsDesc" = "Umożliwia stuknięcie dwoma palcami w celu odtwarzania lub wstrzymania";
+"AllowPanGestures" = "Zezwól na gesty przesuwania";
+"AllowPanGesturesDesc" = "Umożliwia gesty przesuwania do przewijania oraz regulacji jasności i głośności";
 
 "ShowStatusBar" = "Pokaż pasek stanu";
 "ShowStatusBarDesc" = "Pokazuje pasek stanu z połączeniem, godziną i poziomem baterii w odtwarzaczu";
@@ -131,8 +131,8 @@
 "Japanese" = "Tłumaczenie japońskie";
 "Spanish" = "Tłumaczenie hiszpańskie";
 
-"LockOverlay" = "Lock Overlay";
-"TapToUnlock" = "Tap to unlock";
+"LockOverlay" = "Zablokuj nakładkę";
+"TapToUnlock" = "Stuknij, aby odblokować";
 
 "Photos" = "Zdjęcia";
 "Imported" = "Zaimportowano";
