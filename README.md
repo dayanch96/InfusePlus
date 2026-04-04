@@ -1,77 +1,47 @@
-# InfusePlus
-<p>Enhancer for <a href="https://apps.apple.com/us/app/id1136220934">Infuse</a></p>
 
-## Screenshots
-<table>
-   <tr>
-      <td><img src="Resources/screenshot1.png" alt="Screenshot 1" /></td>
-      <td><img src="Resources/screenshot2.png" alt="Screenshot 2" /></td>
-      <td><img src="Resources/screenshot3.png" alt="Screenshot 3" /></td>
-   </tr>
-</table>
+# 第一步：准备工作（仅限第一次）
 
-<details>
-  <summary>More screenshots</summary>
-  <table>
-    <tr>
-      <td><img src="Resources/screenshot4.png" alt="Screenshot 4" /></td>
-      <td><img src="Resources/screenshot5.png" alt="Screenshot 5" /></td>
-      <td><img src="Resources/screenshot6.png" alt="Screenshot 6" /></td>
-    </tr>
-  </table>
-</details>
+Fork 仓库：登录你的 GitHub 账号，访问 dayanch96/InfusePlus，点击页面右上角的 Fork 按钮，将代码克隆到你自己的账号下。
 
-## Features
-<details>
-  <summary>Premium settings</summary>
-  <ul>
-    <li>Pro features</li>
-    <li>Background playback</li>
-  </ul>
-</details>
+开启权限：
 
-<details>
-  <summary>Player settings</summary>
-  <ul>
-    <li>Play/Pause playback using double tap</li>
-    <li>Playback speed settings in context menu</li>
-    <li>Volume boost settings in context menu</li>
-    <li>Skip to the Next/Previous using long press on rewind buttons</li>
-    <li>Speed up playback by long pressing Play/Pause button
-      <ul>
-        <li>Adjustable playback rate</li>
-      </ul>
-    </li>
-    <li>Tap to playback duration to change between total duration, left duration and exact time when playback ends</li>
-    <li>Separated custom skip times for double tap and rewind buttons</li>
-  </ul>
-</details>
+在你自己的这个 Fork 仓库中，点击顶部的 Settings（设置）选项卡。
 
-<details>
-  <summary>Other settings</summary>
-  <ul>
-    <li>Ability to set Title and Poster for the player in control center</li>
-    <li>Startup tab selection</li>
-    <li>New available tweak update notification</li>
-    <li>Auto-update localizations</li>
-  </ul>
-</details>
+在左侧栏找到 Actions -> General。
 
-**Infuse Plus preferences can be found in the Settings tab**
+在 "Workflow permissions" 部分，确保选中 Read and write permissions，然后点击 Save（保存）。
 
-## How to build an Infuse Plus app using Github actions
-> [!NOTE]
-> If this is your first time, complete following steps before starting:
->
-> 1. Fork this repository using the fork button on the top-right
-> 2. On your forked repository, go to **Repository Settings** > **Actions**, enable **Read and Write** permissions.
+# 第二步：获取解密后的 Infuse IPA
 
-### Step-by-step build process
-<li>Click on <strong>Sync fork</strong>, and if your branch is out of date, click on <strong>Update branch</strong>.</li>
-<li>Navigate to the <strong>Actions tab</strong> in your forked repository and select <strong>Create Infuse Plus app</strong>.</li>
-<li>Click the <strong>Run workflow</strong> button located on the right side.</li>
-<li>Prepare a decrypted .ipa file, then upload it to a file provider (e.g., filebin.net, filemail.com, or Dropbox - these are recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
-<li><strong>NOTE:</strong> Make sure to provide a <em>direct download link</em> to the file, not a link to a webpage. Otherwise, the process will fail.</li>
-<li>Enter the tweak version from the releases (the latest release is selected by default). You can also change the Bundle ID and Display Name if desired.</li>
-<li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
-<li>Wait for the build to finish. After that, you can download the Infuse Plus app from the releases section of your forked repository. (If you can't find the releases section, go to your forked repository and add <em>/releases</em> to the URL, i.e., <em>https://github.com/YOUR_USERNAME/InfusePlus/releases</em>)</li>
+由于 GitHub Actions 需要对原始 App 进行注入，你需要准备一个**砸壳版（解密后）**的 Infuse .ipa 文件。
+https://armconverter.com/decryptedappstore/us
+你需要将这个 .ipa 文件上传到云端。
+关键点：你必须获得该文件的直链（Direct Download Link）。如果是网页跳转链接，构建会失败。
+
+# 第三步：运行构建流程
+
+进入 Actions：在你的 Fork 仓库页面，点击顶部的 Actions 选项卡。
+
+选择 Workflow：在左侧列表找到名为 Create Infuse Plus app 的工作流。
+
+运行工作流：
+
+点击右侧的 Run workflow 下拉按钮。
+
+在 IPA URL 框中，粘贴你刚才准备好的解密版 Infuse IPA 的下载直链。
+
+Tweak version：默认会填入最新版本，一般不需要修改。
+
+Bundle ID / Display Name：如果你想修改 App 的包名或显示名称（例如改成 "Infuse Pro"），可以在这里修改。
+
+点击绿色的 Run workflow 按钮。
+
+第四步：下载生成的 IPA
+
+等待大约 5-10 分钟，直到工作流运行完成（图标变绿）。
+
+构建完成后，点击顶部的 Code 选项卡回到主页。
+
+在页面右侧找到 Releases 部分。
+
+你会看到一个新生成的 Release（通常标记为 "latest"），点击进去即可下载构建好的 InfusePlus.ipa。
