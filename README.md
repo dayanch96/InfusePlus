@@ -14,7 +14,7 @@ Fork 仓库：登录你的 GitHub 账号，访问 dayanch96/InfusePlus，点击�
 # 第二步：获取解密后的 Infuse IPA
 
 由于 GitHub Actions 需要对原始 App 进行注入，你需要准备一个**砸壳版（解密后）**的 Infuse .ipa 文件。
-https://armconverter.com/decryptedappstore/us
+[https://armconverter.com/decryptedappstore/us](https://armconverter.com/decryptedappstore/us/infuse)
 你需要将这个 .ipa 文件上传到云端。
 关键点：你必须获得该文件的直链（Direct Download Link）。如果是网页跳转链接，构建会失败。
 
