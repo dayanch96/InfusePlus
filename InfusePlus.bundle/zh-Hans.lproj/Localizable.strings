@@ -5,10 +5,10 @@
 "ProFeaturesDesc" = "启用需要付费订阅的 Pro 功能";
 "BackgroundPlayback" = "后台播放";
 "BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
-"SupportInfuse" = "Support Infuse";
-"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
-"BuyInfusePro" = "Buy Infuse Pro";
-"LeaveReview" = "Leave a Review";
+"SupportInfuse" = "支持 Infuse";
+"SupportInfuseDesc" = "如果你喜欢 Infuse，欢迎在条件允许的情况下购买 Infuse Pro，或前往 App Store 留下好评，以支持开发者。";
+"BuyInfusePro" = "购买 Infuse Pro";
+"LeaveReview" = "撰写评价";
 
 "PlayerSettings" = "播放增强";
 "DoubleTapPause" = "双击播放\/暂停";
@@ -19,70 +19,70 @@
 "NoStockPlaybackSpeedDesc" = "从播放设置菜单中删除原生播放速度子菜单";
 "NoStockVolumeBoost" = "无原生声音增强";
 "NoStockVolumeBoostDesc" = "从播放设置菜单中删除原生声音增强子菜单";
-"RememberPlaybackSpeed" = "Remember Playback Speed";
-"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
+"RememberPlaybackSpeed" = "记忆播放速度";
+"RememberPlaybackSpeedDesc" = "将上次使用的播放速度设为默认播放速度。";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "水平翻转";
+"HorFlipButtonDesc" = "在播放控制界面中添加“水平翻转”按钮。";
+"VerFlipButton" = "垂直翻转";
+"VerFlipButtonDesc" = "在播放控制界面中添加“垂直翻转”按钮。";
 "SkipButtons" = "跳过按钮";
 "SkipButtonsDesc" = "在播放界面添加跳至下一个和上一个按钮";
 "HideRewindButtons" = "隐藏快退按钮";
 "HideRewindButtonsDesc" = "从播放界面删除快退和快进按钮";
-"MutePlayerOnly" = "Mute Player Only";
-"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+"MutePlayerOnly" = "仅静音播放器";
+"MutePlayerOnlyDesc" = "使用播放器内音量按钮时，仅将播放器静音，不影响系统音量。";
 
-"IntroSettings" = "Intros";
-"SkipIntros" = "Skip Intros";
-"SkipIntrosDesc" = "Skips intros and other segments when detected";
-"DisplayInOverlay" = "Display Overlay Button";
-"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
-"AudioNotification" = "Audio Notification";
-"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
-"NotifyAlertDuration" = "Notify Alert Duration";
-"SkipAlertDuration" = "Skip Alert Duration";
-"UnskipAlertDuration" = "Unskip Alert Duration";
-"SkipSound" = "Skip Sound";
+"IntroSettings" = "片头";
+"SkipIntros" = "跳过片头";
+"SkipIntrosDesc" = "检测到片头或其他片段时自动跳过。";
+"DisplayInOverlay" = "显示播放界面按钮";
+"DisplayInOverlayDesc" = "在播放控制界面中显示切换按钮。";
+"AudioNotification" = "声音提示";
+"AudioNotificationDesc" = "跳过片段时播放一段简短的提示音。";
+"NotifyAlertDuration" = "提示显示时长";
+"SkipAlertDuration" = "跳过提示时长";
+"UnskipAlertDuration" = "取消跳过提示时长";
+"SkipSound" = "跳过提示音";
 
-"Ignore" = "Ignore";
-"NotifyAndSkip" = "Notify and skip";
-"AutoSkip" = "Auto-skip";
-"Ask" = "Ask";
+"Ignore" = "忽略";
+"NotifyAndSkip" = "提示并跳过";
+"AutoSkip" = "自动跳过";
+"Ask" = "询问";
 
-"SegmentSettings" = "Segment Settings";
-"SegmentIntro" = "Intro";
-"SegmentRecap" = "Recap";
-"SegmentOutro" = "Outro";
-"SegmentPreview" = "Preview";
-"SegmentDisplay" = "Display in progress bar";
-"SegmentColor" = "Segment Color";
+"SegmentSettings" = "片段设置";
+"SegmentIntro" = "片头";
+"SegmentRecap" = "剧情回顾";
+"SegmentOutro" = "片尾";
+"SegmentPreview" = "下集预告";
+"SegmentDisplay" = "在进度条中显示";
+"SegmentColor" = "片段颜色";
 
-"segment_intro" = "Intro segment";
-"segment_recap" = "Recap segment";
-"segment_outro" = "Outro segment";
-"segment_preview" = "Preview segment";
+"segment_intro" = "片头";
+"segment_recap" = "剧情回顾";
+"segment_outro" = "片尾";
+"segment_preview" = "下集预告";
 
-"SkippingIntro" = "%@ is about to be skipped...";
-"IntroDetected" = "%@ detected. Do you want to skip it?";
-"IntroSkipped" = "%@ was just skipped";
+"SkippingIntro" = "即将跳过%@…";
+"IntroDetected" = "检测到%@，是否跳过？";
+"IntroSkipped" = "已跳过%@";
 
-"Skip" = "Skip";
-"Unskip" = "Unskip";
+"Skip" = "跳过";
+"Unskip" = "取消跳过";
 
-"OverlayLock" = "Overlay Lock";
-"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
-"AllowLongPresses" = "Allow Long Press Gestures";
-"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
-"AllowDoubleTaps" = "Allow Double Tap Gestures";
-"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
-"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
-"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
-"AllowPanGestures" = "Allow Pan Gestures";
-"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
+"OverlayLock" = "锁定播放界面";
+"OverlayLockDesc" = "在播放设置菜单中添加“锁定播放界面”按钮。";
+"AllowLongPresses" = "允许长按手势";
+"AllowLongPressesDesc" = "锁定播放界面后仍允许使用长按手势，例如调整播放速度。";
+"AllowDoubleTaps" = "允许双击手势";
+"AllowDoubleTapsDesc" = "允许使用双击手势进行快进、快退或播放/暂停。";
+"AllowTwoFingerTaps" = "允许双指轻点手势";
+"AllowTwoFingerTapsDesc" = "允许使用双指轻点手势进行播放或暂停。";
+"AllowPanGestures" = "允许滑动手势";
+"AllowPanGesturesDesc" = "允许使用滑动手势进行快进快退，以及调节亮度和音量。";
 
 "ShowStatusBar" = "显示状态栏";
 "ShowStatusBarDesc" = "在播放器中显示连接、时间和电池电量的状态栏";
@@ -128,8 +128,8 @@
 "StartupPageHeader" = "启动页";
 
 "UpdateHeader" = "Infuse Plus 更新";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "自动清理垃圾";
+"AutoCleanTrashDesc" = "启动 Infuse 时自动清理垃圾。";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
@@ -145,14 +145,14 @@
 "ExportPrefs" = "导出偏好设置";
 "RestoreDefaults" = "恢复默认设置";
 
-"AppInfo" = "App Info";
-"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
-"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
-"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
-"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
-"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
-"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
+"AppInfo" = "应用信息";
+"BundleAndAppIdentifierMatch" = "Bundle ID 与 Application ID 一致";
+"BundleAndAppIdentifierMatchDesc" = "文件夹选择、更换应用图标、控制中心媒体播放器以及灵动岛交互均可正常使用。";
+"BundleAndAppIdentifierDontMatch" = "Bundle ID 与 Application ID 不一致";
+"DontMatchIssuesInfo" = "这意味着文件夹选择、更换应用图标、控制中心媒体播放器以及灵动岛交互功能可能部分或完全无法使用。";
+"HowToMatchInfo" = "若要修复此问题，请轻点此项以复制 %@，然后重新签名并安装应用，并将其作为 Bundle ID 使用。";
 
+"DuplicatedAppInfo" = "由于 Bundle ID 不同，重新安装后将作为独立应用存在，不会覆盖当前应用。";
 "PreImportMessage" = "即将导入 Infuse Plus 偏好设置；此操作将永久覆盖您当前的偏好设置。\n\n您想继续吗？";
 "Import.Yes" = "是的，导入偏好设置";
 "PreResetMessage" = "即将把 Infuse Plus 偏好设置重置为默认值；此操作将导致您配置的所有偏好设置丢失。\n\n您想继续吗？";
@@ -174,10 +174,10 @@
 "LinksHeader" = "链接";
 
 "SpecialThanks" = "特别鸣谢";
-"Credits" = "Credits";
-"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
-"TheIntroDBDesc" = "Segment database provider";
-"IntroDBDesc" = "Segment database provider";
+"Credits" = "致谢";
+"FirecoreDesc" = "Infuse 的开发者，没有他们，这一切都无法实现。";
+"TheIntroDBDesc" = "片段数据库提供方";
+"IntroDBDesc" = "片段数据库提供方";
 
 "TopContributors" = "杰出贡献者";
 "Translators" = "本地化翻译";
@@ -187,8 +187,8 @@
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
 
-"LockOverlay" = "Lock Overlay";
-"TapToUnlock" = "Tap to unlock";
+"LockOverlay" = "锁定播放界面";
+"TapToUnlock" = "轻点解锁";
 
 "Photos" = "照片";
 "Imported" = "已导入";
@@ -204,7 +204,7 @@
 "PlayDirectly" = "直接播放";
 "InvalidLink" = "无效链接";
 "InvalidFile" = "无效文件";
-"Error.Unknown" = "Unknown error occurred";
+"Error.Unknown" = "发生未知错误";
 "Done" = "完成";
 
 "FileImport" = "文件导入";
