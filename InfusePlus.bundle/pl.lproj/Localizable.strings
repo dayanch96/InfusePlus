@@ -5,6 +5,10 @@
 "ProFeaturesDesc" = "Włącza funkcje Pro niedostępne początkowo bez subskrypcji";
 "BackgroundPlayback" = "Odtwarzanie w tle";
 "BackgroundPlaybackDesc" = "Wymusza odtwarzanie w tle i zapobiega jego wyłączaniu";
+"SupportInfuse" = "Support Infuse";
+"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
+"BuyInfusePro" = "Buy Infuse Pro";
+"LeaveReview" = "Leave a Review";
 
 "PlayerSettings" = "Odtwarzacz";
 "DoubleTapPause" = "Podwójne stuknięcie – Odtwórz/Pauza";
@@ -15,31 +19,70 @@
 "NoStockPlaybackSpeedDesc" = "Usuwa domyślne podmenu prędkości odtwarzania z menu ustawień odtwarzania";
 "NoStockVolumeBoost" = "Brak domyślnego wzmocnienia głośności";
 "NoStockVolumeBoostDesc" = "Usuwa domyślne podmenu wzmocnienia głośności z menu ustawień odtwarzania";
+"RememberPlaybackSpeed" = "Remember Playback Speed";
+"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
 "SkipByLongTap" = "Przewijanie długim naciśnięciem";
 "SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
 "LoopButton" = "Przycisk pętli";
 "LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
-"HorFlipButton" = "Odbicie poziome";
-"HorFlipButtonDesc" = "Dodaje przycisk odbicia poziomego do nakładki";
-"VerFlipButton" = "Odbicie pionowe";
-"VerFlipButtonDesc" = "Dodaje przycisk odbicia pionowego do nakładki";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "Przyciski przewijania";
 "SkipButtonsDesc" = "Dodaje przyciski przejścia do następnego i poprzedniego filmu do nakładki";
 "HideRewindButtons" = "Ukryj przyciski przewijania";
 "HideRewindButtonsDesc" = "Usuwa przyciski przewijania wstecz i do przodu z nakładki";
-"MutePlayerOnly" = "Wycisz tylko odtwarzacz";
-"MutePlayerOnlyDesc" = "Wycisza odtwarzacz bez wpływu na głośność systemową podczas używania przycisku głośności w odtwarzaczu";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
 
-"OverlayLock" = "Blokada nakładki";
-"OverlayLockDesc" = "Dodaje przycisk blokady nakładki do menu ustawień odtwarzania";
-"AllowLongPresses" = "Zezwól na gesty długiego przytrzymania";
-"AllowLongPressesDesc" = "Umożliwia gesty długiego przytrzymania na zablokowanej nakładce, np. zmianę prędkości odtwarzania";
-"AllowDoubleTaps" = "Zezwól na gesty podwójnego stuknięcia";
-"AllowDoubleTapsDesc" = "Umożliwia gesty podwójnego stuknięcia do przewijania w przód, wstecz lub odtwarzania/wstrzymania";
-"AllowTwoFingerTaps" = "Zezwól na gesty stuknięcia dwoma palcami";
-"AllowTwoFingerTapsDesc" = "Umożliwia stuknięcie dwoma palcami w celu odtwarzania lub wstrzymania";
-"AllowPanGestures" = "Zezwól na gesty przesuwania";
-"AllowPanGesturesDesc" = "Umożliwia gesty przesuwania do przewijania oraz regulacji jasności i głośności";
+"IntroSettings" = "Intros";
+"SkipIntros" = "Skip Intros";
+"SkipIntrosDesc" = "Skips intros and other segments when detected";
+"DisplayInOverlay" = "Display Overlay Button";
+"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
+"AudioNotification" = "Audio Notification";
+"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
+"NotifyAlertDuration" = "Notify Alert Duration";
+"SkipAlertDuration" = "Skip Alert Duration";
+"UnskipAlertDuration" = "Unskip Alert Duration";
+"SkipSound" = "Skip Sound";
+
+"Ignore" = "Ignore";
+"NotifyAndSkip" = "Notify and skip";
+"AutoSkip" = "Auto-skip";
+"Ask" = "Ask";
+
+"SegmentSettings" = "Segment Settings";
+"SegmentIntro" = "Intro";
+"SegmentRecap" = "Recap";
+"SegmentOutro" = "Outro";
+"SegmentPreview" = "Preview";
+"SegmentDisplay" = "Display in progress bar";
+"SegmentColor" = "Segment Color";
+
+"segment_intro" = "Intro segment";
+"segment_recap" = "Recap segment";
+"segment_outro" = "Outro segment";
+"segment_preview" = "Preview segment";
+
+"SkippingIntro" = "%@ is about to be skipped...";
+"IntroDetected" = "%@ detected. Do you want to skip it?";
+"IntroSkipped" = "%@ was just skipped";
+
+"Skip" = "Skip";
+"Unskip" = "Unskip";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "Pokaż pasek stanu";
 "ShowStatusBarDesc" = "Pokazuje pasek stanu z połączeniem, godziną i poziomem baterii w odtwarzaczu";
@@ -85,8 +128,8 @@
 "StartupPageHeader" = "Strona startowa";
 
 "UpdateHeader" = "Aktualizacja Infuse Plus";
-"AutoCleanTrash" = "Automatyczne czyszczenie kosza";
-"AutoCleanTrashDesc" = "Automatycznie czyści folder kosza Infuse przy uruchomieniu";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "Powiadamiaj o aktualizacjach";
 "NotifyUpdatesDesc" = "Wyświetla alert, jeśli dostępna jest nowa wersja modyfikacji";
 "UpdateLocalizations" = "Aktualizuj tłumaczenia";
@@ -101,6 +144,14 @@
 "ImportPrefs" = "Importuj preferencje";
 "ExportPrefs" = "Eksportuj preferencje";
 "RestoreDefaults" = "Przywróć domyślne preferencje";
+
+"AppInfo" = "App Info";
+"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
+"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
+"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
+"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
+"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
+"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
 
 "PreImportMessage" = "Zamierzasz zaimportować preferencje Infuse Plus. Ta operacja trwale nadpisze Twoje obecne ustawienia.\n\nCzy chcesz kontynuować?";
 "Import.Yes" = "Tak, zaimportuj preferencje";
@@ -123,6 +174,11 @@
 "LinksHeader" = "Linki";
 
 "SpecialThanks" = "Specjalne podziękowania";
+"Credits" = "Credits";
+"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
+"TheIntroDBDesc" = "Segment database provider";
+"IntroDBDesc" = "Segment database provider";
+
 "TopContributors" = "Najwięksi współtwórcy";
 "Translators" = "Tłumaczenia";
 "Arabic" = "Tłumaczenie arabskie";
@@ -131,8 +187,8 @@
 "Japanese" = "Tłumaczenie japońskie";
 "Spanish" = "Tłumaczenie hiszpańskie";
 
-"LockOverlay" = "Zablokuj nakładkę";
-"TapToUnlock" = "Stuknij, aby odblokować";
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "Zdjęcia";
 "Imported" = "Zaimportowano";
@@ -148,6 +204,7 @@
 "PlayDirectly" = "Odtwarzaj bezpośrednio";
 "InvalidLink" = "Nieprawidłowy link";
 "InvalidFile" = "Nieprawidłowy plik";
+"Error.Unknown" = "Unknown error occurred";
 "Done" = "Gotowe";
 
 "FileImport" = "Import plików";

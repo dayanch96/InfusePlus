@@ -44,6 +44,21 @@
     </li>
     <li>Tap to playback duration to change between total duration, left duration and exact time when playback ends</li>
     <li>Separated custom skip times for double tap and rewind buttons</li>
+    <li>Loop, flip and skip buttons</li>
+    <li>Overlay lock</li>
+    <li>Display status bar in the player overlay</li>
+  </ul>
+</details>
+
+<details>
+  <summary>Intro/Credits settings</summary>
+  <ul>
+    <li>Skip intros and other segments if detected</li>
+    <li>Display toggle button in the player overlay</li>
+    <li>Play audio notification when a segment is skipped</li>
+    <li>Set alert durations</li>
+    <li>Set segment display and skip settings</li>
+    <li>Select skip sound</li>
   </ul>
 </details>
 
@@ -52,8 +67,11 @@
   <ul>
     <li>Ability to set Title and Poster for the player in control center</li>
     <li>Startup tab selection</li>
+    <li>Auto clean trash folder</li>
     <li>New available tweak update notification</li>
     <li>Auto-update localizations</li>
+    <li>Tweak preferences management</li>
+    <li>App info</li>
   </ul>
 </details>
 

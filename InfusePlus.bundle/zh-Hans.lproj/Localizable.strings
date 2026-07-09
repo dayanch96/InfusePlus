@@ -5,6 +5,10 @@
 "ProFeaturesDesc" = "启用需要付费订阅的 Pro 功能";
 "BackgroundPlayback" = "后台播放";
 "BackgroundPlaybackDesc" = "强制后台播放并防止其禁用";
+"SupportInfuse" = "Support Infuse";
+"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
+"BuyInfusePro" = "Buy Infuse Pro";
+"LeaveReview" = "Leave a Review";
 
 "PlayerSettings" = "播放增强";
 "DoubleTapPause" = "双击播放\/暂停";
@@ -15,31 +19,70 @@
 "NoStockPlaybackSpeedDesc" = "从播放设置菜单中删除原生播放速度子菜单";
 "NoStockVolumeBoost" = "无原生声音增强";
 "NoStockVolumeBoostDesc" = "从播放设置菜单中删除原生声音增强子菜单";
+"RememberPlaybackSpeed" = "Remember Playback Speed";
+"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
-"HorFlipButton" = "水平翻转";
-"HorFlipButtonDesc" = "在播放界面添加水平翻转按钮";
-"VerFlipButton" = "垂直翻转";
-"VerFlipButtonDesc" = "在播放界面添加垂直翻转按钮";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "跳过按钮";
 "SkipButtonsDesc" = "在播放界面添加跳至下一个和上一个按钮";
 "HideRewindButtons" = "隐藏快退按钮";
 "HideRewindButtonsDesc" = "从播放界面删除快退和快进按钮";
-"MutePlayerOnly" = "仅静音播放器";
-"MutePlayerOnlyDesc" = "使用播放器内音量按钮时，仅静音播放器不影响系统音量";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
 
-"OverlayLock" = "播放界面锁定";
-"OverlayLockDesc" = "在播放设置菜单中添加播放界面锁定按钮";
-"AllowLongPresses" = "允许长按手势";
-"AllowLongPressesDesc" = "允许在锁定的播放界面上进行长按手势，例如用于更改播放速度";
-"AllowDoubleTaps" = "允许双击手势";
-"AllowDoubleTapsDesc" = "允许双击手势进行快进、快退或播放/暂停";
-"AllowTwoFingerTaps" = "允许双指轻击手势";
-"AllowTwoFingerTapsDesc" = "允许双指轻击手势进行播放或暂停";
-"AllowPanGestures" = "允许平移手势";
-"AllowPanGesturesDesc" = "允许手指平移来调整亮度/音量";
+"IntroSettings" = "Intros";
+"SkipIntros" = "Skip Intros";
+"SkipIntrosDesc" = "Skips intros and other segments when detected";
+"DisplayInOverlay" = "Display Overlay Button";
+"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
+"AudioNotification" = "Audio Notification";
+"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
+"NotifyAlertDuration" = "Notify Alert Duration";
+"SkipAlertDuration" = "Skip Alert Duration";
+"UnskipAlertDuration" = "Unskip Alert Duration";
+"SkipSound" = "Skip Sound";
+
+"Ignore" = "Ignore";
+"NotifyAndSkip" = "Notify and skip";
+"AutoSkip" = "Auto-skip";
+"Ask" = "Ask";
+
+"SegmentSettings" = "Segment Settings";
+"SegmentIntro" = "Intro";
+"SegmentRecap" = "Recap";
+"SegmentOutro" = "Outro";
+"SegmentPreview" = "Preview";
+"SegmentDisplay" = "Display in progress bar";
+"SegmentColor" = "Segment Color";
+
+"segment_intro" = "Intro segment";
+"segment_recap" = "Recap segment";
+"segment_outro" = "Outro segment";
+"segment_preview" = "Preview segment";
+
+"SkippingIntro" = "%@ is about to be skipped...";
+"IntroDetected" = "%@ detected. Do you want to skip it?";
+"IntroSkipped" = "%@ was just skipped";
+
+"Skip" = "Skip";
+"Unskip" = "Unskip";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "显示状态栏";
 "ShowStatusBarDesc" = "在播放器中显示连接、时间和电池电量的状态栏";
@@ -85,8 +128,8 @@
 "StartupPageHeader" = "启动页";
 
 "UpdateHeader" = "Infuse Plus 更新";
-"AutoCleanTrash" = "自动清理垃圾";
-"AutoCleanTrashDesc" = "启动时自动清理 Infuse 的垃圾文件夹";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "如果有新版本的插件可用，则显示弹窗。";
 "UpdateLocalizations" = "更新翻译";
@@ -101,6 +144,14 @@
 "ImportPrefs" = "导入偏好设置";
 "ExportPrefs" = "导出偏好设置";
 "RestoreDefaults" = "恢复默认设置";
+
+"AppInfo" = "App Info";
+"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
+"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
+"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
+"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
+"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
+"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
 
 "PreImportMessage" = "即将导入 Infuse Plus 偏好设置；此操作将永久覆盖您当前的偏好设置。\n\n您想继续吗？";
 "Import.Yes" = "是的，导入偏好设置";
@@ -123,6 +174,11 @@
 "LinksHeader" = "链接";
 
 "SpecialThanks" = "特别鸣谢";
+"Credits" = "Credits";
+"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
+"TheIntroDBDesc" = "Segment database provider";
+"IntroDBDesc" = "Segment database provider";
+
 "TopContributors" = "杰出贡献者";
 "Translators" = "本地化翻译";
 "Arabic" = "阿拉伯语本地化";
@@ -131,8 +187,8 @@
 "Japanese" = "日语本地化";
 "Spanish" = "西班牙语本地化";
 
-"LockOverlay" = "锁定界面";
-"TapToUnlock" = "点击解锁";
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "照片";
 "Imported" = "已导入";
@@ -148,6 +204,7 @@
 "PlayDirectly" = "直接播放";
 "InvalidLink" = "无效链接";
 "InvalidFile" = "无效文件";
+"Error.Unknown" = "Unknown error occurred";
 "Done" = "完成";
 
 "FileImport" = "文件导入";

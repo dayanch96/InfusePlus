@@ -5,6 +5,10 @@
 "ProFeaturesDesc" = "サブスクリプションなしでは最初から使用できないProの機能を有効にします";
 "BackgroundPlayback" = "バックグラウンド再生";
 "BackgroundPlaybackDesc" = "バックグラウンド再生を強制し、無効化を防止します";
+"SupportInfuse" = "Support Infuse";
+"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
+"BuyInfusePro" = "Buy Infuse Pro";
+"LeaveReview" = "Leave a Review";
 
 "PlayerSettings" = "Player";
 "DoubleTapPause" = "ダブルタップで再生/一時停止";
@@ -15,6 +19,8 @@
 "NoStockPlaybackSpeedDesc" = "Removes stock playback speed submenu from the playback settings menu";
 "NoStockVolumeBoost" = "No stock volume boost";
 "NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
+"RememberPlaybackSpeed" = "Remember Playback Speed";
+"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
 "LoopButton" = "Loop Button";
@@ -29,6 +35,43 @@
 "HideRewindButtonsDesc" = "Removes rewind and fast forward buttons from the overlay";
 "MutePlayerOnly" = "Mute Player Only";
 "MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+
+"IntroSettings" = "Intros";
+"SkipIntros" = "Skip Intros";
+"SkipIntrosDesc" = "Skips intros and other segments when detected";
+"DisplayInOverlay" = "Display Overlay Button";
+"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
+"AudioNotification" = "Audio Notification";
+"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
+"NotifyAlertDuration" = "Notify Alert Duration";
+"SkipAlertDuration" = "Skip Alert Duration";
+"UnskipAlertDuration" = "Unskip Alert Duration";
+"SkipSound" = "Skip Sound";
+
+"Ignore" = "Ignore";
+"NotifyAndSkip" = "Notify and skip";
+"AutoSkip" = "Auto-skip";
+"Ask" = "Ask";
+
+"SegmentSettings" = "Segment Settings";
+"SegmentIntro" = "Intro";
+"SegmentRecap" = "Recap";
+"SegmentOutro" = "Outro";
+"SegmentPreview" = "Preview";
+"SegmentDisplay" = "Display in progress bar";
+"SegmentColor" = "Segment Color";
+
+"segment_intro" = "Intro segment";
+"segment_recap" = "Recap segment";
+"segment_outro" = "Outro segment";
+"segment_preview" = "Preview segment";
+
+"SkippingIntro" = "%@ is about to be skipped...";
+"IntroDetected" = "%@ detected. Do you want to skip it?";
+"IntroSkipped" = "%@ was just skipped";
+
+"Skip" = "Skip";
+"Unskip" = "Unskip";
 
 "OverlayLock" = "Overlay Lock";
 "OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
@@ -102,6 +145,14 @@
 "ExportPrefs" = "Export Preferences";
 "RestoreDefaults" = "Restore Default Preferences";
 
+"AppInfo" = "App Info";
+"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
+"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
+"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
+"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
+"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
+"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
+
 "PreImportMessage" = "You are about to import Infuse Plus preferences. This action will permanently overwrite your current preferences.\n\nDo you want to continue?";
 "Import.Yes" = "Yes, import preferences";
 "PreResetMessage" = "You are about to reset Infuse Plus preferences to their default values. This action will result in the loss of all your configured preferences.\n\nDo you want to continue?";
@@ -123,6 +174,11 @@
 "LinksHeader" = "Links";
 
 "SpecialThanks" = "特別なお礼";
+"Credits" = "Credits";
+"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
+"TheIntroDBDesc" = "Segment database provider";
+"IntroDBDesc" = "Segment database provider";
+
 "TopContributors" = "Top contributors";
 "Translators" = "Localization";
 "Arabic" = "アラビア語ローカライズ";
@@ -148,6 +204,7 @@
 "PlayDirectly" = "Play directly";
 "InvalidLink" = "Invalid link";
 "InvalidFile" = "Invalid file";
+"Error.Unknown" = "Unknown error occurred";
 "Done" = "Done";
 
 "FileImport" = "File import";

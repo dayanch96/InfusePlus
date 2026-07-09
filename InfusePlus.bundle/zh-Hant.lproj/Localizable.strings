@@ -5,6 +5,10 @@
 "ProFeaturesDesc" = "啟用原本需要付費訂閱才能使用的Pro功能";
 "BackgroundPlayback" = "背景播放";
 "BackgroundPlaybackDesc" = "強制背景播放並防止停用";
+"SupportInfuse" = "Support Infuse";
+"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
+"BuyInfusePro" = "Buy Infuse Pro";
+"LeaveReview" = "Leave a Review";
 
 "PlayerSettings" = "播放器設定";
 "DoubleTapPause" = "點兩下播放/暫停";
@@ -15,31 +19,70 @@
 "NoStockPlaybackSpeedDesc" = "從播放設定選單中移除原生播放速度選項";
 "NoStockVolumeBoost" = "移除原生音量增強";
 "NoStockVolumeBoostDesc" = "從播放設定選單中移除原生音量增強選項";
+"RememberPlaybackSpeed" = "Remember Playback Speed";
+"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
-"HorFlipButton" = "水平翻轉";
-"HorFlipButtonDesc" = "在播放介面加入水平翻轉按鈕";
-"VerFlipButton" = "垂直翻轉";
-"VerFlipButtonDesc" = "在播放介面加入垂直翻轉按鈕";
+"HorFlipButton" = "Horizontal flip";
+"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
+"VerFlipButton" = "Vertical flip";
+"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
 "SkipButtons" = "跳過按鈕";
 "SkipButtonsDesc" = "在播放介面加入上一個/下一個按鈕";
 "HideRewindButtons" = "隱藏快轉/倒轉按鈕";
 "HideRewindButtonsDesc" = "從播放介面移除快轉與倒轉按鈕";
-"MutePlayerOnly" = "僅播放器靜音";
-"MutePlayerOnlyDesc" = "使用播放器音量按鈕時僅將影片靜音，不影響系統音量";
+"MutePlayerOnly" = "Mute Player Only";
+"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
 
-"OverlayLock" = "介面鎖定";
-"OverlayLockDesc" = "在播放設定選單加入介面鎖定按鈕";
-"AllowLongPresses" = "允許長按手勢";
-"AllowLongPressesDesc" = "介面鎖定時仍可長按（例如：更改播放速度）";
-"AllowDoubleTaps" = "允許點兩下手勢";
-"AllowDoubleTapsDesc" = "允許點兩下進行快轉、倒轉或播放/暫停";
-"AllowTwoFingerTaps" = "允許雙指點擊手勢";
-"AllowTwoFingerTapsDesc" = "允許雙指點擊以播放或暫停";
-"AllowPanGestures" = "允許滑動手勢";
-"AllowPanGesturesDesc" = "允許滑動手勢以調整進度、亮度或音量";
+"IntroSettings" = "Intros";
+"SkipIntros" = "Skip Intros";
+"SkipIntrosDesc" = "Skips intros and other segments when detected";
+"DisplayInOverlay" = "Display Overlay Button";
+"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
+"AudioNotification" = "Audio Notification";
+"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
+"NotifyAlertDuration" = "Notify Alert Duration";
+"SkipAlertDuration" = "Skip Alert Duration";
+"UnskipAlertDuration" = "Unskip Alert Duration";
+"SkipSound" = "Skip Sound";
+
+"Ignore" = "Ignore";
+"NotifyAndSkip" = "Notify and skip";
+"AutoSkip" = "Auto-skip";
+"Ask" = "Ask";
+
+"SegmentSettings" = "Segment Settings";
+"SegmentIntro" = "Intro";
+"SegmentRecap" = "Recap";
+"SegmentOutro" = "Outro";
+"SegmentPreview" = "Preview";
+"SegmentDisplay" = "Display in progress bar";
+"SegmentColor" = "Segment Color";
+
+"segment_intro" = "Intro segment";
+"segment_recap" = "Recap segment";
+"segment_outro" = "Outro segment";
+"segment_preview" = "Preview segment";
+
+"SkippingIntro" = "%@ is about to be skipped...";
+"IntroDetected" = "%@ detected. Do you want to skip it?";
+"IntroSkipped" = "%@ was just skipped";
+
+"Skip" = "Skip";
+"Unskip" = "Unskip";
+
+"OverlayLock" = "Overlay Lock";
+"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
+"AllowLongPresses" = "Allow Long Press Gestures";
+"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
+"AllowDoubleTaps" = "Allow Double Tap Gestures";
+"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
+"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
+"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
+"AllowPanGestures" = "Allow Pan Gestures";
+"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
 
 "ShowStatusBar" = "顯示狀態列";
 "ShowStatusBarDesc" = "在播放器中顯示包含連線狀態、時間與電池電量的狀態列";
@@ -80,13 +123,13 @@
 "SelectPoster" = "選擇圖片";
 "PosterSelected" = "封面已設定";
 "PosterDeleted" = "封面已刪除";
-"PosterTitleFooter" = "若只需更改封面，請將標題欄位留空";
+"PosterTitleFooter" = "如果只要套用封面圖片，請留空標題欄位";
 
 "StartupPageHeader" = "起始頁面";
 
 "UpdateHeader" = "Infuse Plus更新";
-"AutoCleanTrash" = "自動清理垃圾";
-"AutoCleanTrashDesc" = "啟動時自動清理 Infuse 的垃圾資料夾";
+"AutoCleanTrash" = "Auto clean trash";
+"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
@@ -101,6 +144,14 @@
 "ImportPrefs" = "匯入偏好設定";
 "ExportPrefs" = "匯出偏好設定";
 "RestoreDefaults" = "還原預設偏好設定";
+
+"AppInfo" = "App Info";
+"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
+"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
+"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
+"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
+"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
+"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
 
 "PreImportMessage" = "即將匯入Infuse Plus偏好設定。此動作將永久覆蓋您目前的偏好設定。\n\n是否要繼續?";
 "Import.Yes" = "是的，匯入偏好設定";
@@ -117,12 +168,17 @@
 
 "DonateMessage" = "如果您喜歡Infuse Plus並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
 "MaybeLater" = "再等一會兒吧";
-"Copied" = "已複製到剪貼簿";
+"Copied" = "已複製到剪貼板";
 "Thanks" = "謝謝";
 
 "LinksHeader" = "相關連結";
 
 "SpecialThanks" = "特別鳴謝";
+"Credits" = "Credits";
+"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
+"TheIntroDBDesc" = "Segment database provider";
+"IntroDBDesc" = "Segment database provider";
+
 "TopContributors" = "重要貢獻者";
 "Translators" = "在地化翻譯";
 "Arabic" = "阿拉伯語在地化";
@@ -131,11 +187,11 @@
 "Japanese" = "日語在地化";
 "Spanish" = "西班牙語在地化";
 
-"LockOverlay" = "鎖定控制介面";
-"TapToUnlock" = "點擊以解鎖";
+"LockOverlay" = "Lock Overlay";
+"TapToUnlock" = "Tap to unlock";
 
 "Photos" = "照片";
-"Imported" = "已匯入";
+"Imported" = "已導入";
 "MediaNotFound" = "未找到媒體";
 
 "LinkImport" = "匯入連結";
@@ -148,6 +204,7 @@
 "PlayDirectly" = "直接播放";
 "InvalidLink" = "無效連結";
 "InvalidFile" = "無效檔案";
+"Error.Unknown" = "Unknown error occurred";
 "Done" = "完成";
 
 "FileImport" = "匯入檔案";
