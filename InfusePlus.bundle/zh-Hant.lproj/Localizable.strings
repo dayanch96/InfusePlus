@@ -1,14 +1,14 @@
 "EnablePlus" = "啟用";
 
 "PremiumSettings" = "Premium";
-"ProFeatures" = "啟用Pro功能";
-"ProFeaturesDesc" = "啟用原本需要付費訂閱才能使用的Pro功能";
+"ProFeatures" = "啟用 Pro 功能";
+"ProFeaturesDesc" = "啟用原本需要付費訂閱才能使用的 Pro 功能";
 "BackgroundPlayback" = "背景播放";
 "BackgroundPlaybackDesc" = "強制背景播放並防止停用";
-"SupportInfuse" = "Support Infuse";
-"SupportInfuseDesc" = "If you enjoy Infuse, please consider purchasing Infuse Pro if you're able to, or leaving a positive App Store review to support the developers.";
-"BuyInfusePro" = "Buy Infuse Pro";
-"LeaveReview" = "Leave a Review";
+"SupportInfuse" = "支持 Infuse";
+"SupportInfuseDesc" = "如果您喜歡 Infuse，在能力允許的情況下，請考慮購買 Infuse Pro，或者在 App Store 留下好評來支持開發者。";
+"BuyInfusePro" = "購買 Infuse Pro";
+"LeaveReview" = "撰寫評論";
 
 "PlayerSettings" = "播放器設定";
 "DoubleTapPause" = "點兩下播放/暫停";
@@ -19,70 +19,70 @@
 "NoStockPlaybackSpeedDesc" = "從播放設定選單中移除原生播放速度選項";
 "NoStockVolumeBoost" = "移除原生音量增強";
 "NoStockVolumeBoostDesc" = "從播放設定選單中移除原生音量增強選項";
-"RememberPlaybackSpeed" = "Remember Playback Speed";
-"RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
+"RememberPlaybackSpeed" = "記憶播放速度";
+"RememberPlaybackSpeedDesc" = "記住上次設定的播放速度，並將其作為預設播放速度";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
-"HorFlipButton" = "Horizontal flip";
-"HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
-"VerFlipButton" = "Vertical flip";
-"VerFlipButtonDesc" = "Adds a vertical flip to the overlay";
+"HorFlipButton" = "水平翻轉";
+"HorFlipButtonDesc" = "在播放介面加入水平翻轉按鈕";
+"VerFlipButton" = "垂直翻轉";
+"VerFlipButtonDesc" = "在播放介面加入垂直翻轉按鈕";
 "SkipButtons" = "跳過按鈕";
 "SkipButtonsDesc" = "在播放介面加入上一個/下一個按鈕";
 "HideRewindButtons" = "隱藏快轉/倒轉按鈕";
 "HideRewindButtonsDesc" = "從播放介面移除快轉與倒轉按鈕";
-"MutePlayerOnly" = "Mute Player Only";
-"MutePlayerOnlyDesc" = "Mutes the player without affecting the system volume when using the in-player volume button";
+"MutePlayerOnly" = "僅播放器靜音";
+"MutePlayerOnlyDesc" = "使用播放器音量按鈕時僅將影片靜音，不影響系統音量";
 
-"IntroSettings" = "Intros";
-"SkipIntros" = "Skip Intros";
-"SkipIntrosDesc" = "Skips intros and other segments when detected";
-"DisplayInOverlay" = "Display Overlay Button";
-"DisplayInOverlayDesc" = "Shows a toggle button in the player overlay";
-"AudioNotification" = "Audio Notification";
-"AudioNotificationDesc" = "Plays a short sound when a segment is skipped";
-"NotifyAlertDuration" = "Notify Alert Duration";
-"SkipAlertDuration" = "Skip Alert Duration";
-"UnskipAlertDuration" = "Unskip Alert Duration";
-"SkipSound" = "Skip Sound";
+"IntroSettings" = "片頭與片尾";
+"SkipIntros" = "跳過片頭";
+"SkipIntrosDesc" = "偵測到片頭或其他片段時自動跳過";
+"DisplayInOverlay" = "顯示播放介面按鈕";
+"DisplayInOverlayDesc" = "在播放器控制介面上顯示切換按鈕";
+"AudioNotification" = "音效通知";
+"AudioNotificationDesc" = "跳過片段時播放簡短的提示音";
+"NotifyAlertDuration" = "通知提示持續時間";
+"SkipAlertDuration" = "跳過提示持續時間";
+"UnskipAlertDuration" = "取消跳過提示持續時間";
+"SkipSound" = "跳過提示音";
 
-"Ignore" = "Ignore";
-"NotifyAndSkip" = "Notify and skip";
-"AutoSkip" = "Auto-skip";
-"Ask" = "Ask";
+"Ignore" = "忽略";
+"NotifyAndSkip" = "通知並跳過";
+"AutoSkip" = "自動跳過";
+"Ask" = "詢問";
 
-"SegmentSettings" = "Segment Settings";
-"SegmentIntro" = "Intro";
-"SegmentRecap" = "Recap";
-"SegmentOutro" = "Outro";
-"SegmentPreview" = "Preview";
-"SegmentDisplay" = "Display in progress bar";
-"SegmentColor" = "Segment Color";
+"SegmentSettings" = "片段設定";
+"SegmentIntro" = "片頭";
+"SegmentRecap" = "前情提要";
+"SegmentOutro" = "片尾";
+"SegmentPreview" = "預告";
+"SegmentDisplay" = "在進度條中顯示";
+"SegmentColor" = "片段顏色";
 
-"segment_intro" = "Intro segment";
-"segment_recap" = "Recap segment";
-"segment_outro" = "Outro segment";
-"segment_preview" = "Preview segment";
+"segment_intro" = "片頭片段";
+"segment_recap" = "前情提要片段";
+"segment_outro" = "片尾片段";
+"segment_preview" = "預告片段";
 
-"SkippingIntro" = "%@ is about to be skipped...";
-"IntroDetected" = "%@ detected. Do you want to skip it?";
-"IntroSkipped" = "%@ was just skipped";
+"SkippingIntro" = "即將跳過 %@...";
+"IntroDetected" = "偵測到 %@。是否要跳過？";
+"IntroSkipped" = "已跳過 %@";
 
-"Skip" = "Skip";
-"Unskip" = "Unskip";
+"Skip" = "跳過";
+"Unskip" = "取消跳過";
 
-"OverlayLock" = "Overlay Lock";
-"OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
-"AllowLongPresses" = "Allow Long Press Gestures";
-"AllowLongPressesDesc" = "Allows long press gestures over the locked overlay. For example, to change playback speed";
-"AllowDoubleTaps" = "Allow Double Tap Gestures";
-"AllowDoubleTapsDesc" = "Allows double tap gestures for fast forward, rewind, or play/pause playback";
-"AllowTwoFingerTaps" = "Allow Two-Finger Tap Gestures";
-"AllowTwoFingerTapsDesc" = "Allows two-finger tap gestures to play or pause playback";
-"AllowPanGestures" = "Allow Pan Gestures";
-"AllowPanGesturesDesc" = "Allows pan gestures for seeking and adjusting brightness/volume";
+"OverlayLock" = "播放介面鎖定";
+"OverlayLockDesc" = "在播放設定選單加入介面鎖定按鈕";
+"AllowLongPresses" = "允許長按手勢";
+"AllowLongPressesDesc" = "介面鎖定時仍可長按（例如：更改播放速度）";
+"AllowDoubleTaps" = "允許點兩下手勢";
+"AllowDoubleTapsDesc" = "允許點兩下進行快轉、倒轉或播放/暫停";
+"AllowTwoFingerTaps" = "允許雙指點擊手勢";
+"AllowTwoFingerTapsDesc" = "允許雙指點擊以播放或暫停";
+"AllowPanGestures" = "允許滑動手勢";
+"AllowPanGesturesDesc" = "允許滑動手勢以調整進度、亮度或音量";
 
 "ShowStatusBar" = "顯示狀態列";
 "ShowStatusBarDesc" = "在播放器中顯示包含連線狀態、時間與電池電量的狀態列";
@@ -90,7 +90,7 @@
 "BatteryPercentageDesc" = "在狀態列中顯示電池百分比";
 "ModernPercentage" = "現代百分比";
 "ModernPercentageDesc" = "如圖所示，將電池圖示和百分比合併顯示";
-"StatusBarFooter" = "在某些裝置上，電池百分比可能會四捨五入到最接近的5%。這是 Apple 設定的限制。";
+"StatusBarFooter" = "在某些裝置上，電池百分比可能會四捨五入到最接近的 5%。這是 Apple 設定的限制。";
 
 "SpeedByLongTap" = "長按加速播放";
 "SpeedByLongTapDesc" = "長按播放介面可加快播放速度";
@@ -101,8 +101,8 @@
 
 "FlexibleTimer" = "彈性計時器";
 "FlexibleTimerDesc" = "在播放設定選單中新增彈性計時器子選單，提供切換顯示剩餘播放時間、總播放時間和播放結束時間的功能";
-"24hrFormat" = "24小時制";
-"24hrFormatDesc" = "播放結束時間將以24小時制顯示";
+"24hrFormat" = "24 小時制";
+"24hrFormatDesc" = "播放結束時間將以 24 小時制顯示";
 "RemainingTime" = "剩餘時間";
 "EndTime" = "結束時間";
 "Duration" = "總播放時間";
@@ -128,15 +128,15 @@
 "StartupPageHeader" = "起始頁面";
 
 "UpdateHeader" = "Infuse Plus更新";
-"AutoCleanTrash" = "Auto clean trash";
-"AutoCleanTrashDesc" = "Automatically cleans the Infuse trash folder on startup";
+"AutoCleanTrash" = "自動清理垃圾";
+"AutoCleanTrashDesc" = "啟動時自動清理 Infuse 的垃圾資料夾";
 "NotifyUpdates" = "更新通知";
 "NotifyUpdatesDesc" = "若有新版本插件釋出，將顯示通知";
 "UpdateLocalizations" = "更新語言檔";
-"UpdateLocalizationsDesc" = "開啟應用時自動從GitHub更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次Infuse Plus發布。";
+"UpdateLocalizationsDesc" = "開啟應用時自動從 GitHub 更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次 Infuse Plus 發布。";
 "NewUpdate" = "Infuse Plus %@ 已發布!";
-"Update.Tweak" = "從Github取得";
-"Update.IPA" = "從Telegram下載IPA";
+"Update.Tweak" = "從 Github 取得";
+"Update.IPA" = "從 Telegram 下載 IPA";
 "Update.Repo" = "開啟儲存庫列表";
 "Update.Dismiss" = "關閉";
 
@@ -145,17 +145,17 @@
 "ExportPrefs" = "匯出偏好設定";
 "RestoreDefaults" = "還原預設偏好設定";
 
-"AppInfo" = "App Info";
-"BundleAndAppIdentifierMatch" = "BundleID and ApplicationID match.";
-"BundleAndAppIdentifierMatchDesc" = "Folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction should work correctly.";
-"BundleAndAppIdentifierDontMatch" = "BundleID and ApplicationID do not match";
-"DontMatchIssuesInfo" = "This means that folder picking, app icon change, Media Player in Control Center, and Dynamic Island interaction may be partially or completely unavailable.";
-"HowToMatchInfo" = "To fix this, tap this cell to copy %@. Then re-sign and install the app using this ApplicationID as the BundleID.";
-"DuplicatedAppInfo" = "Note that the app will be installed separately from the current one, since the BundleIDs will differ.";
+"AppInfo" = "應用程式資訊";
+"BundleAndAppIdentifierMatch" = "BundleID 與 ApplicationID 相符。";
+"BundleAndAppIdentifierMatchDesc" = "資料夾選取、更換 App 圖示、控制中心的媒體播放器以及動態島互動功能應該能正常運作。";
+"BundleAndAppIdentifierDontMatch" = "BundleID 與 ApplicationID 不相符";
+"DontMatchIssuesInfo" = "這意味著資料夾選取、更換 App 圖示、控制中心的媒體播放器以及動態島互動功能可能會部分或完全無法使用。";
+"HowToMatchInfo" = "若要修正此問題，請點選此處複製 %@。接著使用此 ApplicationID 作為 BundleID 重新簽名並安裝 App。";
+"DuplicatedAppInfo" = "請注意，由於 BundleID 不同，此 App 將會與目前的版本分開獨立安裝。";
 
-"PreImportMessage" = "即將匯入Infuse Plus偏好設定。此動作將永久覆蓋您目前的偏好設定。\n\n是否要繼續?";
+"PreImportMessage" = "即將匯入 Infuse Plus 偏好設定。此動作將永久覆蓋您目前的偏好設定。\n\n是否要繼續？";
 "Import.Yes" = "是的，匯入偏好設定";
-"PreResetMessage" = "Infuse Plus即將重設偏好設定為預設值。此動作將導致您所有已設定的偏好設定遺失。\n\n是否要繼續?";
+"PreResetMessage" = "Infuse Plus 即將重設偏好設定為預設值。此動作將導致您所有已設定的偏好設定遺失。\n\n是否要繼續？";
 "Reset.Yes" = "是的，重設為預設值";
 "No" = "不";
 "Yes" = "是";
@@ -166,7 +166,7 @@
 "Donate" = "支持開發";
 "DonateDesc" = "請我喝杯咖啡";
 
-"DonateMessage" = "如果您喜歡Infuse Plus並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
+"DonateMessage" = "如果您喜歡 Infuse Plus 並願意支持我，您可以使用以下任何方便的方式給我買杯咖啡。\n\n感謝❤";
 "MaybeLater" = "再等一會兒吧";
 "Copied" = "已複製到剪貼板";
 "Thanks" = "謝謝";
@@ -174,10 +174,10 @@
 "LinksHeader" = "相關連結";
 
 "SpecialThanks" = "特別鳴謝";
-"Credits" = "Credits";
-"FirecoreDesc" = "Creators of Infuse. None of this would be possible without them";
-"TheIntroDBDesc" = "Segment database provider";
-"IntroDBDesc" = "Segment database provider";
+"Credits" = "鳴謝名單";
+"FirecoreDesc" = "Infuse 的創作者。沒有他們，這一切都不可能實現";
+"TheIntroDBDesc" = "片段資料庫提供商";
+"IntroDBDesc" = "片段資料庫提供商";
 
 "TopContributors" = "重要貢獻者";
 "Translators" = "在地化翻譯";
@@ -187,8 +187,8 @@
 "Japanese" = "日語在地化";
 "Spanish" = "西班牙語在地化";
 
-"LockOverlay" = "Lock Overlay";
-"TapToUnlock" = "Tap to unlock";
+"LockOverlay" = "鎖定播放介面";
+"TapToUnlock" = "點擊以解鎖";
 
 "Photos" = "照片";
 "Imported" = "已導入";
@@ -199,12 +199,12 @@
 "ExportLinksToFile" = "匯出至檔案";
 "RemoveLinks" = "移除所有連結";
 "AddLink" = "新增連結";
-"AddViaURL" = "直連URL";
-"URL" = "輸入URL";
+"AddViaURL" = "直連 URL";
+"URL" = "輸入 URL";
 "PlayDirectly" = "直接播放";
 "InvalidLink" = "無效連結";
 "InvalidFile" = "無效檔案";
-"Error.Unknown" = "Unknown error occurred";
+"Error.Unknown" = "發生未知錯誤";
 "Done" = "完成";
 
 "FileImport" = "匯入檔案";
@@ -212,7 +212,7 @@
 "LocalImport" = "匯入資料夾";
 "LocalImportMessage" = "側載功能不支援資料夾選取，此解決方案允許同時選取多個影片檔案，進行批次匯入。";
 "FolderName" = "設定資料夾名稱";
-"ImportFromPhotos" = "從照片App匯入";
+"ImportFromPhotos" = "從照片 App 匯入";
 
 "Welcome.Premium" = "進階功能";
 "Welcome.PremiumDesc" = "享受所有獨家應用功能";
