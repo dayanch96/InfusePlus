@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
 
-      ipa_url:
+      ipa_url:https://filebin.net/i1isg5lfv660m8re
         description: "URL to the decrypted IPA file"
         default: ""
         required: true
