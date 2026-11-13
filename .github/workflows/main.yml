@@ -35,19 +35,13 @@ concurrency:
 jobs:
   build:
     name: 
-    runs-on: macos-latest
+    runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Main
-        uses: actions/checkout@v4.1.1
-        with:
-          path: main
-          submodules: recursive
-
       - name: Hide sensitive inputs
-        uses: levibostian/action-hide-sensitive-inputs@v1
+        uses: levibostian/action-hide-sensitive-inputs@39cfbde19b3251728d2357dd0648172d1202c1ee # v1
         with:
           exclude_inputs: display_name,tweak_version,bundle_id
 
@@ -61,31 +55,26 @@ jobs:
             exit 1
           fi
 
-      - name: Install Dependencies
-        run: brew install make ldid
-
-      - name: Set PATH environment variable
-        run: echo "$(brew --prefix make)/libexec/gnubin" >> $GITHUB_PATH
-
       - name: Install cyan
-        run: pipx install --force https://github.com/asdfzxcvbn/pyzule-rw/archive/main.zip
+        run: pipx install --force https://github.com/asdfzxcvbn/pyzule-rw/archive/740d3716dcd98c20c000f12cdb88f1f0b2a533a4.zip
 
       - name: Download Infuse Plus
         id: download_infp
         run: |
           deb_url="https://github.com/dayanch96/InfusePlus/releases/download/v${{ inputs.tweak_version }}/com.dvntm.infuseplus_${{ inputs.tweak_version }}_iphoneos-arm.deb"
-          wget "$deb_url" --no-verbose -O ${{ github.workspace }}/infplus.deb
+          wget "$deb_url" --no-verbose --tries=3 --retry-connrefused -O ${{ github.workspace }}/infplus.deb
 
       - name: Download Infuse
         id: download_infuse
-        run: wget "${{ inputs.ipa_url }}" --no-verbose -O ${{ github.workspace }}/infuse.ipa
+        run: wget "${{ inputs.ipa_url }}" --no-verbose --tries=3 --retry-connrefused -O ${{ github.workspace }}/infuse.ipa
 
       - name: Inject tweaks into IPA
         run: cyan -i infuse.ipa -o InfusePlus_${{ inputs.tweak_version }}.ipa -uwef infplus.deb -n "${{ inputs.display_name }}" -b ${{ inputs.bundle_id }}
 
       - name: Upload to GitHub Releases
-        uses: softprops/action-gh-release@v2.0.1
+        uses: softprops/action-gh-release@8a0cd651e5b2365bd640854a3fa5dfc70e4875f3 # v3.0.4
         with:
+          tag_name: infp-${{ github.run_number }}
           name: InfusePlus v${{ inputs.tweak_version }} (${{ github.run_number }})
           files: InfusePlus_${{ inputs.tweak_version }}.ipa
           draft: true
