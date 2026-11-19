@@ -1,0 +1,243 @@
+"EnablePlus" = "Etkinleştir";
+
+"PremiumSettings" = "Premium";
+"ProFeatures" = "Pro Özelliklerini Etkinleştir";
+"ProFeaturesDesc" = "Abonelik olmadan başlangıçta kullanılamayan Pro özelliklerini etkinleştirir";
+"BackgroundPlayback" = "Arka Planda Oynatma";
+"BackgroundPlaybackDesc" = "Arka planda oynatmayı zorunlu kılar ve devre dışı bırakılmasını önler";
+"SupportInfuse" = "Infuse'u Destekle";
+"SupportInfuseDesc" = "Infuse'u beğeniyorsanız, imkanınız varsa Infuse Pro satın almayı veya geliştiricileri desteklemek için App Store'da olumlu bir değerlendirme bırakmayı düşünebilirsiniz.";
+"BuyInfusePro" = "Infuse Pro Satın Al";
+"LeaveReview" = "Değerlendirme Bırak";
+
+"PlayerSettings" = "Oynatıcı";
+"DoubleTapPause" = "Oynatmak/Duraklatmak İçin Çift Dokun";
+"DoubleTapPauseDesc" = "Oynatıcıda oynatmak/duraklatmak için çift dokunma hareketini etkinleştirir";
+"PlaybackSpeedDesc" = "Oynatma ayarları menüsüne bir oynatma hızı alt menüsü ekler. Bu seçenek Infuse 8'deki varsayılan alt menüyü geçersiz kılar";
+"VolumeBoostDesc" = "Oynatma ayarları menüsüne bir ses yükseltme alt menüsü ekler. Bu seçenek Infuse 8'deki varsayılan alt menüyü geçersiz kılar";
+"NoStockPlaybackSpeed" = "Varsayılan Oynatma Hızını Gizle";
+"NoStockPlaybackSpeedDesc" = "Varsayılan oynatma hızı alt menüsünü oynatma ayarları menüsünden kaldırır";
+"NoStockVolumeBoost" = "Varsayılan Ses Yükseltmeyi Gizle";
+"NoStockVolumeBoostDesc" = "Varsayılan ses yükseltme alt menüsünü oynatma ayarları menüsünden kaldırır";
+"RememberPlaybackSpeed" = "Oynatma Hızını Hatırla";
+"RememberPlaybackSpeedDesc" = "Son ayarlanan oynatma hızını hatırlar ve varsayılan oynatma hızı olarak kullanır";
+"TapToSkip" = "Atlamak İçin Dokun";
+"TapToSkipDesc" = "İlerleme çubuğuna dokunmak dokunulan konuma atlar";
+"SkipByLongTap" = "Uzun Basarak Atla";
+"SkipByLongTapDesc" = "Geri sarma düğmelerine uzun basmak sonraki/önceki videoya atlar";
+"LoopButton" = "Döngü Düğmesi";
+"LoopButtonDesc" = "Oynatıcı arayüzüne bir döngü düğmesi ekler";
+"ABLoopButton" = "A-B Döngüsü";
+"ABLoopButtonDesc" = "Videonun iki nokta arasındaki bir bölümünü döngüye almak için oynatıcı arayüzüne bir düğme ekler";
+"EnableLoop" = "Döngüyü Etkinleştir";
+"SetStartPoint" = "Başlangıç Noktasını Ayarla";
+"SetEndPoint" = "Bitiş Noktasını Ayarla";
+"StartPointTime" = "Başlangıç: %@";
+"EndPointTime" = "Bitiş: %@";
+"ClearLoop" = "Döngüyü Temizle";
+"HorFlipButton" = "Yatay çevir";
+"HorFlipButtonDesc" = "Oynatıcı arayüzüne yatay çevirme düğmesi ekler";
+"VerFlipButton" = "Dikey çevir";
+"VerFlipButtonDesc" = "Oynatıcı arayüzüne dikey çevirme düğmesi ekler";
+"SkipButtons" = "Atlama düğmeleri";
+"SkipButtonsDesc" = "Oynatıcı arayüzüne sonraki ve önceki düğmelerini ekler";
+"HideRewindButtons" = "Sarma Düğmelerini Gizle";
+"HideRewindButtonsDesc" = "Geri ve ileri sarma düğmelerini oynatıcı arayüzünden kaldırır";
+"MutePlayerOnly" = "Yalnızca Oynatıcıyı Sessize Al";
+"MutePlayerOnlyDesc" = "Oynatıcı içi ses düğmesini kullanırken sistem sesini etkilemeden oynatıcıyı sessize alır";
+
+"IntroSettings" = "Jenerikler";
+"SkipIntros" = "Jenerikleri Atla";
+"SkipIntrosDesc" = "Algılandığında jenerikleri ve diğer bölümleri atlar";
+"DisplayInOverlay" = "Arayüz Düğmesini Göster";
+"DisplayInOverlayDesc" = "Oynatıcı arayüzünde bir geçiş düğmesi gösterir";
+"AudioNotification" = "Sesli Bildirim";
+"AudioNotificationDesc" = "Bir bölüm atlandığında kısa bir ses çalar";
+"NotifyAlertDuration" = "Bildirim Uyarı Süresi";
+"SkipAlertDuration" = "Atlama Uyarı Süresi";
+"UnskipAlertDuration" = "Atlamayı Geri Alma Uyarı Süresi";
+"SkipSound" = "Atlama Sesi";
+
+"Ignore" = "Yoksay";
+"NotifyAndSkip" = "Bildir ve atla";
+"AutoSkip" = "Otomatik atla";
+"Ask" = "Sor";
+
+"SegmentSettings" = "Bölüm Ayarları";
+"SegmentIntro" = "Jenerik";
+"SegmentRecap" = "Özet";
+"SegmentOutro" = "Kapanış";
+"SegmentPreview" = "Ön İzleme";
+"SegmentDisplay" = "İlerleme çubuğunda göster";
+"SegmentColor" = "Bölüm Rengi";
+
+"segment_intro" = "Jenerik bölümü";
+"segment_recap" = "Özet bölümü";
+"segment_outro" = "Kapanış bölümü";
+"segment_preview" = "Ön izleme bölümü";
+
+"SkippingIntro" = "%@ atlanmak üzere...";
+"IntroDetected" = "%@ algılandı. Atlamak ister misiniz?";
+"IntroSkipped" = "%@ az önce atlandı";
+"Skip" = "Atla";
+"Unskip" = "Atlamayı Geri Al";
+
+"SetOffset" = "Sapma Ayarla";
+"EpisodeOffsetTitle" = "%@. sezon için bölüm sapması";
+"EpisodeOffsetDesc" = "Bölüm numaralandırmasının farklı olduğu durumlar için sapma gereklidir.\n\nÖrnek: TMDB S02E53 → IntroDB S02E01. -52 girin";
+"EpisodeOffsetPlaceholder" = "Pozitif veya negatif bir sayı girin";
+"Save" = "Kaydet";
+
+"OverlayLock" = "Arayüz Kilidi";
+"OverlayLockDesc" = "Oynatma ayarları menüsüne bir arayüz kilidi düğmesi ekler";
+"AllowLongPresses" = "Uzun Basma Hareketlerine İzin Ver";
+"AllowLongPressesDesc" = "Kilitli arayüz üzerinde uzun basma hareketlerine izin verir. Örneğin, oynatma hızını değiştirmek için";
+"AllowDoubleTaps" = "Çift Dokunma Hareketlerine İzin Ver";
+"AllowDoubleTapsDesc" = "İleri sarma, geri sarma veya oynatma/duraklatma için çift dokunma hareketlerine izin verir";
+"AllowTwoFingerTaps" = "İki Parmakla Dokunma Hareketlerine İzin Ver";
+"AllowTwoFingerTapsDesc" = "Oynatmak veya duraklatmak için iki parmakla dokunma hareketlerine izin verir";
+"AllowPanGestures" = "Kaydırma Hareketlerine İzin Ver";
+"AllowPanGesturesDesc" = "İleri/geri sarma ve parlaklık/ses seviyesini ayarlama için kaydırma hareketlerine izin verir";
+
+"ShowStatusBar" = "Durum Çubuğunu Göster";
+"ShowStatusBarDesc" = "Oynatıcıda bağlantı, saat ve pil seviyesini içeren durum çubuğunu gösterir";
+"BatteryPercentage" = "Pil Yüzdesini Göster";
+"BatteryPercentageDesc" = "Durum çubuğunda pil yüzdesini görüntüler";
+"ModernPercentage" = "Modern Yüzde";
+"ModernPercentageDesc" = "Simgede gösterildiği gibi pil simgesini ve yüzdesini birleştirir";
+"StatusBarFooter" = "Bazı cihazlarda pil yüzdesi en yakın %5'e yuvarlanabilir. Bu, Apple tarafından belirlenen bir sınırlamadır.";
+
+"SpeedByLongTap" = "Oynatmayı Hızlandır";
+"SpeedByLongTapDesc" = "Oynatıcı arayüzüne basılı tutmak oynatma hızını artırır";
+"AdjustSpeedGesture" = "Oynatma Hızını Ayarla";
+"AdjustSpeedGestureDesc" = "Uzun basma sırasında yukarı/aşağı hareketlerle oynatma hızını ayarlamaya olanak tanır";
+"CompactToast" = "Kompakt Bildirim";
+"CompactToastDesc" = "Oynatma hızı için kompakt tarzda bir bildirim görüntüler";
+
+"FlexibleTimer" = "Esnek Zamanlayıcı";
+"FlexibleTimerDesc" = "Kalan oynatma süresi, toplam süre ve oynatma bitiş zamanını görüntüleme arasında geçiş yapma olanağı sağlamak için oynatma ayarları menüsüne esnek bir zamanlayıcı alt menüsü ekler";
+"24hrFormat" = "24 Saat Biçimi";
+"24hrFormatDesc" = "Oynatma bitiş zamanını 24 saat biçiminde görüntüler";
+"RemainingTime" = "Kalan Süre";
+"EndTime" = "Bitiş Zamanı";
+"Duration" = "Süre";
+
+"ButtonSeekTime" = "Düğme Atlama Süresi";
+"ButtonSeekTimeDesc" = "Geri ve ileri düğmeleri için özel atlama süresini etkinleştirir";
+"DoubleTapSeekTime" = "Çift Dokunma Atlama Süresi";
+"DoubleTapSeekTimeDesc" = "Atlamak için özel çift dokunma süresini etkinleştirir";
+"ControlCenterSeekTime" = "Denetim Merkezi Atlama Süresi";
+"ControlCenterSeekTimeDesc" = "Denetim Merkezi'ndeki ve Kilit Ekranı'ndaki önceki ve sonraki düğmelerini özel atlama süresiyle değiştirir";
+"Seconds" = "%ld sn";
+
+"OtherSettings" = "Diğer";
+"MRNowPlayingHeader" = "Şu An Çalınan Oynatıcısı";
+"ChangePosterTitle" = "Başlık ve Afiş Ayarla";
+"ChangePosterTitleDesc" = "Bildirim ve Denetim Merkezi'nde görüntülenen oynatıcı başlığını ve afişini değiştirir";
+"MovieTitle" = "Başlık";
+"EnterTitle" = "Başlık girin";
+"MoviePoster" = "Afiş";
+"SelectPoster" = "Görsel Seç";
+"PosterSelected" = "Afiş ayarlandı";
+"PosterDeleted" = "Afiş silindi";
+"PosterTitleFooter" = "Yalnızca afiş görselini uygulamak için başlığı boş bırakın";
+
+"StartupPageHeader" = "Başlangıç Sayfası";
+
+"UpdateHeader" = "Infuse Plus Güncellemesi";
+"AutoCleanTrash" = "Çöp kutusunu otomatik temizle";
+"AutoCleanTrashDesc" = "Başlangıçta Infuse çöp klasörünü otomatik olarak temizler";
+"NotifyUpdates" = "Güncellemeleri Bildir";
+"NotifyUpdatesDesc" = "Tweak'in yeni bir sürümü mevcutsa bir uyarı gösterir";
+"UpdateLocalizations" = "Çevirileri Güncelle";
+"UpdateLocalizationsDesc" = "Başlangıçta GitHub'dan yerelleştirme dosyalarını otomatik olarak günceller. Bu, çevirmenler çevirilerde herhangi bir güncelleme yaptıysa bunlardan yararlanmak için bir sonraki Infuse Plus sürümünü beklemenize gerek kalmamasını sağlar";
+"NewUpdate" = "Infuse Plus %@ yayınlandı!";
+"Update.Tweak" = "GitHub'dan indir";
+"Update.IPA" = "Telegram'dan IPA indir";
+"Update.Repo" = "Repo listesini aç";
+"Update.Dismiss" = "Kapat";
+
+"PrefsHeader" = "Infuse Plus Tercihleri";
+"ImportPrefs" = "Tercihleri İçe Aktar";
+"ExportPrefs" = "Tercihleri Dışa Aktar";
+"RestoreDefaults" = "Varsayılan Tercihlere Dön";
+
+"AppInfo" = "Uygulama Bilgisi";
+"BundleAndAppIdentifierMatch" = "BundleID ve ApplicationID eşleşiyor.";
+"BundleAndAppIdentifierMatchDesc" = "Klasör seçimi, uygulama simgesi değiştirme, Denetim Merkezi'nde Ortam Oynatıcısı ve Dynamic Island etkileşimi düzgün çalışmalıdır.";
+"BundleAndAppIdentifierDontMatch" = "BundleID ve ApplicationID eşleşmiyor";
+"DontMatchIssuesInfo" = "Bu; klasör seçimi, uygulama simgesi değiştirme, Denetim Merkezi'nde Ortam Oynatıcısı ve Dynamic Island etkileşiminin kısmen veya tamamen kullanılamayabileceği anlamına gelir.";
+"HowToMatchInfo" = "Bunu düzeltmek için %@ kimliğini kopyalamak üzere bu hücreye dokunun. Ardından bu ApplicationID'yi BundleID olarak kullanarak uygulamayı yeniden imzalayıp yükleyin.";
+"DuplicatedAppInfo" = "BundleID'ler farklı olacağından uygulamanın mevcut olandan ayrı olarak yükleneceğini unutmayın.";
+
+"PreImportMessage" = "Infuse Plus tercihlerini içe aktarmak üzeresiniz. Bu işlem mevcut tercihlerinizin üzerine kalıcı olarak yazacaktır.\n\nDevam etmek istiyor musunuz?";
+"Import.Yes" = "Evet, tercihleri içe aktar";
+"PreResetMessage" = "Infuse Plus tercihlerini varsayılan değerlerine sıfırlamak üzeresiniz. Bu işlem yapılandırılmış tüm tercihlerinizin kaybolmasına neden olacaktır.\n\nDevam etmek istiyor musunuz?";
+"Reset.Yes" = "Evet, varsayılanlara sıfırla";
+"No" = "Hayır";
+"Yes" = "Evet";
+"Cancel" = "İptal";
+
+"AboutHeader" = "Hakkında";
+"Developer" = "Infuse Plus Geliştiricisi";
+"Donate" = "Geliştirmeyi Destekle";
+"DonateDesc" = "Bana bir kahve ısmarla";
+
+"DonateMessage" = "Infuse Plus'ı beğendiyseniz ve beni desteklemek isterseniz, aşağıdaki uygun yöntemlerden herhangi birini kullanarak bana bir kahve ısmarlayabilirsiniz.\n\nTeşekkürler❤";
+"MaybeLater" = "Belki daha sonra";
+"Copied" = "Panoya kopyalandı";
+"Thanks" = "Teşekkürler";
+
+"LinksHeader" = "Bağlantılar";
+
+"SpecialThanks" = "Özel Teşekkürler";
+"Credits" = "Emeği Geçenler";
+"FirecoreDesc" = "Infuse'un yaratıcıları. Onlar olmasaydı bunların hiçbiri mümkün olmazdı";
+"TheIntroDBDesc" = "Bölüm veritabanı sağlayıcısı";
+"IntroDBDesc" = "Bölüm veritabanı sağlayıcısı";
+
+"TopContributors" = "En çok katkıda bulunanlar";
+"Translators" = "Yerelleştirme";
+"Arabic" = "Arapça yerelleştirme";
+"ChineseSimplified" = "Basitleştirilmiş Çince yerelleştirme";
+"ChineseTraditional" = "Geleneksel Çince yerelleştirme";
+"Japanese" = "Japonca yerelleştirme";
+"Spanish" = "İspanyolca yerelleştirme";
+
+"LockOverlay" = "Arayüzü Kilitle";
+"TapToUnlock" = "Kilidi açmak için dokunun";
+
+"Photos" = "Fotoğraflar";
+"Imported" = "İçe aktarıldı";
+"MediaNotFound" = "Ortam bulunamadı";
+
+"LinkImport" = "Bağlantı İçe Aktarma";
+"ImportLinksFromFile" = "Dosyadan içe aktar";
+"ExportLinksToFile" = "Dosyaya dışa aktar";
+"RemoveLinks" = "Tüm bağlantıları kaldır";
+"AddLink" = "Bağlantı ekle";
+"AddViaURL" = "Doğrudan URL";
+"URL" = "URL";
+"PlayDirectly" = "Doğrudan oynat";
+"InvalidLink" = "Geçersiz bağlantı";
+"InvalidFile" = "Geçersiz dosya";
+"Error.Unknown" = "Bilinmeyen bir hata oluştu";
+"Done" = "Bitti";
+
+"FileImport" = "Dosya içe aktarma";
+"ImportLocalFiles" = "Yerel dosyaları içe aktar";
+"LocalImport" = "Klasör İçe Aktarma";
+"LocalImportMessage" = "Sideload yüklemelerde klasör seçimi desteklenmediğinden, bu geçici çözüm toplu içe aktarma için aynı anda birden fazla video dosyası seçmenize olanak tanır";
+"FolderName" = "Klasör adını ayarla";
+"ImportFromPhotos" = "Fotoğraflar'dan İçe Aktar";
+
+"Welcome.Premium" = "Premium özellikler";
+"Welcome.PremiumDesc" = "Tüm özel uygulama özelliklerine erişin";
+"Welcome.Player" = "Oynatıcı geliştirmeleri";
+"Welcome.PlayerDesc" = "Oynatıcı deneyiminizi geliştirmek için esnek oynatıcı ayarları ve ek özellikler";
+"Welcome.Gestures" = "Esnek hareketler";
+"Welcome.GesturesDesc" = "Ekstra hareketler ve mevcut olanların iyileştirmeleri. Özel atlama süreleri ve daha fazlası";
+"Welcome.More" = "Ve çok daha fazlası";
+"Welcome.MoreDesc" = "Başlangıç sekmesini ayarlayın, Denetim Merkezi'ndeki oynatıcı afişini ve başlığını değiştirin, güncellemeleri bildirin ve çok daha fazlası";
+"SupportMe" = "Beni Destekle";
+"Continue" = "Devam Et";
