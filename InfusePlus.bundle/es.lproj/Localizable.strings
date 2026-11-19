@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "Elimina el submenú de potenciador de volumen de fábrica del menú de ajustes de reproducción";
 "RememberPlaybackSpeed" = "Recordar velocidad de reproducción";
 "RememberPlaybackSpeedDesc" = "Recuerda la última velocidad de reproducción establecida y la usa como velocidad predeterminada";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "Saltar mediante pulsación larga";
 "SkipByLongTapDesc" = "Mantener pulsados los botones de retroceso salta al vídeo siguiente/anterior";
 "LoopButton" = "Botón de repetición";
 "LoopButtonDesc" = "Añade un botón de repetición a la superposición";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "Volteo horizontal";
 "HorFlipButtonDesc" = "Añade un botón de volteo horizontal a la superposición";
 "VerFlipButton" = "Volteo vertical";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "%@ está a punto de saltarse...";
 "IntroDetected" = "%@ detectado. ¿Quieres saltarlo?";
 "IntroSkipped" = "%@ se ha saltado";
-
 "Skip" = "Saltar";
 "Unskip" = "Deshacer salto";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "Bloqueo de superposición";
 "OverlayLockDesc" = "Añade un botón de bloqueo de superposición al menú de ajustes de reproducción";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "Activa un tiempo de salto personalizado para los botones de retroceso y avance";
 "DoubleTapSeekTime" = "Tiempo de salto del doble toque";
 "DoubleTapSeekTimeDesc" = "Activa un tiempo de salto personalizado para el doble toque";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld seg";
 
 "OtherSettings" = "Otros ajustes";

@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "Usuwa domyślne podmenu wzmocnienia głośności z menu ustawień odtwarzania";
 "RememberPlaybackSpeed" = "Zapamiętaj prędkość odtwarzania";
 "RememberPlaybackSpeedDesc" = "Zapamiętuje ostatnio ustawioną prędkość odtwarzania i używa jej jako domyślnej";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "Przewijanie długim naciśnięciem";
 "SkipByLongTapDesc" = "Długie naciśnięcie przycisków przewijania powoduje przejście do następnego/poprzedniego filmu";
 "LoopButton" = "Przycisk pętli";
 "LoopButtonDesc" = "Dodaje przycisk pętli do nakładki";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "Odbicie poziome";
 "HorFlipButtonDesc" = "Dodaje przycisk odbicia poziomego do nakładki";
 "VerFlipButton" = "Odbicie pionowe";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "%@ zostanie za chwilę pominięte...";
 "IntroDetected" = "Wykryto %@. Czy chcesz to pominąć?";
 "IntroSkipped" = "%@ zostało właśnie pominięte";
-
 "Skip" = "Pomiń";
 "Unskip" = "Cofnij pominięcie";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "Blokada nakładki";
 "OverlayLockDesc" = "Dodaje przycisk blokady nakładki do menu ustawień odtwarzania";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "Umożliwia ustawienie własnego czasu przewijania dla przycisków wstecz i do przodu";
 "DoubleTapSeekTime" = "Czas przewijania podwójnym stuknięciem";
 "DoubleTapSeekTimeDesc" = "Umożliwia ustawienie własnego czasu przewijania dla podwójnego stuknięcia";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld s";
 
 "OtherSettings" = "Inne";

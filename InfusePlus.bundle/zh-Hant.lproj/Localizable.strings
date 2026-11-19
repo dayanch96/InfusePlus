@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "從播放設定選單中移除原生音量增強選項";
 "RememberPlaybackSpeed" = "記憶播放速度";
 "RememberPlaybackSpeedDesc" = "記住上次設定的播放速度，並將其作為預設播放速度";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "水平翻轉";
 "HorFlipButtonDesc" = "在播放介面加入水平翻轉按鈕";
 "VerFlipButton" = "垂直翻轉";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "即將跳過 %@...";
 "IntroDetected" = "偵測到 %@。是否要跳過？";
 "IntroSkipped" = "已跳過 %@";
-
 "Skip" = "跳過";
 "Unskip" = "取消跳過";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "播放介面鎖定";
 "OverlayLockDesc" = "在播放設定選單加入介面鎖定按鈕";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "自訂快轉/倒轉按鈕時間";
 "DoubleTapSeekTime" = "自訂點兩下跳過時間";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld秒";
 
 "OtherSettings" = "其它設定";

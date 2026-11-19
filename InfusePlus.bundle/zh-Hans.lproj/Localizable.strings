@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "从播放设置菜单中删除原生声音增强子菜单";
 "RememberPlaybackSpeed" = "记忆播放速度";
 "RememberPlaybackSpeedDesc" = "将上次使用的播放速度设为默认播放速度。";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "水平翻转";
 "HorFlipButtonDesc" = "在播放控制界面中添加“水平翻转”按钮。";
 "VerFlipButton" = "垂直翻转";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "即将跳过%@…";
 "IntroDetected" = "检测到%@，是否跳过？";
 "IntroSkipped" = "已跳过%@";
-
 "Skip" = "跳过";
 "Unskip" = "取消跳过";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "锁定播放界面";
 "OverlayLockDesc" = "在播放设置菜单中添加“锁定播放界面”按钮。";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "启用自定义“快进\/快退”按钮跳过时间";
 "DoubleTapSeekTime" = "双击跳过时间";
 "DoubleTapSeekTimeDesc" = "启用自定义双击“快进\/快退”跳过时间";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld 秒";
 
 "OtherSettings" = "其他功能";
@@ -151,8 +168,8 @@
 "BundleAndAppIdentifierDontMatch" = "Bundle ID 与 Application ID 不一致";
 "DontMatchIssuesInfo" = "这意味着文件夹选择、更换应用图标、控制中心媒体播放器以及灵动岛交互功能可能部分或完全无法使用。";
 "HowToMatchInfo" = "若要修复此问题，请轻点此项以复制 %@，然后重新签名并安装应用，并将其作为 Bundle ID 使用。";
-
 "DuplicatedAppInfo" = "由于 Bundle ID 不同，重新安装后将作为独立应用存在，不会覆盖当前应用。";
+
 "PreImportMessage" = "即将导入 Infuse Plus 偏好设置；此操作将永久覆盖您当前的偏好设置。\n\n您想继续吗？";
 "Import.Yes" = "是的，导入偏好设置";
 "PreResetMessage" = "即将把 Infuse Plus 偏好设置重置为默认值；此操作将导致您配置的所有偏好设置丢失。\n\n您想继续吗？";

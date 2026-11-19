@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "Removes stock volume boost submenu from the playback settings menu";
 "RememberPlaybackSpeed" = "Remember Playback Speed";
 "RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "Skip Using Long Press";
 "SkipByLongTapDesc" = "Long pressing the rewind buttons skips to the next/previous video";
 "LoopButton" = "Loop Button";
 "LoopButtonDesc" = "Adds a loop button to the overlay";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "Horizontal flip";
 "HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
 "VerFlipButton" = "Vertical flip";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "%@ is about to be skipped...";
 "IntroDetected" = "%@ detected. Do you want to skip it?";
 "IntroSkipped" = "%@ was just skipped";
-
 "Skip" = "Skip";
 "Unskip" = "Unskip";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "Overlay Lock";
 "OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "Enables custom skip time for backward and forward buttons";
 "DoubleTapSeekTime" = "Double Tap Skip Time";
 "DoubleTapSeekTimeDesc" = "Enables custom double tap to skip time";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld sec";
 
 "OtherSettings" = "Other";

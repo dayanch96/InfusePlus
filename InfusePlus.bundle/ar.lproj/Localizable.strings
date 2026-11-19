@@ -21,10 +21,20 @@
 "NoStockVolumeBoostDesc" = "إزالة القائمة الفرعية الأصلية لزيادة مستوى الصوت من قائمة إعدادات التشغيل.";
 "RememberPlaybackSpeed" = "Remember Playback Speed";
 "RememberPlaybackSpeedDesc" = "Remembers the last set playback speed and uses it as the default playback speed";
+"TapToSkip" = "Tap to Skip";
+"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
 "SkipByLongTap" = "تخطي باستخدام الضغط المطول";
 "SkipByLongTapDesc" = "الضغط مطولًا على أزرار الإرجاع السريع للانتقال إلى الفيديو التالي/السابق.";
 "LoopButton" = "زر التكرار";
 "LoopButtonDesc" = "إضافة زر تكرار إلى خيارات المشغل.";
+"ABLoopButton" = "A-B Loop";
+"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
+"EnableLoop" = "Enable Loop";
+"SetStartPoint" = "Set Start Point";
+"SetEndPoint" = "Set End Point";
+"StartPointTime" = "Start: %@";
+"EndPointTime" = "End: %@";
+"ClearLoop" = "Clear Loop";
 "HorFlipButton" = "Horizontal flip";
 "HorFlipButtonDesc" = "Adds a horizontal flip button to the overlay";
 "VerFlipButton" = "Vertical flip";
@@ -69,9 +79,14 @@
 "SkippingIntro" = "%@ is about to be skipped...";
 "IntroDetected" = "%@ detected. Do you want to skip it?";
 "IntroSkipped" = "%@ was just skipped";
-
 "Skip" = "Skip";
 "Unskip" = "Unskip";
+
+"SetOffset" = "Set Offset";
+"EpisodeOffsetTitle" = "Episode offset for season %@";
+"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
+"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
+"Save" = "Save";
 
 "OverlayLock" = "Overlay Lock";
 "OverlayLockDesc" = "Adds an overlay lock button to the playback settings menu";
@@ -111,6 +126,8 @@
 "ButtonSeekTimeDesc" = "تفعيل تخصيص تغيير الوقت لأزرار التقديم والتأخير.";
 "DoubleTapSeekTime" = "النقر مرتين لتغيير الوقت";
 "DoubleTapSeekTimeDesc" = "تفعيل النقر مرتين لوقت التغيير المخصص.";
+"ControlCenterSeekTime" = "Control Center Skip Time";
+"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
 "Seconds" = "%ld ث";
 
 "OtherSettings" = "الإعدادات الأخرى";

@@ -83,8 +83,8 @@
             "views": [
                 {
                     "class": "DepictionTableButtonView",
-                    "title": "My Patreon",
-                    "action": "https://dvntm.com/links/patreon"
+                    "title": "Boosty",
+                    "action": "https://dvntm.com/links/boosty"
                 },
                 {
                     "class": "DepictionTableButtonView",
