@@ -21,20 +21,20 @@
 "NoStockVolumeBoostDesc" = "从播放设置菜单中删除原生声音增强子菜单";
 "RememberPlaybackSpeed" = "记忆播放速度";
 "RememberPlaybackSpeedDesc" = "将上次使用的播放速度设为默认播放速度。";
-"TapToSkip" = "Tap to Skip";
-"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
+"TapToSkip" = "轻点跳转";
+"TapToSkipDesc" = "轻点进度条即可跳至所点位置";
 "SkipByLongTap" = "使用长按跳过";
 "SkipByLongTapDesc" = "长按“快进\/快退”按钮跳至“上\/下一个”视频";
 "LoopButton" = "循环按钮";
 "LoopButtonDesc" = "在播放界面添加循环按钮";
-"ABLoopButton" = "A-B Loop";
-"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
-"EnableLoop" = "Enable Loop";
-"SetStartPoint" = "Set Start Point";
-"SetEndPoint" = "Set End Point";
-"StartPointTime" = "Start: %@";
-"EndPointTime" = "End: %@";
-"ClearLoop" = "Clear Loop";
+"ABLoopButton" = "A-B 循环";
+"ABLoopButtonDesc" = "在播放界面添加按钮，循环播放视频中两点之间的片段";
+"EnableLoop" = "启用循环";
+"SetStartPoint" = "设置起点";
+"SetEndPoint" = "设置终点";
+"StartPointTime" = "起点：%@";
+"EndPointTime" = "终点：%@";
+"ClearLoop" = "清除循环";
 "HorFlipButton" = "水平翻转";
 "HorFlipButtonDesc" = "在播放控制界面中添加“水平翻转”按钮。";
 "VerFlipButton" = "垂直翻转";
@@ -82,11 +82,11 @@
 "Skip" = "跳过";
 "Unskip" = "取消跳过";
 
-"SetOffset" = "Set Offset";
-"EpisodeOffsetTitle" = "Episode offset for season %@";
-"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
-"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
-"Save" = "Save";
+"SetOffset" = "设置偏移";
+"EpisodeOffsetTitle" = "第 %@ 季的剧集偏移";
+"EpisodeOffsetDesc" = "当剧集编号不一致时需要设置偏移。\n\n例如：TMDB S02E53 → IntroDB S02E01，请输入 -52";
+"EpisodeOffsetPlaceholder" = "请输入正数或负数";
+"Save" = "保存";
 
 "OverlayLock" = "锁定播放界面";
 "OverlayLockDesc" = "在播放设置菜单中添加“锁定播放界面”按钮。";
@@ -126,8 +126,8 @@
 "ButtonSeekTimeDesc" = "启用自定义“快进\/快退”按钮跳过时间";
 "DoubleTapSeekTime" = "双击跳过时间";
 "DoubleTapSeekTimeDesc" = "启用自定义双击“快进\/快退”跳过时间";
-"ControlCenterSeekTime" = "Control Center Skip Time";
-"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
+"ControlCenterSeekTime" = "控制中心跳过时间";
+"ControlCenterSeekTimeDesc" = "将控制中心和锁定屏幕中的“上一个\/下一个”按钮替换为自定义跳过时间";
 "Seconds" = "%ld 秒";
 
 "OtherSettings" = "其他功能";
