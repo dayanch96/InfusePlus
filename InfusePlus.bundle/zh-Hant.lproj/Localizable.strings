@@ -10,7 +10,7 @@
 "BuyInfusePro" = "購買 Infuse Pro";
 "LeaveReview" = "撰寫評論";
 
-"PlayerSettings" = "播放器設定";
+"PlayerSettings" = "播放器";
 "DoubleTapPause" = "點兩下播放/暫停";
 "DoubleTapPauseDesc" = "在播放器中點兩下播放/暫停手勢";
 "PlaybackSpeedDesc" = "在播放設定選單中新增播放速度選項。此選項會覆蓋 Infuse 8 的原生選項";
@@ -21,20 +21,20 @@
 "NoStockVolumeBoostDesc" = "從播放設定選單中移除原生音量增強選項";
 "RememberPlaybackSpeed" = "記憶播放速度";
 "RememberPlaybackSpeedDesc" = "記住上次設定的播放速度，並將其作為預設播放速度";
-"TapToSkip" = "Tap to Skip";
-"TapToSkipDesc" = "Tapping the progress bar skips to the tapped position";
+"TapToSkip" = "點一下跳轉";
+"TapToSkipDesc" = "點一下進度列即可跳至該位置";
 "SkipByLongTap" = "長按跳過";
 "SkipByLongTapDesc" = "長按快轉/倒轉按鈕可以跳到下一個/上一個影片";
 "LoopButton" = "循環播放按鈕";
 "LoopButtonDesc" = "在播放介面加入循環播放按鈕";
-"ABLoopButton" = "A-B Loop";
-"ABLoopButtonDesc" = "Adds a button to the overlay to loop a part of the video between two points";
-"EnableLoop" = "Enable Loop";
-"SetStartPoint" = "Set Start Point";
-"SetEndPoint" = "Set End Point";
-"StartPointTime" = "Start: %@";
-"EndPointTime" = "End: %@";
-"ClearLoop" = "Clear Loop";
+"ABLoopButton" = "A-B 段落循環";
+"ABLoopButtonDesc" = "在播放介面加入按鈕，可循環播放影片中兩個時間點之間的片段";
+"EnableLoop" = "開啟循環播放";
+"SetStartPoint" = "設定起點";
+"SetEndPoint" = "設定終點";
+"StartPointTime" = "起點：%@";
+"EndPointTime" = "終點：%@";
+"ClearLoop" = "清除循環段落";
 "HorFlipButton" = "水平翻轉";
 "HorFlipButtonDesc" = "在播放介面加入水平翻轉按鈕";
 "VerFlipButton" = "垂直翻轉";
@@ -68,7 +68,7 @@
 "SegmentRecap" = "前情提要";
 "SegmentOutro" = "片尾";
 "SegmentPreview" = "預告";
-"SegmentDisplay" = "在進度條中顯示";
+"SegmentDisplay" = "在進度列中顯示";
 "SegmentColor" = "片段顏色";
 
 "segment_intro" = "片頭片段";
@@ -82,11 +82,11 @@
 "Skip" = "跳過";
 "Unskip" = "取消跳過";
 
-"SetOffset" = "Set Offset";
-"EpisodeOffsetTitle" = "Episode offset for season %@";
-"EpisodeOffsetDesc" = "Offset is needed for cases where episode numbering differs.\n\nExample: TMDB S02E53 → IntroDB S02E01. Enter -52";
-"EpisodeOffsetPlaceholder" = "Enter a positive or negative number";
-"Save" = "Save";
+"SetOffset" = "設定集數偏移";
+"EpisodeOffsetTitle" = "第 %@ 季的集數偏移";
+"EpisodeOffsetDesc" = "當集數編號不一致時，需要設定偏移值。\n\n範例：TMDB S02E53 → IntroDB S02E01，請輸入 -52";
+"EpisodeOffsetPlaceholder" = "輸入正數或負數";
+"Save" = "儲存";
 
 "OverlayLock" = "播放介面鎖定";
 "OverlayLockDesc" = "在播放設定選單加入介面鎖定按鈕";
@@ -126,8 +126,8 @@
 "ButtonSeekTimeDesc" = "自訂快轉/倒轉按鈕時間";
 "DoubleTapSeekTime" = "自訂點兩下跳過時間";
 "DoubleTapSeekTimeDesc" = "自訂點兩下快轉/倒轉時間";
-"ControlCenterSeekTime" = "Control Center Skip Time";
-"ControlCenterSeekTimeDesc" = "Replaces previous and next buttons in Control Center and on the Lock Screen with custom skip time";
+"ControlCenterSeekTime" = "控制中心快轉/倒轉秒數";
+"ControlCenterSeekTimeDesc" = "將「控制中心」和鎖定畫面上的「上一首」和「下一首」按鈕替換為自訂秒數的倒轉/快轉";
 "Seconds" = "%ld秒";
 
 "OtherSettings" = "其它設定";
@@ -144,7 +144,7 @@
 
 "StartupPageHeader" = "起始頁面";
 
-"UpdateHeader" = "Infuse Plus更新";
+"UpdateHeader" = "Infuse Plus 更新";
 "AutoCleanTrash" = "自動清理垃圾";
 "AutoCleanTrashDesc" = "啟動時自動清理 Infuse 的垃圾資料夾";
 "NotifyUpdates" = "更新通知";
@@ -152,18 +152,18 @@
 "UpdateLocalizations" = "更新語言檔";
 "UpdateLocalizationsDesc" = "開啟應用時自動從 GitHub 更新語言檔，確保您能即時取得翻譯人員的更新，無需等待下次 Infuse Plus 發布。";
 "NewUpdate" = "Infuse Plus %@ 已發布!";
-"Update.Tweak" = "從 Github 取得";
+"Update.Tweak" = "從 GitHub 取得";
 "Update.IPA" = "從 Telegram 下載 IPA";
 "Update.Repo" = "開啟儲存庫列表";
 "Update.Dismiss" = "關閉";
 
-"PrefsHeader" = "Infuse Plus偏好設定";
+"PrefsHeader" = "Infuse Plus 偏好設定";
 "ImportPrefs" = "匯入偏好設定";
 "ExportPrefs" = "匯出偏好設定";
 "RestoreDefaults" = "還原預設偏好設定";
 
 "AppInfo" = "應用程式資訊";
-"BundleAndAppIdentifierMatch" = "BundleID 與 ApplicationID 相符。";
+"BundleAndAppIdentifierMatch" = "BundleID 與 ApplicationID 相符";
 "BundleAndAppIdentifierMatchDesc" = "資料夾選取、更換 App 圖示、控制中心的媒體播放器以及動態島互動功能應該能正常運作。";
 "BundleAndAppIdentifierDontMatch" = "BundleID 與 ApplicationID 不相符";
 "DontMatchIssuesInfo" = "這意味著資料夾選取、更換 App 圖示、控制中心的媒體播放器以及動態島互動功能可能會部分或完全無法使用。";
