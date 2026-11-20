@@ -13,12 +13,12 @@
 "PlayerSettings" = "Oynatıcı";
 "DoubleTapPause" = "Oynatmak/Duraklatmak İçin Çift Dokun";
 "DoubleTapPauseDesc" = "Oynatıcıda oynatmak/duraklatmak için çift dokunma hareketini etkinleştirir";
-"PlaybackSpeedDesc" = "Oynatma ayarları menüsüne bir oynatma hızı alt menüsü ekler. Bu seçenek Infuse 8'deki varsayılan alt menüyü geçersiz kılar";
-"VolumeBoostDesc" = "Oynatma ayarları menüsüne bir ses yükseltme alt menüsü ekler. Bu seçenek Infuse 8'deki varsayılan alt menüyü geçersiz kılar";
-"NoStockPlaybackSpeed" = "Varsayılan Oynatma Hızını Gizle";
-"NoStockPlaybackSpeedDesc" = "Varsayılan oynatma hızı alt menüsünü oynatma ayarları menüsünden kaldırır";
-"NoStockVolumeBoost" = "Varsayılan Ses Yükseltmeyi Gizle";
-"NoStockVolumeBoostDesc" = "Varsayılan ses yükseltme alt menüsünü oynatma ayarları menüsünden kaldırır";
+"PlaybackSpeedDesc" = "Oynatma ayarları menüsüne bir oynatma hızı alt menüsü ekler. Bu seçenek Infuse 8'deki yerleşik alt menüyü geçersiz kılar";
+"VolumeBoostDesc" = "Oynatma ayarları menüsüne bir ses yükseltme alt menüsü ekler. Bu seçenek Infuse 8'deki yerleşik alt menüyü geçersiz kılar";
+"NoStockPlaybackSpeed" = "Yerleşik Oynatma Hızını Gizle";
+"NoStockPlaybackSpeedDesc" = "Yerleşik oynatma hızı alt menüsünü oynatma ayarları menüsünden kaldırır";
+"NoStockVolumeBoost" = "Yerleşik Ses Yükseltmeyi Gizle";
+"NoStockVolumeBoostDesc" = "Yerleşik ses yükseltme alt menüsünü oynatma ayarları menüsünden kaldırır";
 "RememberPlaybackSpeed" = "Oynatma Hızını Hatırla";
 "RememberPlaybackSpeedDesc" = "Son ayarlanan oynatma hızını hatırlar ve varsayılan oynatma hızı olarak kullanır";
 "TapToSkip" = "Atlamak İçin Dokun";
@@ -46,13 +46,13 @@
 "MutePlayerOnly" = "Yalnızca Oynatıcıyı Sessize Al";
 "MutePlayerOnlyDesc" = "Oynatıcı içi ses düğmesini kullanırken sistem sesini etkilemeden oynatıcıyı sessize alır";
 
-"IntroSettings" = "Jenerikler";
-"SkipIntros" = "Jenerikleri Atla";
-"SkipIntrosDesc" = "Algılandığında jenerikleri ve diğer bölümleri atlar";
+"IntroSettings" = "Girişler";
+"SkipIntros" = "Girişleri Atla";
+"SkipIntrosDesc" = "Algılandığında girişleri ve diğer segmentleri atlar";
 "DisplayInOverlay" = "Arayüz Düğmesini Göster";
 "DisplayInOverlayDesc" = "Oynatıcı arayüzünde bir geçiş düğmesi gösterir";
 "AudioNotification" = "Sesli Bildirim";
-"AudioNotificationDesc" = "Bir bölüm atlandığında kısa bir ses çalar";
+"AudioNotificationDesc" = "Bir segment atlandığında kısa bir ses çalar";
 "NotifyAlertDuration" = "Bildirim Uyarı Süresi";
 "SkipAlertDuration" = "Atlama Uyarı Süresi";
 "UnskipAlertDuration" = "Atlamayı Geri Alma Uyarı Süresi";
@@ -63,18 +63,18 @@
 "AutoSkip" = "Otomatik atla";
 "Ask" = "Sor";
 
-"SegmentSettings" = "Bölüm Ayarları";
-"SegmentIntro" = "Jenerik";
+"SegmentSettings" = "Segment Ayarları";
+"SegmentIntro" = "Giriş";
 "SegmentRecap" = "Özet";
 "SegmentOutro" = "Kapanış";
-"SegmentPreview" = "Ön İzleme";
+"SegmentPreview" = "Önizleme";
 "SegmentDisplay" = "İlerleme çubuğunda göster";
-"SegmentColor" = "Bölüm Rengi";
+"SegmentColor" = "Segment Rengi";
 
-"segment_intro" = "Jenerik bölümü";
-"segment_recap" = "Özet bölümü";
-"segment_outro" = "Kapanış bölümü";
-"segment_preview" = "Ön izleme bölümü";
+"segment_intro" = "Giriş segmenti";
+"segment_recap" = "Özet segmenti";
+"segment_outro" = "Kapanış segmenti";
+"segment_preview" = "Önizleme segmenti";
 
 "SkippingIntro" = "%@ atlanmak üzere...";
 "IntroDetected" = "%@ algılandı. Atlamak ister misiniz?";
@@ -82,9 +82,9 @@
 "Skip" = "Atla";
 "Unskip" = "Atlamayı Geri Al";
 
-"SetOffset" = "Sapma Ayarla";
-"EpisodeOffsetTitle" = "%@. sezon için bölüm sapması";
-"EpisodeOffsetDesc" = "Bölüm numaralandırmasının farklı olduğu durumlar için sapma gereklidir.\n\nÖrnek: TMDB S02E53 → IntroDB S02E01. -52 girin";
+"SetOffset" = "Kaydırma Ayarla";
+"EpisodeOffsetTitle" = "%@. sezon için bölüm kaydırması";
+"EpisodeOffsetDesc" = "Bölüm numaralandırmasının farklı olduğu durumlar için kaydırma gereklidir.\n\nÖrnek: TMDB S02E53 → IntroDB S02E01. -52 girin";
 "EpisodeOffsetPlaceholder" = "Pozitif veya negatif bir sayı girin";
 "Save" = "Kaydet";
 
@@ -108,7 +108,7 @@
 "StatusBarFooter" = "Bazı cihazlarda pil yüzdesi en yakın %5'e yuvarlanabilir. Bu, Apple tarafından belirlenen bir sınırlamadır.";
 
 "SpeedByLongTap" = "Oynatmayı Hızlandır";
-"SpeedByLongTapDesc" = "Oynatıcı arayüzüne basılı tutmak oynatma hızını artırır";
+"SpeedByLongTapDesc" = "Oynatıcı arayüzünü basılı tutmak oynatma hızını artırır";
 "AdjustSpeedGesture" = "Oynatma Hızını Ayarla";
 "AdjustSpeedGestureDesc" = "Uzun basma sırasında yukarı/aşağı hareketlerle oynatma hızını ayarlamaya olanak tanır";
 "CompactToast" = "Kompakt Bildirim";
@@ -125,13 +125,13 @@
 "ButtonSeekTime" = "Düğme Atlama Süresi";
 "ButtonSeekTimeDesc" = "Geri ve ileri düğmeleri için özel atlama süresini etkinleştirir";
 "DoubleTapSeekTime" = "Çift Dokunma Atlama Süresi";
-"DoubleTapSeekTimeDesc" = "Atlamak için özel çift dokunma süresini etkinleştirir";
+"DoubleTapSeekTimeDesc" = "Çift dokunarak atlama için özel süreyi etkinleştirir";
 "ControlCenterSeekTime" = "Denetim Merkezi Atlama Süresi";
 "ControlCenterSeekTimeDesc" = "Denetim Merkezi'ndeki ve Kilit Ekranı'ndaki önceki ve sonraki düğmelerini özel atlama süresiyle değiştirir";
 "Seconds" = "%ld sn";
 
 "OtherSettings" = "Diğer";
-"MRNowPlayingHeader" = "Şu An Çalınan Oynatıcısı";
+"MRNowPlayingHeader" = "Şimdi Çalınıyor";
 "ChangePosterTitle" = "Başlık ve Afiş Ayarla";
 "ChangePosterTitleDesc" = "Bildirim ve Denetim Merkezi'nde görüntülenen oynatıcı başlığını ve afişini değiştirir";
 "MovieTitle" = "Başlık";
@@ -193,8 +193,8 @@
 "SpecialThanks" = "Özel Teşekkürler";
 "Credits" = "Emeği Geçenler";
 "FirecoreDesc" = "Infuse'un yaratıcıları. Onlar olmasaydı bunların hiçbiri mümkün olmazdı";
-"TheIntroDBDesc" = "Bölüm veritabanı sağlayıcısı";
-"IntroDBDesc" = "Bölüm veritabanı sağlayıcısı";
+"TheIntroDBDesc" = "Segment veritabanı sağlayıcısı";
+"IntroDBDesc" = "Segment veritabanı sağlayıcısı";
 
 "TopContributors" = "En çok katkıda bulunanlar";
 "Translators" = "Yerelleştirme";
@@ -209,7 +209,7 @@
 
 "Photos" = "Fotoğraflar";
 "Imported" = "İçe aktarıldı";
-"MediaNotFound" = "Ortam bulunamadı";
+"MediaNotFound" = "Medya bulunamadı";
 
 "LinkImport" = "Bağlantı İçe Aktarma";
 "ImportLinksFromFile" = "Dosyadan içe aktar";
@@ -238,6 +238,6 @@
 "Welcome.Gestures" = "Esnek hareketler";
 "Welcome.GesturesDesc" = "Ekstra hareketler ve mevcut olanların iyileştirmeleri. Özel atlama süreleri ve daha fazlası";
 "Welcome.More" = "Ve çok daha fazlası";
-"Welcome.MoreDesc" = "Başlangıç sekmesini ayarlayın, Denetim Merkezi'ndeki oynatıcı afişini ve başlığını değiştirin, güncellemeleri bildirin ve çok daha fazlası";
+"Welcome.MoreDesc" = "Başlangıç sekmesini ayarlayın, Denetim Merkezi'ndeki oynatıcı afişini ve başlığını değiştirin, güncelleme bildirimleri ve çok daha fazlası";
 "SupportMe" = "Beni Destekle";
 "Continue" = "Devam Et";
